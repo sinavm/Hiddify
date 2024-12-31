@@ -1,0 +1,2 @@
+Copyright (c) 2024 John Doe  
+All rights reserved. This configuration file is provided for personal use only. Redistribution, modification, or commercial use is strictly prohibited without explicit written permission.  
