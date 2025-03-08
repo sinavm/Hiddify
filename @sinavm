@@ -33,31 +33,31 @@
     ],
     "rules": [
       {
-        "domain": "www.google.com",
-        "server": "dns-remote",
-        "rewrite_ttl": 3000
-      },
-      {
-        "domain_suffix": ".ir",
-        "server": "dns-direct"
-      },
-      {
-        "rule_set": [
-          "geoip-ir",
-          "geosite-ir"
+        "domain": [
+          "dg.laosijicc.top",
+          "xg.laosijicc.top",
+          "mg.laosijicc.top",
+          "yg.laosijicc.top",
+          "xjp.laosijicc.top",
+          "rb.laosijicc.top"
         ],
         "server": "dns-direct"
+      },
+      {
+        "domain": "cp.cloudflare.com",
+        "server": "dns-remote",
+        "rewrite_ttl": 3000
       }
     ],
     "final": "dns-remote",
     "static_ips": {
       "sky.rethinkdns.com": [
-        "104.17.148.22",
         "104.17.147.22",
+        "104.17.148.22",
         "2a06:98c1:3121::3",
         "2a06:98c1:3120::3",
-        "188.114.96.3",
-        "188.114.97.3"
+        "188.114.97.3",
+        "188.114.96.3"
       ]
     },
     "independent_cache": true
@@ -68,13 +68,11 @@
       "tag": "tun-in",
       "mtu": 9000,
       "inet4_address": "172.19.0.1/28",
-      "inet6_address": "fdfe:dcba:9876::1/126",
       "auto_route": true,
       "strict_route": true,
       "endpoint_independent_nat": true,
       "stack": "gvisor",
-      "sniff": true,
-      "domain_strategy": "prefer_ipv4"
+      "sniff": true
     },
     {
       "type": "mixed",
@@ -82,8 +80,7 @@
       "listen": "127.0.0.1",
       "listen_port": 12334,
       "sniff": true,
-      "sniff_override_destination": true,
-      "domain_strategy": "prefer_ipv4"
+      "sniff_override_destination": true
     },
     {
       "type": "direct",
@@ -98,8 +95,16 @@
       "tag": "select",
       "outbounds": [
         "auto",
-        "💫@𝗦𝗶𝗡𝗔𝗩𝗠👈🏻کانال تلگرام § 0",
-        "💫@𝗦𝗶𝗡𝗔𝗩𝗠👈🏻کانال تلگرام § 1"
+        "剩余流量：200 GB",
+        "距离下次重置剩余：22 天",
+        "套餐到期：2025-03-11",
+        "官网:laosijicc.top",
+        "香港",
+        "美国",
+        "英国",
+        "德国",
+        "新加坡",
+        "日本"
       ],
       "default": "auto",
       "interrupt_exist_connections": true
@@ -108,54 +113,142 @@
       "type": "urltest",
       "tag": "auto",
       "outbounds": [
-        "💫@𝗦𝗶𝗡𝗔𝗩𝗠👈🏻کانال تلگرام § 0",
-        "💫@𝗦𝗶𝗡𝗔𝗩𝗠👈🏻کانال تلگرام § 1"
+        "剩余流量：200 GB",
+        "距离下次重置剩余：22 天",
+        "套餐到期：2025-03-11",
+        "官网:laosijicc.top",
+        "香港",
+        "美国",
+        "英国",
+        "德国",
+        "新加坡",
+        "日本"
       ],
-      "url": "https://www.google.com/?client=safari",
+      "url": "http://cp.cloudflare.com",
       "interval": "10m0s",
       "tolerance": 1,
       "idle_timeout": "30m0s",
       "interrupt_exist_connections": true
     },
     {
-      "type": "vless",
-      "tag": "💫@𝗦𝗶𝗡𝗔𝗩𝗠👈🏻کانال تلگرام § 0",
-      "server": "185.193.30.172",
-      "server_port": 443,
-      "uuid": "7c9e3c1d-a360-4429-9189-e45a98de7fde",
+      "type": "hysteria2",
+      "tag": "剩余流量：200 GB",
+      "server": "dg.laosijicc.top",
+      "server_port": 34564,
+      "password": "e574e09a-4a2e-4708-841d-f0fbaec90f8a",
       "tls": {
         "enabled": true,
-        "server_name": "powerpow.wfft.ir",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "random"
-        }
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/sinavm",
-        "headers": {
-          "Host": "powerpow.wfft.ir"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      },
-      "packet_encoding": "xudp"
+        "server_name": "dg.laosijicc.top",
+        "insecure": true
+      }
     },
     {
-      "type": "vless",
-      "tag": "💫@𝗦𝗶𝗡𝗔𝗩𝗠👈🏻کانال تلگرام § 1",
-      "server": "188.114.97.155",
-      "server_port": 80,
-      "uuid": "7c9e3c1d-a360-4429-9189-e45a98de7fde",
-      "transport": {
-        "type": "ws",
-        "path": "/sinavm",
-        "headers": {
-          "Host": "powerpow.wfft.ir"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      },
-      "packet_encoding": "xudp"
+      "type": "hysteria2",
+      "tag": "距离下次重置剩余：22 天",
+      "server": "dg.laosijicc.top",
+      "server_port": 34564,
+      "password": "e574e09a-4a2e-4708-841d-f0fbaec90f8a",
+      "tls": {
+        "enabled": true,
+        "server_name": "dg.laosijicc.top",
+        "insecure": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "套餐到期：2025-03-11",
+      "server": "dg.laosijicc.top",
+      "server_port": 34564,
+      "password": "e574e09a-4a2e-4708-841d-f0fbaec90f8a",
+      "tls": {
+        "enabled": true,
+        "server_name": "dg.laosijicc.top",
+        "insecure": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "官网:laosijicc.top",
+      "server": "dg.laosijicc.top",
+      "server_port": 34564,
+      "password": "e574e09a-4a2e-4708-841d-f0fbaec90f8a",
+      "tls": {
+        "enabled": true,
+        "server_name": "dg.laosijicc.top",
+        "insecure": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "香港",
+      "server": "xg.laosijicc.top",
+      "server_port": 34561,
+      "password": "e574e09a-4a2e-4708-841d-f0fbaec90f8a",
+      "tls": {
+        "enabled": true,
+        "server_name": "xg.laosijicc.top",
+        "insecure": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "美国",
+      "server": "mg.laosijicc.top",
+      "server_port": 34562,
+      "password": "e574e09a-4a2e-4708-841d-f0fbaec90f8a",
+      "tls": {
+        "enabled": true,
+        "server_name": "mg.laosijicc.top",
+        "insecure": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "英国",
+      "server": "yg.laosijicc.top",
+      "server_port": 34563,
+      "password": "e574e09a-4a2e-4708-841d-f0fbaec90f8a",
+      "tls": {
+        "enabled": true,
+        "server_name": "yg.laosijicc.top",
+        "insecure": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "德国",
+      "server": "dg.laosijicc.top",
+      "server_port": 34564,
+      "password": "e574e09a-4a2e-4708-841d-f0fbaec90f8a",
+      "tls": {
+        "enabled": true,
+        "server_name": "dg.laosijicc.top",
+        "insecure": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "新加坡",
+      "server": "xjp.laosijicc.top",
+      "server_port": 34565,
+      "password": "e574e09a-4a2e-4708-841d-f0fbaec90f8a",
+      "tls": {
+        "enabled": true,
+        "server_name": "xjp.laosijicc.top",
+        "insecure": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "日本",
+      "server": "rb.laosijicc.top",
+      "server_port": 34566,
+      "password": "e574e09a-4a2e-4708-841d-f0fbaec90f8a",
+      "tls": {
+        "enabled": true,
+        "server_name": "rb.laosijicc.top",
+        "insecure": true
+      }
     },
     {
       "type": "dns",
@@ -192,33 +285,6 @@
       {
         "port": 53,
         "outbound": "dns-out"
-      },
-      {
-        "domain_suffix": ".ir",
-        "outbound": "direct"
-      },
-      {
-        "rule_set": [
-          "geoip-ir",
-          "geosite-ir"
-        ],
-        "outbound": "direct"
-      }
-    ],
-    "rule_set": [
-      {
-        "type": "remote",
-        "tag": "geoip-ir",
-        "format": "binary",
-        "url": "https://raw.githubusercontent.com/hiddify/hiddify-geo/rule-set/country/geoip-ir.srs",
-        "update_interval": "120h0m0s"
-      },
-      {
-        "type": "remote",
-        "tag": "geosite-ir",
-        "format": "binary",
-        "url": "https://raw.githubusercontent.com/hiddify/hiddify-geo/rule-set/country/geosite-ir.srs",
-        "update_interval": "120h0m0s"
       }
     ],
     "final": "select",
@@ -232,7 +298,7 @@
     },
     "clash_api": {
       "external_controller": "127.0.0.1:16756",
-      "secret": "VZX6KKwiCHbbsz20"
+      "secret": "O9H9xRX8yiz93ZTk"
     }
   }
 }
