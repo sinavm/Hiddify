@@ -34,12 +34,11 @@
     "rules": [
       {
         "domain": [
-          "dg.laosijicc.top",
-          "xg.laosijicc.top",
-          "mg.laosijicc.top",
-          "yg.laosijicc.top",
-          "xjp.laosijicc.top",
-          "rb.laosijicc.top"
+          "series-a2-mec.samanehha.co",
+          "series-a2.varzesh360.co",
+          "series-a2-mec.varzesh360.co",
+          "alistermalcolm.com",
+          "www.speedtest.net"
         ],
         "server": "dns-direct"
       },
@@ -47,15 +46,26 @@
         "domain": "cp.cloudflare.com",
         "server": "dns-remote",
         "rewrite_ttl": 3000
+      },
+      {
+        "domain_suffix": ".ir",
+        "server": "dns-direct"
+      },
+      {
+        "rule_set": [
+          "geoip-ir",
+          "geosite-ir"
+        ],
+        "server": "dns-direct"
       }
     ],
     "final": "dns-remote",
     "static_ips": {
       "sky.rethinkdns.com": [
-        "104.17.147.22",
         "104.17.148.22",
-        "2a06:98c1:3121::3",
+        "104.17.147.22",
         "2a06:98c1:3120::3",
+        "2a06:98c1:3121::3",
         "188.114.97.3",
         "188.114.96.3"
       ]
@@ -95,16 +105,16 @@
       "tag": "select",
       "outbounds": [
         "auto",
-        "剩余流量：200 GB",
-        "距离下次重置剩余：22 天",
-        "套餐到期：2025-03-11",
-        "官网:laosijicc.top",
-        "香港",
-        "美国",
-        "英国",
-        "德国",
-        "新加坡",
-        "日本"
+        "🎈@𝗦𝗶𝗡𝗔𝗩𝗠👈🏻ویژه نوروز § 0",
+        "🎉@𝗦𝗶𝗡𝗔𝗩𝗠👈🏻ویژه نوروز § 1",
+        "1-@SiNAVM 👈کانال تلگرام § 2",
+        "3-@SiNAVM 👈کانال تلگرام § 3",
+        "🇬🇧@𝐒𝐢𝐍𝐀𝐕𝐌👈کانال+تلگرام § 4",
+        "🏴󠁧󠁢󠁥󠁮󠁧󠁿@𝐒𝐢𝐍𝐀𝐕𝐌 👈کانال+تلگرام § 5",
+        "🏴󠁧󠁢󠁷󠁬󠁳󠁿@𝐒𝐢𝐍𝐀𝐕𝐌 👈کانال+تلگرام § 6",
+        "🏴󠁧󠁢󠁷󠁬󠁳󠁿@𝐒𝐢𝐍𝐀𝐕𝐌 👈کانال+تلگرام § 7",
+        "✅️ @𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی § 8",
+        "✅️ @𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی § 9"
       ],
       "default": "auto",
       "interrupt_exist_connections": true
@@ -113,16 +123,16 @@
       "type": "urltest",
       "tag": "auto",
       "outbounds": [
-        "剩余流量：200 GB",
-        "距离下次重置剩余：22 天",
-        "套餐到期：2025-03-11",
-        "官网:laosijicc.top",
-        "香港",
-        "美国",
-        "英国",
-        "德国",
-        "新加坡",
-        "日本"
+        "🎈@𝗦𝗶𝗡𝗔𝗩𝗠👈🏻ویژه نوروز § 0",
+        "🎉@𝗦𝗶𝗡𝗔𝗩𝗠👈🏻ویژه نوروز § 1",
+        "1-@SiNAVM 👈کانال تلگرام § 2",
+        "3-@SiNAVM 👈کانال تلگرام § 3",
+        "🇬🇧@𝐒𝐢𝐍𝐀𝐕𝐌👈کانال+تلگرام § 4",
+        "🏴󠁧󠁢󠁥󠁮󠁧󠁿@𝐒𝐢𝐍𝐀𝐕𝐌 👈کانال+تلگرام § 5",
+        "🏴󠁧󠁢󠁷󠁬󠁳󠁿@𝐒𝐢𝐍𝐀𝐕𝐌 👈کانال+تلگرام § 6",
+        "🏴󠁧󠁢󠁷󠁬󠁳󠁿@𝐒𝐢𝐍𝐀𝐕𝐌 👈کانال+تلگرام § 7",
+        "✅️ @𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی § 8",
+        "✅️ @𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی § 9"
       ],
       "url": "http://cp.cloudflare.com",
       "interval": "10m0s",
@@ -131,124 +141,175 @@
       "interrupt_exist_connections": true
     },
     {
-      "type": "hysteria2",
-      "tag": "剩余流量：200 GB",
-      "server": "dg.laosijicc.top",
-      "server_port": 34564,
-      "password": "e574e09a-4a2e-4708-841d-f0fbaec90f8a",
+      "type": "vless",
+      "tag": "🎈@𝗦𝗶𝗡𝗔𝗩𝗠👈🏻ویژه نوروز § 0",
+      "server": "104.21.56.44",
+      "server_port": 443,
+      "uuid": "53fa8faf-ba4b-4322-9c69-a3e5b1555049",
       "tls": {
         "enabled": true,
-        "server_name": "dg.laosijicc.top",
-        "insecure": true
+        "server_name": "301.POoRIam.ir",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "randomized"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/Telegram-sinavm-sinavm",
+        "headers": {
+          "Host": "301.pooriam.ir"
+        },
+        "max_early_data": 2560,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      },
+      "packet_encoding": "xudp"
+    },
+    {
+      "type": "vless",
+      "tag": "🎉@𝗦𝗶𝗡𝗔𝗩𝗠👈🏻ویژه نوروز § 1",
+      "server": "www.speedtest.net",
+      "server_port": 80,
+      "uuid": "53fa8faf-ba4b-4322-9c69-a3e5b1555049",
+      "transport": {
+        "type": "ws",
+        "path": "/sinavm-sinavm",
+        "headers": {
+          "Host": "redfree8w.pooriam.ir"
+        },
+        "max_early_data": 2550,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      },
+      "packet_encoding": "xudp"
+    },
+    {
+      "type": "trojan",
+      "tag": "1-@SiNAVM 👈کانال تلگرام § 2",
+      "server": "www.speedtest.net",
+      "server_port": 443,
+      "password": "Pooria",
+      "tls": {
+        "enabled": true,
+        "server_name": "301.pOORiAm.ir",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "randomized"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/trPyOrWMfkHd15oxiI",
+        "headers": {
+          "Host": "301.pooriam.ir"
+        },
+        "max_early_data": 1520,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
       }
     },
     {
-      "type": "hysteria2",
-      "tag": "距离下次重置剩余：22 天",
-      "server": "dg.laosijicc.top",
-      "server_port": 34564,
-      "password": "e574e09a-4a2e-4708-841d-f0fbaec90f8a",
+      "type": "vless",
+      "tag": "3-@SiNAVM 👈کانال تلگرام § 3",
+      "server": "104.21.56.44",
+      "server_port": 443,
+      "uuid": "53fa8faf-ba4b-4322-9c69-a3e5b1555049",
       "tls": {
         "enabled": true,
-        "server_name": "dg.laosijicc.top",
-        "insecure": true
-      }
+        "server_name": "301.POoRIam.ir",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "randomized"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/Telegram-SiNAVM",
+        "headers": {
+          "Host": "301.pooriam.ir"
+        },
+        "max_early_data": 2560,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      },
+      "packet_encoding": "xudp"
     },
     {
-      "type": "hysteria2",
-      "tag": "套餐到期：2025-03-11",
-      "server": "dg.laosijicc.top",
-      "server_port": 34564,
-      "password": "e574e09a-4a2e-4708-841d-f0fbaec90f8a",
-      "tls": {
-        "enabled": true,
-        "server_name": "dg.laosijicc.top",
-        "insecure": true
-      }
+      "type": "shadowsocks",
+      "tag": "🇬🇧@𝐒𝐢𝐍𝐀𝐕𝐌👈کانال+تلگرام § 4",
+      "server": "series-a2-mec.samanehha.co",
+      "server_port": 443,
+      "method": "chacha20-ietf-poly1305",
+      "password": "u17T3BvpYaaiuW2c"
     },
     {
-      "type": "hysteria2",
-      "tag": "官网:laosijicc.top",
-      "server": "dg.laosijicc.top",
-      "server_port": 34564,
-      "password": "e574e09a-4a2e-4708-841d-f0fbaec90f8a",
-      "tls": {
-        "enabled": true,
-        "server_name": "dg.laosijicc.top",
-        "insecure": true
-      }
+      "type": "shadowsocks",
+      "tag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿@𝐒𝐢𝐍𝐀𝐕𝐌 👈کانال+تلگرام § 5",
+      "server": "series-a2.varzesh360.co",
+      "server_port": 443,
+      "method": "chacha20-ietf-poly1305",
+      "password": "mps3FwmDjLrWaOVg"
     },
     {
-      "type": "hysteria2",
-      "tag": "香港",
-      "server": "xg.laosijicc.top",
-      "server_port": 34561,
-      "password": "e574e09a-4a2e-4708-841d-f0fbaec90f8a",
-      "tls": {
-        "enabled": true,
-        "server_name": "xg.laosijicc.top",
-        "insecure": true
-      }
+      "type": "shadowsocks",
+      "tag": "🏴󠁧󠁢󠁷󠁬󠁳󠁿@𝐒𝐢𝐍𝐀𝐕𝐌 👈کانال+تلگرام § 6",
+      "server": "series-a2-mec.varzesh360.co",
+      "server_port": 443,
+      "method": "chacha20-ietf-poly1305",
+      "password": "u17T3BvpYaaiuW2c"
     },
     {
-      "type": "hysteria2",
-      "tag": "美国",
-      "server": "mg.laosijicc.top",
-      "server_port": 34562,
-      "password": "e574e09a-4a2e-4708-841d-f0fbaec90f8a",
-      "tls": {
-        "enabled": true,
-        "server_name": "mg.laosijicc.top",
-        "insecure": true
-      }
+      "type": "shadowsocks",
+      "tag": "🏴󠁧󠁢󠁷󠁬󠁳󠁿@𝐒𝐢𝐍𝐀𝐕𝐌 👈کانال+تلگرام § 7",
+      "server": "series-a2-mec.varzesh360.co",
+      "server_port": 443,
+      "method": "chacha20-ietf-poly1305",
+      "password": "u17T3BvpYaaiuW2c"
     },
     {
-      "type": "hysteria2",
-      "tag": "英国",
-      "server": "yg.laosijicc.top",
-      "server_port": 34563,
-      "password": "e574e09a-4a2e-4708-841d-f0fbaec90f8a",
+      "type": "vless",
+      "tag": "✅️ @𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی § 8",
+      "server": "alistermalcolm.com",
+      "server_port": 443,
+      "uuid": "6d91bc33-2d86-4839-9205-02024ff483c7",
       "tls": {
         "enabled": true,
-        "server_name": "yg.laosijicc.top",
-        "insecure": true
-      }
+        "server_name": "wtestfrtt.requesttest.cloudns.org",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/sinavm=5.180.30.112",
+        "headers": {
+          "Host": "wtestfrtt.requesttest.cloudns.org"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      },
+      "packet_encoding": "xudp"
     },
     {
-      "type": "hysteria2",
-      "tag": "德国",
-      "server": "dg.laosijicc.top",
-      "server_port": 34564,
-      "password": "e574e09a-4a2e-4708-841d-f0fbaec90f8a",
+      "type": "vless",
+      "tag": "✅️ @𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی § 9",
+      "server": "alistermalcolm.com",
+      "server_port": 443,
+      "uuid": "6d91bc33-2d86-4839-9205-02024ff483c7",
       "tls": {
         "enabled": true,
-        "server_name": "dg.laosijicc.top",
-        "insecure": true
-      }
-    },
-    {
-      "type": "hysteria2",
-      "tag": "新加坡",
-      "server": "xjp.laosijicc.top",
-      "server_port": 34565,
-      "password": "e574e09a-4a2e-4708-841d-f0fbaec90f8a",
-      "tls": {
-        "enabled": true,
-        "server_name": "xjp.laosijicc.top",
-        "insecure": true
-      }
-    },
-    {
-      "type": "hysteria2",
-      "tag": "日本",
-      "server": "rb.laosijicc.top",
-      "server_port": 34566,
-      "password": "e574e09a-4a2e-4708-841d-f0fbaec90f8a",
-      "tls": {
-        "enabled": true,
-        "server_name": "rb.laosijicc.top",
-        "insecure": true
-      }
+        "server_name": "wtestfrtt.requesttest.cloudns.org",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/sinavm-sinavm=5.180.30.112",
+        "headers": {
+          "Host": "wtestfrtt.requesttest.cloudns.org"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      },
+      "packet_encoding": "xudp"
     },
     {
       "type": "dns",
@@ -285,6 +346,33 @@
       {
         "port": 53,
         "outbound": "dns-out"
+      },
+      {
+        "domain_suffix": ".ir",
+        "outbound": "direct"
+      },
+      {
+        "rule_set": [
+          "geoip-ir",
+          "geosite-ir"
+        ],
+        "outbound": "direct"
+      }
+    ],
+    "rule_set": [
+      {
+        "type": "remote",
+        "tag": "geoip-ir",
+        "format": "binary",
+        "url": "https://raw.githubusercontent.com/hiddify/hiddify-geo/rule-set/country/geoip-ir.srs",
+        "update_interval": "120h0m0s"
+      },
+      {
+        "type": "remote",
+        "tag": "geosite-ir",
+        "format": "binary",
+        "url": "https://raw.githubusercontent.com/hiddify/hiddify-geo/rule-set/country/geosite-ir.srs",
+        "update_interval": "120h0m0s"
       }
     ],
     "final": "select",
@@ -298,7 +386,7 @@
     },
     "clash_api": {
       "external_controller": "127.0.0.1:16756",
-      "secret": "O9H9xRX8yiz93ZTk"
+      "secret": "8LOpyxFy69z3zi2_"
     }
   }
 }
