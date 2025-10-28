@@ -7,14 +7,14 @@
     <meta http-equiv="refresh" content="3; url=hiddify://import/https://github.com/sinavm/Hiddify/raw/refs/heads/main/@sinavm#@𝗦𝗶𝗡𝗔𝗩𝗠👈🏻|Hiddify">
 
     <!-- SEO Meta -->
-    <title>کانفیگ هیدیفای رایگان - SiNAVM | سینا وی ام | SiNAVM</title>
-    <meta name="description" content="کانفیگ‌های رایگان هیدیفای (Hiddify) با بروزرسانی خودکار از کانال تلگرام SiNAVM. دسترسی امن و سریع به اینترنت بدون محدودیت. سینا وی ام، SiNAVM، فیلترشکن رایگان.">
-    <meta name="keywords" content="سینا وی ام, SiNAVM, هیدیفای, Hiddify, کانفیگ رایگان, فیلترشکن, VPN رایگان, V2Ray, Sing-box">
+    <title>کانفیگ هیدیفای رایگان - SiNAVM | سینا وی ام</title>
+    <meta name="description" content="کانفیگ‌های رایگان هیدیفای (Hiddify) با بروزرسانی خودکار از کانال تلگرام SiNAVM. دسترسی امن و سریع به اینترنت بدون محدودیت. سینا وی ام، سیناوی ام، فیلترشکن رایگان.">
+    <meta name="keywords" content="سینا وی ام, سیناوی ام, SiNAVM, هیدیفای, Hiddify, کانفیگ رایگان, فیلترشکن, VPN رایگان, V2Ray, Sing-box">
     <meta name="robots" content="index, follow">
     <meta name="author" content="Sina (sinavm)">
     <link rel="canonical" href="https://sinavm.github.io/Hiddify/">
 
-    <!-- Open Graph / Social -->
+    <!-- Open Graph -->
     <meta property="og:title" content="کانفیگ هیدیفای رایگان - SiNAVM">
     <meta property="og:description" content="کانفیگ‌های رایگان و به‌روز هیدیفای از توسعه‌دهنده مستقل سینا. بدون جمع‌آوری داده، متن‌باز و امن.">
     <meta property="og:image" content="https://sinavm.github.io/sinavm/logo/sinavm_logo.jpg">
@@ -25,11 +25,9 @@
     <link rel="icon" href="https://sinavm.github.io/sinavm/logo/sinavm_logo.jpg" type="image/jpeg">
 
     <!-- Fonts -->
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Vazirmatn:wght@400;500;700&display=swap" rel="stylesheet">
 
-    <!-- CSS Variables & Styles -->
+    <!-- CSS -->
     <style>
         :root {
             --clr-bg: #0d0d0d;
@@ -59,11 +57,11 @@
             flex-direction: column;
             overflow-x: hidden;
             line-height: 1.6;
+            position: relative;
         }
 
         a { text-decoration: none; color: inherit; }
 
-        /* Layout */
         header, main, aside, footer { padding: 1rem; }
         header { text-align: center; }
         main { flex: 1; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 1.5rem; }
@@ -71,7 +69,6 @@
         .aside-left { left: 1rem; }
         .aside-right { right: 1rem; align-items: flex-end; }
 
-        /* Components */
         .logo {
             width: 80px; height: 80px;
             border-radius: 50%;
@@ -124,8 +121,6 @@
             opacity: 0;
             animation: fadeUp 0.8s forwards 1.4s;
             cursor: pointer;
-            user-select: none;
-            position: relative;
         }
         .import-btn:hover {
             transform: translateY(-4px) scale(1.05);
@@ -133,24 +128,34 @@
             text-shadow: 0 0 15px #fff;
         }
 
-        .copy-feedback {
-            position: absolute;
-            top: -50px; left: 50%;
-            transform: translateX(-50%);
-            background: rgba(0, 200, 0, 0.9);
-            color: #fff;
-            padding: 0.6rem 1.2rem;
+        /* Toast Notification */
+        .toast {
+            position: fixed;
+            bottom: 2rem;
+            left: 50%;
+            transform: translateX(-50%) translateY(100px);
+            background: rgba(0, 0, 0, 0.9);
+            color: #0f0;
+            padding: 1rem 2rem;
             border-radius: var(--radius);
-            font-size: 0.95rem;
-            white-space: nowrap;
+            font-weight: 600;
+            box-shadow: 0 0 20px rgba(0, 255, 0, 0.4);
             opacity: 0;
-            pointer-events: none;
-            transition: opacity 0.4s ease, transform 0.4s ease;
-            box-shadow: var(--shadow-md);
+            visibility: hidden;
+            transition: all 0.5s ease;
+            z-index: 1000;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
         }
-        .copy-feedback.show {
+        .toast.show {
             opacity: 1;
-            transform: translateX(-50%) translateY(10px);
+            visibility: visible;
+            transform: translateX(-50%) translateY(0);
+        }
+        .toast::before {
+            content: '✓';
+            font-size: 1.2rem;
         }
 
         /* Sidebar Boxes */
@@ -169,7 +174,7 @@
             background-size: 200% 200%;
             animation: gradientShift 4s ease infinite;
         }
-        .box img { width: 24px; height: 24px; filter: brightness(0) invert(1); }
+        .box img { width: 24px; height: 24px; }
         .box:hover { transform: scale(1.1) rotate(3deg); box-shadow: var(--shadow-md); }
 
         .telegram-box { background: linear-gradient(135deg, #00d9ff, #0088cc); }
@@ -209,14 +214,13 @@
             transition: var(--transition);
             color: #fff;
         }
-        .install-link img { width: 22px; height: 22px; filter: brightness(0) invert(1); }
+        .install-link img { width: 22px; height: 22px; }
         .install-link.android { background: linear-gradient(135deg, var(--clr-android), #009900); }
         .install-link.iphone { background: linear-gradient(135deg, var(--clr-iphone), #00b7eb); }
         .install-link.windows { background: linear-gradient(135deg, var(--clr-windows), #4b0082); }
         .install-link.mac { background: linear-gradient(135deg, var(--clr-mac), #ff4500); }
         .install-link:hover { transform: translateX(-4px); box-shadow: 0 0 20px rgba(255,255,255,0.4); }
 
-        /* Footer */
         footer {
             text-align: center;
             font-size: 0.9rem;
@@ -226,7 +230,6 @@
         footer a { color: var(--clr-gold); margin: 0 0.5rem; }
         footer a:hover { text-decoration: underline; }
 
-        /* Animations */
         @keyframes fadeUp {
             to { opacity: 1; transform: translateY(0); }
         }
@@ -243,7 +246,6 @@
             to { opacity: 1; transform: translateY(0); }
         }
 
-        /* Responsive */
         @media (max-width: 768px) {
             .title { font-size: 1.5rem; }
             .logo { width: 60px; height: 60px; }
@@ -274,9 +276,8 @@
     <main>
         <p class="status" aria-live="polite">در حال انتقال کانفیگ به هیدیفای...</p>
         <p class="info">اگر بعد از ۳ ثانیه منتقل نشدید، روی دکمه زیر کلیک کنید:</p>
-        <div class="import-btn" onclick="copyConfigLink()" aria-label="کپی لینک کانفیگ و نمایش پیام">
+        <div class="import-btn" onclick="copyConfigLink()" aria-label="کپی و ورود دستی کانفیگ هیدیفای">
             🚀 ورود دستی کانفیگ Hiddify
-            <div class="copy-feedback" id="copyFeedback">لینک کانفیگ کپی شد<br>وارد برنامه کنید</div>
         </div>
 
         <nav aria-label="لینک‌های قانونی">
@@ -288,10 +289,10 @@
 
     <aside class="aside-left">
         <a href="https://t.me/sinavm" target="_blank" class="box telegram-box" aria-label="کانال تلگرام SiNAVM">
-            <img src="https://sinavm.github.io/sinavm/logo/telegram.png" alt=""> تلگرام
+            <img src="https://sinavm.github.io/sinavm/logo/telegram.png" alt="لوگوی تلگرام"> تلگرام
         </a>
         <a href="https://github.com/sinavm" target="_blank" class="box github-box" aria-label="گیت‌هاب سینا وی ام">
-            <img src="https://sinavm.github.io/sinavm/logo/github-mark.png" alt=""> گیت‌هاب
+            <img src="https://sinavm.github.io/sinavm/logo/github-mark.png" alt="لوگوی گیت‌هاب"> گیت‌هاب
         </a>
         <div class="box visit-box" aria-live="polite">
             بازدید کل: <span id="total-visit-count">...</span>
@@ -305,16 +306,16 @@
             </div>
             <div class="install-dropdown" id="installDropdown">
                 <a href="https://play.google.com/store/apps/details?id=app.hiddify.com&hl=en" target="_blank" class="install-link android" onclick="event.stopPropagation()">
-                    <img src="https://sinavm.github.io/sinavm/logo/hiddify.png" alt=""> اندروید
+                    <img src="https://sinavm.github.io/sinavm/logo/hiddify.png" alt="لوگوی Hiddify - اندروید"> اندروید
                 </a>
                 <a href="https://apps.apple.com/app/id6596777532" target="_blank" class="install-link iphone" onclick="event.stopPropagation()">
-                    <img src="https://sinavm.github.io/sinavm/logo/hiddify.png" alt=""> آیفون
+                    <img src="https://sinavm.github.io/sinavm/logo/hiddify.png" alt="لوگوی Hiddify - آیفون"> آیفون
                 </a>
                 <a href="https://hiddify.com/fa/app/How-to-install-Hiddify-app/#_2" target="_blank" class="install-link windows" onclick="event.stopPropagation()">
-                    <img src="https://sinavm.github.io/sinavm/logo/hiddify.png" alt=""> ویندوز
+                    <img src="https://sinavm.github.io/sinavm/logo/hiddify.png" alt="لوگوی Hiddify - ویندوز"> ویندوز
                 </a>
                 <a href="https://apps.apple.com/app/id6596777532" target="_blank" class="install-link mac" onclick="event.stopPropagation()">
-                    <img src="https://sinavm.github.io/sinavm/logo/hiddify.png" alt=""> مک
+                    <img src="https://sinavm.github.io/sinavm/logo/hiddify.png" alt="لوگوی Hiddify - مک"> مک
                 </a>
             </div>
         </div>
@@ -324,23 +325,22 @@
         <p>طراحی و توسعه با ذهن باز توسط <a href="https://t.me/SinaVM" target="_blank">SiNAVM</a> 🪄</p>
     </footer>
 
+    <!-- Toast Notification -->
+    <div class="toast" id="toast">
+        لینک کانفیگ کپی شد<br>وارد برنامه کنید
+    </div>
+
     <script>
-        // لینک کانفیگ
-        const configUrl = 'https://github.com/sinavm/Hiddify/raw/refs/heads/main/@sinavm#@𝗦𝗶𝗡𝗔𝗩𝗠👈🏻|Hiddify';
-
-        // کپی لینک + نمایش پیام
+        // کپی لینک کانفیگ
         function copyConfigLink() {
-            navigator.clipboard.writeText(configUrl).then(() => {
-                const feedback = document.getElementById('copyFeedback');
-                feedback.classList.add('show');
-                setTimeout(() => feedback.classList.remove('show'), 3000);
-            }).catch(err => {
-                console.error('خطا در کپی:', err);
-                alert('کپی نشد! لطفاً دستی کپی کنید:\n' + configUrl);
+            const link = "https://github.com/sinavm/Hiddify/raw/refs/heads/main/@sinavm#@𝗦𝗶𝗡𝗔𝗩𝗠👈🏻|Hiddify";
+            navigator.clipboard.writeText(link).then(() => {
+                const toast = document.getElementById('toast');
+                toast.classList.add('show');
+                setTimeout(() => toast.classList.remove('show'), 3000);
+            }).catch(() => {
+                alert("کپی نشد! لطفاً دستی کپی کنید:\n" + link);
             });
-
-            // تلاش برای باز کردن hiddify:// (در صورت پشتیبانی مرورگر/دستگاه)
-            window.location.href = 'hiddify://import/' + encodeURIComponent(configUrl);
         }
 
         // Toggle Dropdown
