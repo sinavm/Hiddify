@@ -1,207 +1,373 @@
 <!DOCTYPE html>
-<html lang="fa">
+<html lang="fa" dir="rtl">
 <head>
+    <!-- Basic Meta -->
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="refresh" content="3; url=hiddify://import/https://github.com/sinavm/Hiddify/raw/refs/heads/main/@sinavm#@𝗦𝗶𝗡𝗔𝗩𝗠👈🏻|Hiddify"/>
-    <title>کانفیگ هدیفای - Hiddify</title>
-    
+    <meta http-equiv="refresh" content="3; url=hiddify://import/https://github.com/sinavm/Hiddify/raw/refs/heads/main/@sinavm#@𝗦𝗶𝗡𝗔𝗩𝗠👈🏻|Hiddify">
+
+    <!-- SEO Meta -->
+    <title>کانفیگ هیدیفای رایگان - SiNAVM | سینا وی ام | SiNAVM</title>
+    <meta name="description" content="کانفیگ‌های رایگان هیدیفای (Hiddify) با بروزرسانی خودکار از کانال تلگرام SiNAVM. دسترسی امن و سریع به اینترنت بدون محدودیت. سینا وی ام، SiNAVM، فیلترشکن رایگان.">
+    <meta name="keywords" content="سینا وی ام, SiNAVM, هیدیفای, Hiddify, کانفیگ رایگان, فیلترشکن, VPN رایگان, V2Ray, Sing-box">
+    <meta name="robots" content="index, follow">
+    <meta name="author" content="Sina (sinavm)">
+    <link rel="canonical" href="https://sinavm.github.io/Hiddify/">
+
+    <!-- Open Graph / Social -->
+    <meta property="og:title" content="کانفیگ هیدیفای رایگان - SiNAVM">
+    <meta property="og:description" content="کانفیگ‌های رایگان و به‌روز هیدیفای از توسعه‌دهنده مستقل سینا. بدون جمع‌آوری داده، متن‌باز و امن.">
+    <meta property="og:image" content="https://sinavm.github.io/sinavm/logo/sinavm_logo.jpg">
+    <meta property="og:url" content="https://sinavm.github.io/Hiddify/">
+    <meta property="og:type" content="website">
+
+    <!-- Favicon -->
+    <link rel="icon" href="https://sinavm.github.io/sinavm/logo/sinavm_logo.jpg" type="image/jpeg">
+
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Vazirmatn:wght@400;500;700&display=swap" rel="stylesheet">
+
+    <!-- CSS Variables & Styles -->
     <style>
+        :root {
+            --clr-bg: #0d0d0d;
+            --clr-bg-alt: #121212;
+            --clr-text: #ffffff;
+            --clr-accent: #00d9ff;
+            --clr-gold: #ffcc00;
+            --clr-github: #9b59b6;
+            --clr-android: #00cc00;
+            --clr-iphone: #1e90ff;
+            --clr-windows: #6a0dad;
+            --clr-mac: #ff8c00;
+            --radius: 12px;
+            --transition: all 0.35s cubic-bezier(0.4, 0, 0.2, 1);
+            --shadow-sm: 0 4px 15px rgba(0, 0, 0, 0.3);
+            --shadow-md: 0 8px 30px rgba(0, 0, 0, 0.5);
+            --shadow-glow: 0 0 20px rgba(0, 217, 255, 0.6);
+        }
+
+        *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
         body {
-            font-family: 'Tahoma', sans-serif;
-            text-align: center;
-            direction: rtl;
-            background: linear-gradient(135deg, #0d0d0d, #121212);
-            color: #ffffff;
-            margin: 0;
-            padding: 0;
+            font-family: 'Vazirmatn', Tahoma, sans-serif;
+            background: linear-gradient(135deg, var(--clr-bg), var(--clr-bg-alt));
+            color: var(--clr-text);
             min-height: 100vh;
             display: flex;
             flex-direction: column;
             overflow-x: hidden;
+            line-height: 1.6;
         }
 
-        .content {
-            flex: 1;
-            display: flex;
-            flex-direction: column;
-            justify-content: center;
-            align-items: center;
+        a { text-decoration: none; color: inherit; }
+
+        /* Layout */
+        header, main, aside, footer { padding: 1rem; }
+        header { text-align: center; }
+        main { flex: 1; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 1.5rem; }
+        aside { position: fixed; top: 50%; transform: translateY(-50%); display: flex; flex-direction: column; gap: 1rem; z-index: 10; }
+        .aside-left { left: 1rem; }
+        .aside-right { right: 1rem; align-items: flex-end; }
+
+        /* Components */
+        .logo {
+            width: 80px; height: 80px;
+            border-radius: 50%;
+            border: 3px solid #fff;
+            object-fit: cover;
+            box-shadow: var(--shadow-sm);
+            opacity: 0;
+            animation: fadeUp 0.8s forwards 0.3s;
+        }
+
+        .title {
+            font-size: 1.75rem;
+            font-weight: 700;
+            opacity: 0;
+            animation: fadeUp 0.8s forwards 0.5s;
+        }
+
+        .subtitle {
+            font-size: 1.1rem;
+            color: var(--clr-gold);
+            opacity: 0;
+            animation: fadeUp 0.8s forwards 0.7s;
+        }
+
+        .separator {
+            width: 60%; height: 2px;
+            background: linear-gradient(90deg, transparent, #fff, transparent);
+            margin: 1rem 0;
+            opacity: 0;
+            animation: fadeUp 0.8s forwards 0.9s;
+        }
+
+        .status, .info {
+            opacity: 0;
+            animation: fadeUp 0.8s forwards;
+        }
+        .status { font-size: 1.35rem; animation-delay: 1s; }
+        .info { font-size: 1rem; animation-delay: 1.2s; }
+
+        .import-btn {
+            display: inline-block;
+            background: linear-gradient(45deg, var(--clr-accent), #00b7eb);
+            color: #fff;
+            font-weight: 600;
+            font-size: 1.3rem;
+            padding: 0.9rem 2rem;
+            border-radius: var(--radius);
+            box-shadow: var(--shadow-glow);
+            transition: var(--transition);
+            opacity: 0;
+            animation: fadeUp 0.8s forwards 1.4s;
+            cursor: pointer;
+            user-select: none;
             position: relative;
         }
-
-        .header {
-            font-size: 24px;
-            font-weight: bold;
-            margin-bottom: 5px;
-            opacity: 0;
-            transform: translateY(-30px);
-            animation: fadeSlideIn 1s forwards;
-        }
-        .header:first-child { animation-delay: 0.2s; }
-        .header:last-child { animation-delay: 0.4s; }
-        .header a { text-decoration: none; color: #ffcc00; }
-        .header a:hover { text-decoration: underline; color: #ffd700; }
-
-        .status-text {
-            font-size: 20px;
-            margin-bottom: 10px;
-            opacity: 0;
-            transform: translateY(-50px);
-            animation: slideInOnce 1s forwards 0.6s;
-        }
-        .info-text {
-            font-size: 16px;
-            margin-bottom: 20px;
-            opacity: 0;
-            transform: translateY(-50px);
-            animation: slideInOnce 1s forwards 0.8s;
+        .import-btn:hover {
+            transform: translateY(-4px) scale(1.05);
+            box-shadow: 0 0 30px rgba(0, 217, 255, 0.9);
+            text-shadow: 0 0 15px #fff;
         }
 
-        @keyframes fadeSlideIn { to { opacity: 1; transform: translateY(0); } }
-        @keyframes slideInOnce {
+        .copy-feedback {
+            position: absolute;
+            top: -50px; left: 50%;
+            transform: translateX(-50%);
+            background: rgba(0, 200, 0, 0.9);
+            color: #fff;
+            padding: 0.6rem 1.2rem;
+            border-radius: var(--radius);
+            font-size: 0.95rem;
+            white-space: nowrap;
+            opacity: 0;
+            pointer-events: none;
+            transition: opacity 0.4s ease, transform 0.4s ease;
+            box-shadow: var(--shadow-md);
+        }
+        .copy-feedback.show {
+            opacity: 1;
+            transform: translateX(-50%) translateY(10px);
+        }
+
+        /* Sidebar Boxes */
+        .box {
+            min-width: 140px;
+            padding: 0.8rem 1rem;
+            border-radius: var(--radius);
+            font-weight: 600;
+            text-align: center;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 0.5rem;
+            transition: var(--transition);
+            box-shadow: var(--shadow-sm);
+            background-size: 200% 200%;
+            animation: gradientShift 4s ease infinite;
+        }
+        .box img { width: 24px; height: 24px; filter: brightness(0) invert(1); }
+        .box:hover { transform: scale(1.1) rotate(3deg); box-shadow: var(--shadow-md); }
+
+        .telegram-box { background: linear-gradient(135deg, #00d9ff, #0088cc); }
+        .github-box { background: linear-gradient(135deg, #9b59b6, #6e5494); }
+        .visit-box { background: rgba(0,0,0,0.5); font-size: 0.9rem; animation: pulse 3s infinite; }
+
+        /* Install Dropdown */
+        .install-wrapper { position: relative; }
+        .install-box {
+            background: linear-gradient(135deg, #ff4500, #ff8c00);
+            cursor: pointer;
+        }
+        .install-dropdown {
+            position: absolute;
+            top: 100%; right: 0;
+            background: rgba(255,255,255,0.08);
+            backdrop-filter: blur(10px);
+            border-radius: var(--radius);
+            padding: 0.8rem;
+            display: none;
+            flex-direction: column;
+            gap: 0.6rem;
+            min-width: 160px;
+            box-shadow: var(--shadow-md);
+            z-index: 100;
+        }
+        .install-dropdown.show { display: flex; animation: slideDown 0.4s ease; }
+
+        .install-link {
+            padding: 0.7rem 1rem;
+            border-radius: var(--radius);
+            font-weight: 600;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 0.5rem;
+            transition: var(--transition);
+            color: #fff;
+        }
+        .install-link img { width: 22px; height: 22px; filter: brightness(0) invert(1); }
+        .install-link.android { background: linear-gradient(135deg, var(--clr-android), #009900); }
+        .install-link.iphone { background: linear-gradient(135deg, var(--clr-iphone), #00b7eb); }
+        .install-link.windows { background: linear-gradient(135deg, var(--clr-windows), #4b0082); }
+        .install-link.mac { background: linear-gradient(135deg, var(--clr-mac), #ff4500); }
+        .install-link:hover { transform: translateX(-4px); box-shadow: 0 0 20px rgba(255,255,255,0.4); }
+
+        /* Footer */
+        footer {
+            text-align: center;
+            font-size: 0.9rem;
+            color: #aaa;
+            padding-bottom: 2rem;
+        }
+        footer a { color: var(--clr-gold); margin: 0 0.5rem; }
+        footer a:hover { text-decoration: underline; }
+
+        /* Animations */
+        @keyframes fadeUp {
+            to { opacity: 1; transform: translateY(0); }
+        }
+        @keyframes gradientShift {
+            0%, 100% { background-position: 0% 50%; }
+            50% { background-position: 100% 50%; }
+        }
+        @keyframes pulse {
+            0%, 100% { opacity: 0.8; }
+            50% { opacity: 1; }
+        }
+        @keyframes slideDown {
+            from { opacity: 0; transform: translateY(-10px); }
             to { opacity: 1; transform: translateY(0); }
         }
 
-        .redirect-link {
-            font-size: 22px;
-            font-weight: bold;
-            color: #00d9ff;
-            text-decoration: none;
-            display: block;
-            margin-bottom: 20px;
-            opacity: 0;
-            transform: translateY(-50px);
-            animation: slideInOnce 1s forwards 1s;
-            transition: all 0.4s ease-in-out;
-        }
-        .redirect-link:hover {
-            color: #ffffff;
-            text-shadow: 0 0 20px rgba(0,217,255,1),0 0 40px rgba(0,136,204,0.6);
-            transform: scale(1.07) rotate(-1deg);
-        }
-
-        .left-container {
-            position: fixed;
-            bottom: 70px;
-            left: 10px;
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            gap: 10px;
-            z-index: 10;
-        }
-
-        .telegram-box, .github-box, .visit-box {
-            border-radius: 10px;
-            font-weight: bold;
-            text-align: center;
-            width: 140px;
-            padding: 10px;
-            transition: all 0.3s ease;
-        }
-
-        /* Telegram */
-        .telegram-box {
-            display: flex; align-items: center; justify-content: center;
-            background: linear-gradient(270deg, #00d9ff, #0088cc, #00d9ff);
-            background-size: 600% 600%;
-            color: white;
-            animation: pulseGradient 3s ease infinite;
-            box-shadow: 0 0 10px rgba(0,217,255,0.6), 0 0 20px rgba(0,136,204,0.3);
-        }
-        .telegram-box img { width: 22px; height: 22px; margin-left: 5px; }
-        .telegram-box:hover { transform: scale(1.12) rotate(-2deg); box-shadow: 0 0 25px rgba(0,217,255,1),0 0 50px rgba(0,136,204,0.8); }
-
-        /* Github */
-        .github-box {
-            display: flex; align-items: center; justify-content: center;
-            background: linear-gradient(270deg, #6e5494, #9b59b6, #6e5494);
-            background-size: 600% 600%;
-            color: white;
-            animation: pulseGradient 3s ease infinite;
-            box-shadow: 0 0 10px rgba(155,89,182,0.6),0 0 20px rgba(110,84,148,0.3);
-            cursor: pointer;
-            text-decoration: none;
-        }
-        .github-box img { width: 22px; height: 22px; margin-left: 5px; }
-        .github-box:hover { transform: scale(1.12) rotate(2deg); box-shadow: 0 0 25px rgba(155,89,182,1),0 0 50px rgba(110,84,148,0.8); }
-
-        /* Visit count */
-        .visit-box {
-            background: rgba(0,0,0,0.5);
-            color: white;
-            padding: 6px 12px;
-            font-size: 14px;
-            box-shadow: 0 0 5px rgba(0,255,255,0.3);
-            animation: pulseGradient 4s ease infinite;
-        }
-        .visit-box:hover { transform: scale(1.05); box-shadow: 0 0 15px rgba(0,255,255,0.7); }
-
-        @keyframes pulseGradient {
-            0% { background-position: 0% 50%; }
-            50% { background-position: 100% 50%; }
-            100% { background-position: 0% 50%; }
-        }
-
-        .footer { background: rgba(0,0,0,0.7); padding: 10px; font-size: 16px; text-align: center; color: #bbb; margin-top: auto; }
-        .footer a { color: #00d9ff; text-decoration: none; }
-        .footer a:hover { text-decoration: underline; }
-
+        /* Responsive */
         @media (max-width: 768px) {
-            .redirect-link { font-size: 18px; }
-            .header { font-size: 20px; }
-            .status-text { font-size: 18px; }
-            .info-text { font-size: 14px; }
-            .telegram-box, .github-box, .visit-box { width: 120px; font-size: 13px; }
-            .telegram-box img, .github-box img { width: 18px; height: 18px; }
+            .title { font-size: 1.5rem; }
+            .logo { width: 60px; height: 60px; }
+            .box, .install-link { min-width: 120px; font-size: 0.9rem; padding: 0.6rem; }
+            .import-btn { font-size: 1.1rem; padding: 0.8rem 1.5rem; }
+            .aside-left, .aside-right { position: static; transform: none; flex-direction: row; justify-content: center; gap: 1rem; }
+            .install-dropdown { position: static; margin-top: 0.5rem; }
         }
+
         @media (max-width: 480px) {
-            body { padding: 10px; }
-            .redirect-link { font-size: 16px; }
-            .header { font-size: 18px; }
-            .status-text { font-size: 16px; }
-            .info-text { font-size: 14px; }
-            .telegram-box, .github-box, .visit-box { width: 110px; font-size: 12px; padding: 6px; }
+            .title { font-size: 1.3rem; }
+            .logo { width: 50px; height: 50px; }
+            .box, .install-link { min-width: 100px; font-size: 0.8rem; }
+            .import-btn { font-size: 1rem; }
+            footer { font-size: 0.8rem; }
         }
     </style>
 </head>
 <body>
-    <div class="content">
-        <div class="header">کانال تلگرامی <a href="https://T.me/sinavm" target="_blank">SiNAVM</a></div>
-        <div class="header">کانفیگ هدیفای - Hiddify</div>
 
-        <div class="status-text">در حال انتقال کانفیگ...</div>
-        <div class="info-text">اگر بعد از ٣ ثانیه انجام نشد، روی لینک زیر کلیک کنید:</div>
+    <header>
+        <img class="logo" src="https://sinavm.github.io/sinavm/logo/sinavm_logo.jpg" alt="لوگو SiNAVM - توسعه‌دهنده مستقل سینا">
+        <h1 class="title">کانال تلگرامی <a href="https://t.me/sinavm" target="_blank" aria-label="کانال تلگرام SiNAVM">SiNAVM</a></h1>
+        <p class="subtitle">کانفیگ رایگان هیدیفای - <strong>سینا وی ام | SiNAVM</strong></p>
+        <div class="separator"></div>
+    </header>
 
-        <a class="redirect-link" href="hiddify://import/https://github.com/sinavm/Hiddify/raw/refs/heads/main/@sinavm#@𝗦𝗶𝗡𝗔𝗩𝗠👈🏻|Hiddify">
-            ورود دستی کانفیگ Hiddify
+    <main>
+        <p class="status" aria-live="polite">در حال انتقال کانفیگ به هیدیفای...</p>
+        <p class="info">اگر بعد از ۳ ثانیه منتقل نشدید، روی دکمه زیر کلیک کنید:</p>
+        <div class="import-btn" onclick="copyConfigLink()" aria-label="کپی لینک کانفیگ و نمایش پیام">
+            🚀 ورود دستی کانفیگ Hiddify
+            <div class="copy-feedback" id="copyFeedback">لینک کانفیگ کپی شد<br>وارد برنامه کنید</div>
+        </div>
+
+        <nav aria-label="لینک‌های قانونی">
+            <a href="https://sinavm.github.io/sinavm/legal_pages/about.html">درباره ما</a> |
+            <a href="https://sinavm.github.io/sinavm/legal_pages/privacy.html">حریم خصوصی</a> |
+            <a href="https://sinavm.github.io/sinavm/legal_pages/terms.html">شرایط استفاده</a>
+        </nav>
+    </main>
+
+    <aside class="aside-left">
+        <a href="https://t.me/sinavm" target="_blank" class="box telegram-box" aria-label="کانال تلگرام SiNAVM">
+            <img src="https://sinavm.github.io/sinavm/logo/telegram.png" alt=""> تلگرام
         </a>
-    </div>
-
-    <div class="left-container">
-        <a class="telegram-box" href="https://T.me/sinavm" target="_blank">
-            <img src="https://sinavm.github.io/sinavm/logo/telegram.png" alt="Telegram Logo">
-            کانال تلگرام
+        <a href="https://github.com/sinavm" target="_blank" class="box github-box" aria-label="گیت‌هاب سینا وی ام">
+            <img src="https://sinavm.github.io/sinavm/logo/github-mark.png" alt=""> گیت‌هاب
         </a>
+        <div class="box visit-box" aria-live="polite">
+            بازدید کل: <span id="total-visit-count">...</span>
+        </div>
+    </aside>
 
-        <a class="github-box" href="https://github.com/sinavm" target="_blank">
-            <img src="https://sinavm.github.io/sinavm/logo/github-mark.png" alt="Github Logo">
-            Github
-        </a>
+    <aside class="aside-right">
+        <div class="install-wrapper">
+            <div class="box install-box" onclick="toggleDropdown(event)" aria-expanded="false" aria-controls="installDropdown">
+                📱 نصب برنامه Hiddify
+            </div>
+            <div class="install-dropdown" id="installDropdown">
+                <a href="https://play.google.com/store/apps/details?id=app.hiddify.com&hl=en" target="_blank" class="install-link android" onclick="event.stopPropagation()">
+                    <img src="https://sinavm.github.io/sinavm/logo/hiddify.png" alt=""> اندروید
+                </a>
+                <a href="https://apps.apple.com/app/id6596777532" target="_blank" class="install-link iphone" onclick="event.stopPropagation()">
+                    <img src="https://sinavm.github.io/sinavm/logo/hiddify.png" alt=""> آیفون
+                </a>
+                <a href="https://hiddify.com/fa/app/How-to-install-Hiddify-app/#_2" target="_blank" class="install-link windows" onclick="event.stopPropagation()">
+                    <img src="https://sinavm.github.io/sinavm/logo/hiddify.png" alt=""> ویندوز
+                </a>
+                <a href="https://apps.apple.com/app/id6596777532" target="_blank" class="install-link mac" onclick="event.stopPropagation()">
+                    <img src="https://sinavm.github.io/sinavm/logo/hiddify.png" alt=""> مک
+                </a>
+            </div>
+        </div>
+    </aside>
 
-        <div class="visit-box">بازدید کل: <span id="total-visit-count">...</span></div>
-    </div>
-
-    <div class="footer">
-        طراحی و توسعه توسط <a href="https://T.me/SinaVM" target="_blank">@SiNAVM</a>
-    </div>
+    <footer>
+        <p>طراحی و توسعه با ذهن باز توسط <a href="https://t.me/SinaVM" target="_blank">SiNAVM</a> 🪄</p>
+    </footer>
 
     <script>
+        // لینک کانفیگ
+        const configUrl = 'https://github.com/sinavm/Hiddify/raw/refs/heads/main/@sinavm#@𝗦𝗶𝗡𝗔𝗩𝗠👈🏻|Hiddify';
+
+        // کپی لینک + نمایش پیام
+        function copyConfigLink() {
+            navigator.clipboard.writeText(configUrl).then(() => {
+                const feedback = document.getElementById('copyFeedback');
+                feedback.classList.add('show');
+                setTimeout(() => feedback.classList.remove('show'), 3000);
+            }).catch(err => {
+                console.error('خطا در کپی:', err);
+                alert('کپی نشد! لطفاً دستی کپی کنید:\n' + configUrl);
+            });
+
+            // تلاش برای باز کردن hiddify:// (در صورت پشتیبانی مرورگر/دستگاه)
+            window.location.href = 'hiddify://import/' + encodeURIComponent(configUrl);
+        }
+
+        // Toggle Dropdown
+        function toggleDropdown(e) {
+            e.stopPropagation();
+            const dropdown = document.getElementById('installDropdown');
+            const isOpen = dropdown.classList.toggle('show');
+            e.target.setAttribute('aria-expanded', isOpen);
+        }
+
+        // Close on outside click
+        document.body.addEventListener('click', (e) => {
+            const dropdown = document.getElementById('installDropdown');
+            if (!e.target.closest('.install-wrapper')) {
+                dropdown.classList.remove('show');
+                document.querySelector('.install-box').setAttribute('aria-expanded', 'false');
+            }
+        });
+
+        // Visit Counter
         fetch('https://page-views.count1.workers.dev')
             .then(r => r.text())
-            .then(data => { document.getElementById("total-visit-count").innerText = data; })
-            .catch(e => console.error(e));
+            .then(count => {
+                const el = document.getElementById('total-visit-count');
+                if (el) el.textContent = count;
+            })
+            .catch(() => {});
     </script>
 </body>
 </html>
