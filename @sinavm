@@ -43,38 +43,57 @@
     "rules": [
       {
         "domain": [
-          "www.speedtest.net",
-          "tesla-funder.info",
-          "pelang.org",
-          "medium.com",
-          "ipw.gfdv54cvghhgfhgj-njhgj64.info",
-          "638944337658439808.dezful-prx-dnraacp.info",
-          "358d29-330-2.9966661.xyz",
-          "meta-funder.info",
-          "jone.fast-turbooserver.com",
-          "638948510378519565.mashhad-drc-tusacaf.info",
-          "638946804017445584.kerman-drc-tusacaf.info",
-          "jamekk.org",
-          "app.chandplus.com",
-          "filtercheebyha.arshiacomplus.dpdns.org",
-          "fapeng.org",
-          "pupas-shirting-unsung.freesocks.work",
-          "pl.vpnsparta.pro",
-          "af01e9-330-3.9966661.xyz",
-          "wa.sfasti.ru",
-          "promo18v.bystrivpn.ru",
-          "638950280434423505.neyshabur-drc-tusacaf.info",
-          "creativecommons.org",
-          "lammaland.org",
-          "kampong.org",
-          "638937520064872286.london-prx-dnraacl.info",
-          "yapc-1.adamhayward.co.uk",
-          "q4214fa.novintec99.ir",
-          "xn--ktff-jt6hr36l.tencentapp.cn",
-          "gavazn.lnmarketplace.net",
+          "638953873686410316.lahijan-drc-tusaas.info",
+          "pq-brazil1.09vpn.com",
+          "638953873686412975.lahijan-drc-tusaas.info",
+          "638950280342832628.esfahan-drc-tusaas.info",
+          "638948510129819770.dezful-drc-tusaas.info",
+          "638930316257411243.neyshabur-drc-tusabt.info",
           "zula.ir",
-          "adas-polo-ba-mahi.kotlet.org",
-          "hk1.shiyuandian.shop"
+          "pupas-shirting-unsung.freesocks.work",
+          "638946555860201969.lisbon-prx-dnraacq.info",
+          "638950330462896620.neyshabur-prx-dnraacr.info",
+          "638929692855682011.lisbon-drc-tusabt.info",
+          "638950280434430524.neyshabur-drc-tusacaf.info",
+          "638932111805004627.rasht-drc-dcrabj.info",
+          "638931077057619102.hamedan-drc-tusabu.info",
+          "638946072491006050.hamedan-drc-tusacaf.info",
+          "638937520064872286.london-prx-dnraacl.info",
+          "638950280434423505.neyshabur-drc-tusacaf.info",
+          "638952903116437663.tabriz-drc-tusacaf.info",
+          "ovhwuxian.pai50288.uk",
+          "638938332607497744.madrid-drc-tusacaf.info",
+          "638930381053019975.tabriz-drc-tusabt.info",
+          "638950280434434528.neyshabur-drc-tusacaf.info",
+          "638929259959016671.dezful-drc-tusabq.info",
+          "638953873686405389.lahijan-drc-tusaas.info",
+          "638950280434431325.neyshabur-drc-tusacaf.info",
+          "www.speedtest.net",
+          "638930382260455538.ahvaz-drc-tusabt.info",
+          "638934019837083133.lisbon-drc-tusaby.info",
+          "638929114454179379.warsaw-drc-tusabq.info",
+          "638950330462892661.neyshabur-prx-dnraacr.info",
+          "638945271259127439.yasuj-prx-dnraacp.info",
+          "638953874012737356.yasuj-drc-tusacaf.info",
+          "638948510378508794.mashhad-drc-tusacaf.info",
+          "638952778381278790.rasht-drc-tusacaf.info",
+          "638946986851076125.hamedan-drc-tusabl.info",
+          "638952903116427871.tabriz-drc-tusacaf.info",
+          "638949521660379297.copenhagen-prx-dnraacr.info",
+          "638938180207059946.rome-drc-tusacaf.info",
+          "638950280342842933.esfahan-drc-tusaas.info",
+          "638937918607957654.paris-drc-tusacaf.info",
+          "638935457407159576.birjand-drc-tusacae.info",
+          "638943444955038429.birjand-drc-tusacaf.info",
+          "net2026.zanddynastyofpersia.org",
+          "638932756456112171.qazvin-drc-tusabw.info",
+          "638941610778721799.helsinki-drc-tusacaf.info",
+          "638935255461296821.paris-drc-tusabz.info",
+          "638946804017445584.kerman-drc-tusacaf.info",
+          "638938755008244100.vienna-drc-tusacaf.info",
+          "638956218809805203.bandar-prx-dnraacu.info",
+          "638937544595891094.madrid-prx-dnraacl.info",
+          "638929320863717328.malayer-drc-tusabq.info"
         ],
         "server": "dns-direct"
       }
@@ -84,10 +103,10 @@
       "sky.rethinkdns.com": [
         "104.17.147.22",
         "104.17.148.22",
-        "2a06:98c1:3123::",
-        "2a06:98c1:3122::",
-        "188.114.99.0",
-        "188.114.98.0"
+        "2606:4700::6812:130",
+        "2606:4700::6812:30",
+        "104.18.1.48",
+        "104.18.0.48"
       ]
     },
     "independent_cache": true
@@ -125,190 +144,143 @@
       "tag": "select",
       "outbounds": [
         "auto",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇫🇷 § 0",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇨🇦 § 1",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇵🇱 § 2",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇨🇦 § 3",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇰🇿 § 4",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇭🇰 § 5",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇨🇦 § 6",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇮🇷 § 7",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇮🇷 § 8",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇨🇦 § 9",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇨🇦 § 10",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇩🇪 § 11",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇩🇪 § 12",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇩🇪 § 13",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇵🇱 § 14",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇩🇪 § 15",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇩🇪 § 16",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇩🇪 § 17",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇩🇪 § 18",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇩🇪 § 19",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇫🇷 § 20",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇵🇱 § 21",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇩🇪 § 22",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇫🇷 § 23",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇵🇱 § 24",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇩🇪 § 25",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇬🇧 § 26",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇬🇧 § 27",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇩🇪 § 28",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇩🇪 § 29",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇩🇪 § 30",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇨🇦 § 31",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇩🇪 § 32",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇬🇧 § 33",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇩🇪 § 34",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇫🇷 § 35",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇭🇰 § 36",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇭🇰 § 37",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇨🇦 § 38",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇩🇪 § 39",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇭🇰 § 40",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇲🇾 § 41",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇬🇧 § 42",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇺🇸 § 43",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇺🇸 § 44",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇺🇸 § 45",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇳🇱 § 46",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇹🇷 § 47",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇫🇮 § 48",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇺🇸 § 49",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇳🇱 § 50",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇺🇸 § 51",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇺🇸 § 52",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇮🇩 § 53",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇵🇱 § 54",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇮🇳 § 55",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇺🇸 § 56",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇺🇸 § 57",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇮🇳 § 58",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇨🇦 § 59",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇭🇰 § 60",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇬🇧 § 61",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇳🇱 § 62",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇺🇸 § 63",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇨🇾 § 64",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇳🇱 § 65",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇨🇴 § 66",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇦🇷 § 67",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇯🇵 § 68",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇻🇳 § 69",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇺🇸 § 70",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇺🇸 § 71",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇺🇸 § 72",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇷🇺 § 73",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇹🇼 § 74",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇳🇱 § 75",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇨🇦 § 76",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇯🇵 § 77",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇺🇸 § 78",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇯🇵 § 79",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی § 80",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی § 81",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی § 82",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی § 83",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی § 84",
-        "Channel id: @SiNAVM🇫🇷 § 85",
-        "Channel id: @SiNAVM🇫🇷 § 86",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇩🇪 § 92",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇩🇪 § 93",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇩🇪 § 94",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇩🇪 § 95",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇩🇪 § 96",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇩🇪 § 97",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇨🇦 § 98",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇨🇦 § 99",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇫🇮 § 100",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی § 101",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇩🇪 § 102",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇩🇪 § 103",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇩🇪 § 104",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇨🇦 § 105",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇳🇱 § 106",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇩🇪 § 107",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇺🇸 § 108",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇩🇪 § 109",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇫🇷 § 110",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇺🇸 § 111",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇺🇸 § 112",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇸🇪 § 113",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی § 114",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی § 115",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇨🇦 § 116",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇫🇷 § 117",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی § 118",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇨🇦 § 119",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی § 120",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی § 121",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی § 122",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇭🇰 § 123",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇱🇹 § 124",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی § 125",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇩🇪 § 126",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی § 127",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی § 128",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی § 129",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇱🇹 § 130",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی § 131",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇬🇧 § 132",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی § 133",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇨🇦 § 134",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇫🇷 § 135",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی § 136",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی § 137",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇫🇷 § 138",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی § 139",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی § 140",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی § 141",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی § 142",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی § 143",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی § 144",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی § 145",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇹🇷 § 146",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇹🇷 § 147",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇹🇷 § 148",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇨🇦 § 149",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇨🇦 § 150",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇩🇪 § 151",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇵🇱 § 152",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇫🇮 § 153",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇷🇺 § 175",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇹🇷 § 176",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇩🇪 § 177",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇩🇪 § 178",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇷🇺 § 179",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇩🇪 § 180",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇫🇷 § 181",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇺🇸 § 182",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇨🇦 § 183",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇩🇪 § 184",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇩🇪 § 185",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇩🇪 § 186",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇮🇷 § 187",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇮🇷 § 188",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇬🇧 § 189",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇬🇧 § 190",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇨🇦 § 191",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇩🇪 § 192",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇨🇦 § 193",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇨🇦 § 194",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇫🇮 § 195",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇫🇷 § 196",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇭🇷 § 197",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇳🇱 § 198",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇫🇷 § 199",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇭🇰 § 200",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇺🇸 § 201",
-        "@SiNAVM § 202",
-        "@SiNAVM § 203",
-        "@SiNAVM § 204",
-        "@SiNAVM § 205",
-        "@SiNAVM § 206",
-        "@SiNAVM § 207",
-        "@SiNAVM § 208",
-        "@SiNAVM § 209"
+        "Channel: @SiNAVM 🇩🇪 § 4",
+        "🇫🇷@𝗦𝗶𝗡𝗔𝗩𝗠  § 10",
+        "🇫🇷@𝗦𝗶𝗡𝗔𝗩𝗠  § 13",
+        "🇫🇷@𝗦𝗶𝗡𝗔𝗩𝗠  § 16",
+        "Channel: @SiNAVM  § 17",
+        "Channel: @SiNAVM  § 18",
+        "🇫🇷@𝗦𝗶𝗡𝗔𝗩𝗠  § 19",
+        "Channel: @SiNAVM  § 20",
+        "Channel: @SiNAVM 🇳🇱 § 21",
+        "🇫🇷@𝗦𝗶𝗡𝗔𝗩𝗠  § 22",
+        "🇫🇷@𝗦𝗶𝗡𝗔𝗩𝗠  § 23",
+        "🇫🇷@𝗦𝗶𝗡𝗔𝗩𝗠  § 24",
+        "🇫🇷@𝗦𝗶𝗡𝗔𝗩𝗠  § 25",
+        "Channel: @SiNAVM 🇬🇧 § 26",
+        "Channel: @SiNAVM 🇱🇹 § 27",
+        "Channel: @SiNAVM  § 28",
+        "Channel: @SiNAVM 🇱🇹 § 29",
+        "Channel: @SiNAVM  § 30",
+        "Channel: @SiNAVM 🇬🇧 § 31",
+        "Channel: @SiNAVM 🇬🇧 § 32",
+        "🇫🇷@𝗦𝗶𝗡𝗔𝗩𝗠  § 33",
+        "🇫🇷@𝗦𝗶𝗡𝗔𝗩𝗠  § 34",
+        "Channel: @SiNAVM  § 35",
+        "Channel: @SiNAVM  § 36",
+        "Channel: @SiNAVM 🇱🇹 § 37",
+        "Channel: @SiNAVM  § 38",
+        "Channel: @SiNAVM 🇱🇹 § 39",
+        "Channel: @SiNAVM  § 40",
+        "🇫🇷@𝗦𝗶𝗡𝗔𝗩𝗠  § 41",
+        "Channel: @SiNAVM  § 42",
+        "Channel: @SiNAVM  § 43",
+        "Channel: @SiNAVM  § 44",
+        "Channel: @SiNAVM 🇬🇧 § 45",
+        "Channel: @SiNAVM  § 46",
+        "Channel: @SiNAVM 🇬🇧 § 47",
+        "Channel: @SiNAVM 🇱🇹 § 48",
+        "Channel: @SiNAVM 🇬🇧 § 49",
+        "🇫🇷@𝗦𝗶𝗡𝗔𝗩𝗠  § 50",
+        "🇫🇷@𝗦𝗶𝗡𝗔𝗩𝗠  § 51",
+        "🇫🇷@𝗦𝗶𝗡𝗔𝗩𝗠  § 52",
+        "Channel: @SiNAVM 🇱🇹 § 53",
+        "Channel: @SiNAVM  § 54",
+        "Channel: @SiNAVM  § 55",
+        "Channel: @SiNAVM 🇳🇱 § 56",
+        "Channel: @SiNAVM 🇱🇹 § 57",
+        "Channel: @SiNAVM  § 58",
+        "Channel: @SiNAVM 🇱🇹 § 59",
+        "Channel: @SiNAVM 🇩🇪 § 60",
+        "Channel: @SiNAVM 🇱🇹 § 61",
+        "Channel: @SiNAVM 🇳🇱 § 62",
+        "Channel: @SiNAVM 🇳🇱 § 63",
+        "Channel: @SiNAVM  § 64",
+        "Channel: @SiNAVM 🇱🇹 § 65",
+        "Channel: @SiNAVM 🇱🇹 § 66",
+        "Channel: @SiNAVM  § 67",
+        "🇫🇷@𝗦𝗶𝗡𝗔𝗩𝗠  § 68",
+        "Channel: @SiNAVM  § 69",
+        "Channel: @SiNAVM 🇱🇹 § 70",
+        "Channel: @SiNAVM  § 71",
+        "Channel: @SiNAVM  § 72",
+        "Channel: @SiNAVM  § 73",
+        "Channel: @SiNAVM  § 74",
+        "Channel: @SiNAVM  § 75",
+        "Channel: @SiNAVM  § 76",
+        "Channel: @SiNAVM  § 77",
+        "Channel: @SiNAVM  § 78",
+        "Channel: @SiNAVM  § 79",
+        "Channel: @SiNAVM  § 80",
+        "Channel: @SiNAVM  § 81",
+        "Channel: @SiNAVM  § 82",
+        "Channel: @SiNAVM  § 83",
+        "Channel: @SiNAVM  § 84",
+        "Channel: @SiNAVM  § 85",
+        "Channel: @SiNAVM  § 86",
+        "Channel: @SiNAVM  § 87",
+        "Channel: @SiNAVM  § 88",
+        "Channel: @SiNAVM  § 89",
+        "Channel: @SiNAVM  § 90",
+        "Channel: @SiNAVM  § 91",
+        "Channel: @SiNAVM  § 92",
+        "Channel: @SiNAVM  § 93",
+        "Channel: @SiNAVM  § 94",
+        "Channel: @SiNAVM  § 95",
+        "Channel: @SiNAVM  § 96",
+        "Channel: @SiNAVM  § 97",
+        "Channel: @SiNAVM  § 98",
+        "Channel: @SiNAVM  § 99",
+        "Channel: @SiNAVM  § 100",
+        "Channel: @SiNAVM  § 101",
+        "Channel: @SiNAVM  § 102",
+        "Channel: @SiNAVM  § 103",
+        "Channel: @SiNAVM  § 104",
+        "Channel: @SiNAVM  § 105",
+        "Channel: @SiNAVM  § 106",
+        "Channel: @SiNAVM  § 107",
+        "Channel: @SiNAVM  § 108",
+        "Channel: @SiNAVM  § 109",
+        "Channel: @SiNAVM  § 110",
+        "Channel: @SiNAVM  § 111",
+        "Channel: @SiNAVM  § 112",
+        "Channel: @SiNAVM  § 113",
+        "Channel: @SiNAVM  § 114",
+        "Channel: @SiNAVM  § 115",
+        "Channel: @SiNAVM  § 116",
+        "Channel: @SiNAVM  § 117",
+        "Channel: @SiNAVM  § 118",
+        "Channel: @SiNAVM  § 119",
+        "Channel: @SiNAVM  § 120",
+        "Channel: @SiNAVM  § 121",
+        "Channel: @SiNAVM  § 122",
+        "Channel: @SiNAVM  § 123",
+        "Channel: @SiNAVM  § 124",
+        "Channel: @SiNAVM  § 125",
+        "Channel: @SiNAVM  § 126",
+        "Channel: @SiNAVM  § 127",
+        "Channel: @SiNAVM  § 128",
+        "Channel: @SiNAVM  § 129",
+        "Channel: @SiNAVM  § 130",
+        "Channel: @SiNAVM  § 131",
+        "Channel: @SiNAVM  § 132",
+        "Channel: @SiNAVM  § 133",
+        "Channel: @SiNAVM  § 134",
+        "Channel: @SiNAVM  § 135",
+        "Channel: @SiNAVM  § 136",
+        "Channel: @SiNAVM  § 137",
+        "Channel: @SiNAVM  § 138",
+        "Channel: @SiNAVM  § 139",
+        "Channel: @SiNAVM  § 140",
+        "Channel: @SiNAVM  § 141",
+        "Channel: @SiNAVM  § 142",
+        "Channel: @SiNAVM  § 143",
+        "Channel: @SiNAVM  § 144",
+        "Channel: @SiNAVM  § 145",
+        "Channel: @SiNAVM  § 146",
+        "Channel: @SiNAVM  § 147",
+        "Channel: @SiNAVM  § 148",
+        "Channel: @SiNAVM  § 149"
       ],
       "default": "auto",
       "interrupt_exist_connections": true
@@ -317,190 +289,143 @@
       "type": "urltest",
       "tag": "auto",
       "outbounds": [
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇫🇷 § 0",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇨🇦 § 1",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇵🇱 § 2",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇨🇦 § 3",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇰🇿 § 4",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇭🇰 § 5",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇨🇦 § 6",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇮🇷 § 7",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇮🇷 § 8",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇨🇦 § 9",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇨🇦 § 10",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇩🇪 § 11",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇩🇪 § 12",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇩🇪 § 13",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇵🇱 § 14",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇩🇪 § 15",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇩🇪 § 16",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇩🇪 § 17",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇩🇪 § 18",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇩🇪 § 19",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇫🇷 § 20",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇵🇱 § 21",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇩🇪 § 22",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇫🇷 § 23",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇵🇱 § 24",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇩🇪 § 25",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇬🇧 § 26",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇬🇧 § 27",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇩🇪 § 28",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇩🇪 § 29",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇩🇪 § 30",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇨🇦 § 31",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇩🇪 § 32",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇬🇧 § 33",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇩🇪 § 34",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇫🇷 § 35",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇭🇰 § 36",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇭🇰 § 37",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇨🇦 § 38",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇩🇪 § 39",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇭🇰 § 40",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇲🇾 § 41",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇬🇧 § 42",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇺🇸 § 43",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇺🇸 § 44",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇺🇸 § 45",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇳🇱 § 46",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇹🇷 § 47",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇫🇮 § 48",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇺🇸 § 49",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇳🇱 § 50",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇺🇸 § 51",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇺🇸 § 52",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇮🇩 § 53",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇵🇱 § 54",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇮🇳 § 55",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇺🇸 § 56",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇺🇸 § 57",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇮🇳 § 58",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇨🇦 § 59",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇭🇰 § 60",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇬🇧 § 61",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇳🇱 § 62",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇺🇸 § 63",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇨🇾 § 64",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇳🇱 § 65",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇨🇴 § 66",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇦🇷 § 67",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇯🇵 § 68",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇻🇳 § 69",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇺🇸 § 70",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇺🇸 § 71",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇺🇸 § 72",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇷🇺 § 73",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇹🇼 § 74",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇳🇱 § 75",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇨🇦 § 76",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇯🇵 § 77",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇺🇸 § 78",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇯🇵 § 79",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی § 80",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی § 81",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی § 82",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی § 83",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی § 84",
-        "Channel id: @SiNAVM🇫🇷 § 85",
-        "Channel id: @SiNAVM🇫🇷 § 86",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇩🇪 § 92",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇩🇪 § 93",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇩🇪 § 94",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇩🇪 § 95",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇩🇪 § 96",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇩🇪 § 97",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇨🇦 § 98",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇨🇦 § 99",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇫🇮 § 100",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی § 101",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇩🇪 § 102",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇩🇪 § 103",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇩🇪 § 104",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇨🇦 § 105",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇳🇱 § 106",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇩🇪 § 107",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇺🇸 § 108",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇩🇪 § 109",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇫🇷 § 110",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇺🇸 § 111",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇺🇸 § 112",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇸🇪 § 113",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی § 114",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی § 115",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇨🇦 § 116",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇫🇷 § 117",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی § 118",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇨🇦 § 119",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی § 120",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی § 121",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی § 122",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇭🇰 § 123",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇱🇹 § 124",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی § 125",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇩🇪 § 126",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی § 127",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی § 128",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی § 129",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇱🇹 § 130",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی § 131",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇬🇧 § 132",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی § 133",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇨🇦 § 134",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇫🇷 § 135",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی § 136",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی § 137",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇫🇷 § 138",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی § 139",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی § 140",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی § 141",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی § 142",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی § 143",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی § 144",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی § 145",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇹🇷 § 146",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇹🇷 § 147",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇹🇷 § 148",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇨🇦 § 149",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇨🇦 § 150",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇩🇪 § 151",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇵🇱 § 152",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇫🇮 § 153",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇷🇺 § 175",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇹🇷 § 176",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇩🇪 § 177",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇩🇪 § 178",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇷🇺 § 179",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇩🇪 § 180",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇫🇷 § 181",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇺🇸 § 182",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇨🇦 § 183",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇩🇪 § 184",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇩🇪 § 185",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇩🇪 § 186",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇮🇷 § 187",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇮🇷 § 188",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇬🇧 § 189",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇬🇧 § 190",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇨🇦 § 191",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇩🇪 § 192",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇨🇦 § 193",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇨🇦 § 194",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇫🇮 § 195",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇫🇷 § 196",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇭🇷 § 197",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇳🇱 § 198",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇫🇷 § 199",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇭🇰 § 200",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇺🇸 § 201",
-        "@SiNAVM § 202",
-        "@SiNAVM § 203",
-        "@SiNAVM § 204",
-        "@SiNAVM § 205",
-        "@SiNAVM § 206",
-        "@SiNAVM § 207",
-        "@SiNAVM § 208",
-        "@SiNAVM § 209"
+        "Channel: @SiNAVM 🇩🇪 § 4",
+        "🇫🇷@𝗦𝗶𝗡𝗔𝗩𝗠  § 10",
+        "🇫🇷@𝗦𝗶𝗡𝗔𝗩𝗠  § 13",
+        "🇫🇷@𝗦𝗶𝗡𝗔𝗩𝗠  § 16",
+        "Channel: @SiNAVM  § 17",
+        "Channel: @SiNAVM  § 18",
+        "🇫🇷@𝗦𝗶𝗡𝗔𝗩𝗠  § 19",
+        "Channel: @SiNAVM  § 20",
+        "Channel: @SiNAVM 🇳🇱 § 21",
+        "🇫🇷@𝗦𝗶𝗡𝗔𝗩𝗠  § 22",
+        "🇫🇷@𝗦𝗶𝗡𝗔𝗩𝗠  § 23",
+        "🇫🇷@𝗦𝗶𝗡𝗔𝗩𝗠  § 24",
+        "🇫🇷@𝗦𝗶𝗡𝗔𝗩𝗠  § 25",
+        "Channel: @SiNAVM 🇬🇧 § 26",
+        "Channel: @SiNAVM 🇱🇹 § 27",
+        "Channel: @SiNAVM  § 28",
+        "Channel: @SiNAVM 🇱🇹 § 29",
+        "Channel: @SiNAVM  § 30",
+        "Channel: @SiNAVM 🇬🇧 § 31",
+        "Channel: @SiNAVM 🇬🇧 § 32",
+        "🇫🇷@𝗦𝗶𝗡𝗔𝗩𝗠  § 33",
+        "🇫🇷@𝗦𝗶𝗡𝗔𝗩𝗠  § 34",
+        "Channel: @SiNAVM  § 35",
+        "Channel: @SiNAVM  § 36",
+        "Channel: @SiNAVM 🇱🇹 § 37",
+        "Channel: @SiNAVM  § 38",
+        "Channel: @SiNAVM 🇱🇹 § 39",
+        "Channel: @SiNAVM  § 40",
+        "🇫🇷@𝗦𝗶𝗡𝗔𝗩𝗠  § 41",
+        "Channel: @SiNAVM  § 42",
+        "Channel: @SiNAVM  § 43",
+        "Channel: @SiNAVM  § 44",
+        "Channel: @SiNAVM 🇬🇧 § 45",
+        "Channel: @SiNAVM  § 46",
+        "Channel: @SiNAVM 🇬🇧 § 47",
+        "Channel: @SiNAVM 🇱🇹 § 48",
+        "Channel: @SiNAVM 🇬🇧 § 49",
+        "🇫🇷@𝗦𝗶𝗡𝗔𝗩𝗠  § 50",
+        "🇫🇷@𝗦𝗶𝗡𝗔𝗩𝗠  § 51",
+        "🇫🇷@𝗦𝗶𝗡𝗔𝗩𝗠  § 52",
+        "Channel: @SiNAVM 🇱🇹 § 53",
+        "Channel: @SiNAVM  § 54",
+        "Channel: @SiNAVM  § 55",
+        "Channel: @SiNAVM 🇳🇱 § 56",
+        "Channel: @SiNAVM 🇱🇹 § 57",
+        "Channel: @SiNAVM  § 58",
+        "Channel: @SiNAVM 🇱🇹 § 59",
+        "Channel: @SiNAVM 🇩🇪 § 60",
+        "Channel: @SiNAVM 🇱🇹 § 61",
+        "Channel: @SiNAVM 🇳🇱 § 62",
+        "Channel: @SiNAVM 🇳🇱 § 63",
+        "Channel: @SiNAVM  § 64",
+        "Channel: @SiNAVM 🇱🇹 § 65",
+        "Channel: @SiNAVM 🇱🇹 § 66",
+        "Channel: @SiNAVM  § 67",
+        "🇫🇷@𝗦𝗶𝗡𝗔𝗩𝗠  § 68",
+        "Channel: @SiNAVM  § 69",
+        "Channel: @SiNAVM 🇱🇹 § 70",
+        "Channel: @SiNAVM  § 71",
+        "Channel: @SiNAVM  § 72",
+        "Channel: @SiNAVM  § 73",
+        "Channel: @SiNAVM  § 74",
+        "Channel: @SiNAVM  § 75",
+        "Channel: @SiNAVM  § 76",
+        "Channel: @SiNAVM  § 77",
+        "Channel: @SiNAVM  § 78",
+        "Channel: @SiNAVM  § 79",
+        "Channel: @SiNAVM  § 80",
+        "Channel: @SiNAVM  § 81",
+        "Channel: @SiNAVM  § 82",
+        "Channel: @SiNAVM  § 83",
+        "Channel: @SiNAVM  § 84",
+        "Channel: @SiNAVM  § 85",
+        "Channel: @SiNAVM  § 86",
+        "Channel: @SiNAVM  § 87",
+        "Channel: @SiNAVM  § 88",
+        "Channel: @SiNAVM  § 89",
+        "Channel: @SiNAVM  § 90",
+        "Channel: @SiNAVM  § 91",
+        "Channel: @SiNAVM  § 92",
+        "Channel: @SiNAVM  § 93",
+        "Channel: @SiNAVM  § 94",
+        "Channel: @SiNAVM  § 95",
+        "Channel: @SiNAVM  § 96",
+        "Channel: @SiNAVM  § 97",
+        "Channel: @SiNAVM  § 98",
+        "Channel: @SiNAVM  § 99",
+        "Channel: @SiNAVM  § 100",
+        "Channel: @SiNAVM  § 101",
+        "Channel: @SiNAVM  § 102",
+        "Channel: @SiNAVM  § 103",
+        "Channel: @SiNAVM  § 104",
+        "Channel: @SiNAVM  § 105",
+        "Channel: @SiNAVM  § 106",
+        "Channel: @SiNAVM  § 107",
+        "Channel: @SiNAVM  § 108",
+        "Channel: @SiNAVM  § 109",
+        "Channel: @SiNAVM  § 110",
+        "Channel: @SiNAVM  § 111",
+        "Channel: @SiNAVM  § 112",
+        "Channel: @SiNAVM  § 113",
+        "Channel: @SiNAVM  § 114",
+        "Channel: @SiNAVM  § 115",
+        "Channel: @SiNAVM  § 116",
+        "Channel: @SiNAVM  § 117",
+        "Channel: @SiNAVM  § 118",
+        "Channel: @SiNAVM  § 119",
+        "Channel: @SiNAVM  § 120",
+        "Channel: @SiNAVM  § 121",
+        "Channel: @SiNAVM  § 122",
+        "Channel: @SiNAVM  § 123",
+        "Channel: @SiNAVM  § 124",
+        "Channel: @SiNAVM  § 125",
+        "Channel: @SiNAVM  § 126",
+        "Channel: @SiNAVM  § 127",
+        "Channel: @SiNAVM  § 128",
+        "Channel: @SiNAVM  § 129",
+        "Channel: @SiNAVM  § 130",
+        "Channel: @SiNAVM  § 131",
+        "Channel: @SiNAVM  § 132",
+        "Channel: @SiNAVM  § 133",
+        "Channel: @SiNAVM  § 134",
+        "Channel: @SiNAVM  § 135",
+        "Channel: @SiNAVM  § 136",
+        "Channel: @SiNAVM  § 137",
+        "Channel: @SiNAVM  § 138",
+        "Channel: @SiNAVM  § 139",
+        "Channel: @SiNAVM  § 140",
+        "Channel: @SiNAVM  § 141",
+        "Channel: @SiNAVM  § 142",
+        "Channel: @SiNAVM  § 143",
+        "Channel: @SiNAVM  § 144",
+        "Channel: @SiNAVM  § 145",
+        "Channel: @SiNAVM  § 146",
+        "Channel: @SiNAVM  § 147",
+        "Channel: @SiNAVM  § 148",
+        "Channel: @SiNAVM  § 149"
       ],
       "url": "http://cp.cloudflare.com",
       "interval": "10m0s",
@@ -510,30 +435,13 @@
     },
     {
       "type": "vless",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇫🇷 § 0",
-      "server": "194.4.49.229",
+      "tag": "Channel: @SiNAVM 🇩🇪 § 4",
+      "server": "net2026.zanddynastyofpersia.org",
       "server_port": 443,
-      "uuid": "745ded22-6ae3-4c4d-b31e-c42db0ae74fa",
+      "uuid": "0ec8c120-33fa-4658-9bed-3a51cb04c55c",
       "tls": {
         "enabled": true,
-        "disable_sni": true
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/teqalfws",
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      },
-      "packet_encoding": "xudp"
-    },
-    {
-      "type": "vless",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇨🇦 § 1",
-      "server": "104.21.36.57",
-      "server_port": 443,
-      "uuid": "6c11247b-6078-461a-93d5-22e4df284e6d",
-      "tls": {
-        "enabled": true,
-        "server_name": "mirror.fullmargintraders.com",
+        "server_name": "net2026.zanddynastyofpersia.org",
         "utls": {
           "enabled": true,
           "fingerprint": "chrome"
@@ -541,9 +449,9 @@
       },
       "transport": {
         "type": "ws",
-        "path": "/wsv/6c11247b-6078-461a-93d5-22e4df284e6d",
+        "path": "/eJsVXFVZ6iavNx1EFxOyH861WH",
         "headers": {
-          "Host": "mirror.fullmargintraders.com"
+          "Host": "net2026.zanddynastyofpersia.org"
         },
         "early_data_header_name": "Sec-WebSocket-Protocol"
       },
@@ -551,1898 +459,159 @@
     },
     {
       "type": "vless",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇵🇱 § 2",
-      "server": "xn--ktff-jt6hr36l.tencentapp.cn",
-      "server_port": 443,
-      "uuid": "d342d11e-d424-4583-b36e-524ab1f0afa4",
-      "tls": {
-        "enabled": true,
-        "server_name": "What.The.Fxxk.cloudns.org",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
+      "tag": "🇫🇷@𝗦𝗶𝗡𝗔𝗩𝗠  § 10",
+      "server": "86.104.74.15",
+      "server_port": 8880,
+      "uuid": "df0680ca-e43c-498d-ed86-8e196eedd012",
       "transport": {
-        "type": "ws",
-        "path": "/snippets/ip",
-        "headers": {
-          "Host": "What.The.Fxxk.cloudns.org"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol"
+        "type": "grpc",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s"
       },
       "packet_encoding": "xudp"
     },
     {
-      "type": "trojan",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇨🇦 § 3",
-      "server": "creativecommons.org",
-      "server_port": 443,
-      "password": "biOrJGlcfX",
-      "tls": {
-        "enabled": true,
-        "server_name": "ghasem.kotlet.org",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
+      "type": "vless",
+      "tag": "🇫🇷@𝗦𝗶𝗡𝗔𝗩𝗠  § 13",
+      "server": "638946072491006050.hamedan-drc-tusacaf.info",
+      "server_port": 8880,
+      "uuid": "df0680ca-e43c-498d-ed86-8e196eedd012",
       "transport": {
-        "type": "ws",
-        "path": "/kos-madaret-khamneii",
-        "headers": {
-          "Host": "ghasem.kotlet.org"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      }
+        "type": "grpc",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s"
+      },
+      "packet_encoding": "xudp"
     },
     {
       "type": "vless",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇰🇿 § 4",
-      "server": "176.120.72.63",
-      "server_port": 38339,
-      "uuid": "481c5606-b586-44d7-bc2e-d8ef30d67f62",
+      "tag": "🇫🇷@𝗦𝗶𝗡𝗔𝗩𝗠  § 16",
+      "server": "638946555860201969.lisbon-prx-dnraacq.info",
+      "server_port": 8880,
+      "uuid": "df0680ca-e43c-498d-ed86-8e196eedd012",
+      "transport": {
+        "type": "grpc",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s"
+      },
+      "packet_encoding": "xudp"
+    },
+    {
+      "type": "vless",
+      "tag": "Channel: @SiNAVM  § 17",
+      "server": "185.242.87.137",
+      "server_port": 8880,
+      "uuid": "df0680ca-e43c-498d-ed86-8e196eedd012",
+      "transport": {
+        "type": "grpc",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s"
+      },
+      "packet_encoding": "xudp"
+    },
+    {
+      "type": "vless",
+      "tag": "Channel: @SiNAVM  § 18",
+      "server": "185.242.87.128",
+      "server_port": 8880,
+      "uuid": "df0680ca-e43c-498d-ed86-8e196eedd012",
+      "transport": {
+        "type": "grpc",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s"
+      },
+      "packet_encoding": "xudp"
+    },
+    {
+      "type": "vless",
+      "tag": "🇫🇷@𝗦𝗶𝗡𝗔𝗩𝗠  § 19",
+      "server": "638932756456112171.qazvin-drc-tusabw.info",
+      "server_port": 8880,
+      "uuid": "df0680ca-e43c-498d-ed86-8e196eedd012",
+      "transport": {
+        "type": "grpc",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s"
+      },
+      "packet_encoding": "xudp"
+    },
+    {
+      "type": "vless",
+      "tag": "Channel: @SiNAVM  § 20",
+      "server": "195.42.233.69",
+      "server_port": 8880,
+      "uuid": "df0680ca-e43c-498d-ed86-8e196eedd012",
+      "transport": {
+        "type": "grpc",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s"
+      },
+      "packet_encoding": "xudp"
+    },
+    {
+      "type": "vless",
+      "tag": "Channel: @SiNAVM 🇳🇱 § 21",
+      "server": "638953874012737356.yasuj-drc-tusacaf.info",
+      "server_port": 8880,
+      "uuid": "df0680ca-e43c-498d-ed86-8e196eedd012",
+      "transport": {
+        "type": "grpc",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s"
+      },
+      "packet_encoding": "xudp"
+    },
+    {
+      "type": "vless",
+      "tag": "🇫🇷@𝗦𝗶𝗡𝗔𝗩𝗠  § 22",
+      "server": "638950280434434528.neyshabur-drc-tusacaf.info",
+      "server_port": 8880,
+      "uuid": "df0680ca-e43c-498d-ed86-8e196eedd012",
+      "transport": {
+        "type": "grpc",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s"
+      },
+      "packet_encoding": "xudp"
+    },
+    {
+      "type": "vless",
+      "tag": "🇫🇷@𝗦𝗶𝗡𝗔𝗩𝗠  § 23",
+      "server": "195.42.233.82",
+      "server_port": 8880,
+      "uuid": "df0680ca-e43c-498d-ed86-8e196eedd012",
+      "transport": {
+        "type": "grpc",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s"
+      },
+      "packet_encoding": "xudp"
+    },
+    {
+      "type": "vless",
+      "tag": "🇫🇷@𝗦𝗶𝗡𝗔𝗩𝗠  § 24",
+      "server": "94.232.247.168",
+      "server_port": 41360,
+      "uuid": "e16a35ea-6715-4e75-9845-d20358bd0876",
       "tls": {
         "enabled": true,
-        "server_name": "dl.google.com",
+        "server_name": "yahoo.com",
         "utls": {
           "enabled": true,
           "fingerprint": "chrome"
         },
         "reality": {
           "enabled": true,
-          "public_key": "o0MFuznHh_Wztg0FTAMhFXm3hjAqOJAJIIVNn-_A9WA",
-          "short_id": "e16883e511"
+          "public_key": "TY6w1zP-qUFKVCAQdQT2ZEJsZBrPO4hZjZYBSS6h6DU",
+          "short_id": "1aab45"
         }
       },
       "packet_encoding": "xudp"
     },
     {
       "type": "vless",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇭🇰 § 5",
-      "server": "91.208.109.55",
-      "server_port": 59079,
-      "uuid": "d81c7a1c-6292-47c0-cc37-0823c8fc6b94",
-      "flow": "xtls-rprx-vision",
-      "tls": {
-        "enabled": true,
-        "disable_sni": true
-      },
-      "packet_encoding": "xudp"
-    },
-    {
-      "type": "vless",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇨🇦 § 6",
-      "server": "www.speedtest.net",
-      "server_port": 8443,
-      "uuid": "56477377-62f5-41dc-e030-a519d83ba873",
-      "tls": {
-        "enabled": true,
-        "server_name": "root.dns-23.ir",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/@ShadowProxy66?ed",
-        "headers": {
-          "Host": "root.dns-23.ir"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      },
-      "packet_encoding": "xudp"
-    },
-    {
-      "type": "vless",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇮🇷 § 7",
-      "server": "91.236.168.126",
-      "server_port": 5151,
-      "uuid": "f5a77a8d-0e03-462d-9ebc-3416f00dbc82",
-      "transport": {
-        "type": "http",
-        "host": "zula.ir",
-        "path": "/",
-        "method": "GET"
-      },
-      "packet_encoding": "xudp"
-    },
-    {
-      "type": "vless",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇮🇷 § 8",
-      "server": "95.128.196.217",
-      "server_port": 3232,
-      "uuid": "f5a77a8d-0e03-462d-9ebc-3416f00dbc82",
-      "transport": {
-        "type": "http",
-        "host": "zula.ir",
-        "path": "/",
-        "method": "GET"
-      },
-      "packet_encoding": "xudp"
-    },
-    {
-      "type": "vless",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇨🇦 § 9",
-      "server": "meta-funder.info",
-      "server_port": 443,
-      "uuid": "c83014e0-ad3e-4ebd-9e8f-8f7a1f6088d6",
-      "tls": {
-        "enabled": true,
-        "server_name": "pxkfy.meta-funder.info",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/majara",
-        "headers": {
-          "Host": "pxkfy.meta-funder.info"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      },
-      "packet_encoding": "xudp"
-    },
-    {
-      "type": "vless",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇨🇦 § 10",
-      "server": "tesla-funder.info",
-      "server_port": 443,
-      "uuid": "c83014e0-ad3e-4ebd-9e8f-8f7a1f6088d6",
-      "tls": {
-        "enabled": true,
-        "server_name": "aplmf.tesla-funder.info",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/majara",
-        "headers": {
-          "Host": "aplmf.tesla-funder.info"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      },
-      "packet_encoding": "xudp"
-    },
-    {
-      "type": "vmess",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇩🇪 § 11",
-      "server": "57.129.28.214",
-      "server_port": 443,
-      "uuid": "03fcc618-b93d-6796-6aed-8a38c975d581",
-      "security": "auto",
-      "authenticated_length": true,
-      "tls": {
-        "enabled": true,
-        "server_name": "kampong.org",
-        "alpn": "http/1.1",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "path": "/linkvws",
-        "headers": {
-          "Host": "kampong.org"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      }
-    },
-    {
-      "type": "vmess",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇩🇪 § 12",
-      "server": "57.129.64.199",
-      "server_port": 443,
-      "uuid": "03fcc618-b93d-6796-6aed-8a38c975d581",
-      "security": "auto",
-      "authenticated_length": true,
-      "tls": {
-        "enabled": true,
-        "server_name": "pelang.org",
-        "alpn": "http/1.1",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "path": "/linkvws",
-        "headers": {
-          "Host": "pelang.org"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      }
-    },
-    {
-      "type": "vmess",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇩🇪 § 13",
-      "server": "57.129.25.23",
-      "server_port": 443,
-      "uuid": "03fcc618-b93d-6796-6aed-8a38c975d581",
-      "security": "auto",
-      "authenticated_length": true,
-      "tls": {
-        "enabled": true,
-        "server_name": "yichueng.org",
-        "alpn": "http/1.1",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "path": "/linkvws",
-        "headers": {
-          "Host": "yichueng.org"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      }
-    },
-    {
-      "type": "vmess",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇵🇱 § 14",
-      "server": "146.59.55.50",
-      "server_port": 443,
-      "uuid": "03fcc618-b93d-6796-6aed-8a38c975d581",
-      "security": "auto",
-      "authenticated_length": true,
-      "tls": {
-        "enabled": true,
-        "server_name": "wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc",
-        "alpn": "http/1.1",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "path": "/linkvws",
-        "headers": {
-          "Host": "o.metuji.com"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      }
-    },
-    {
-      "type": "vmess",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇩🇪 § 15",
-      "server": "57.129.24.131",
-      "server_port": 443,
-      "uuid": "03fcc618-b93d-6796-6aed-8a38c975d581",
-      "security": "auto",
-      "authenticated_length": true,
-      "tls": {
-        "enabled": true,
-        "server_name": "kampong.org",
-        "alpn": "http/1.1",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "path": "/linkvws",
-        "headers": {
-          "Host": "kampong.org"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      }
-    },
-    {
-      "type": "vmess",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇩🇪 § 16",
-      "server": "lammaland.org",
-      "server_port": 443,
-      "uuid": "03fcc618-b93d-6796-6aed-8a38c975d581",
-      "security": "auto",
-      "authenticated_length": true,
-      "tls": {
-        "enabled": true,
-        "server_name": "lammaland.org",
-        "alpn": "http/1.1",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "path": "/linkvws",
-        "headers": {
-          "Host": "lammaland.org"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      }
-    },
-    {
-      "type": "vmess",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇩🇪 § 17",
-      "server": "57.129.64.238",
-      "server_port": 443,
-      "uuid": "03fcc618-b93d-6796-6aed-8a38c975d581",
-      "security": "auto",
-      "authenticated_length": true,
-      "tls": {
-        "enabled": true,
-        "server_name": "kapelleng.com",
-        "alpn": "http/1.1",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "path": "/linkvws",
-        "headers": {
-          "Host": "kapelleng.com"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      }
-    },
-    {
-      "type": "vmess",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇩🇪 § 18",
-      "server": "57.129.28.216",
-      "server_port": 443,
-      "uuid": "03fcc618-b93d-6796-6aed-8a38c975d581",
-      "security": "auto",
-      "authenticated_length": true,
-      "tls": {
-        "enabled": true,
-        "server_name": "fapeng.org",
-        "alpn": "http/1.1",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "path": "/linkvws",
-        "headers": {
-          "Host": "fapeng.org"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      }
-    },
-    {
-      "type": "vmess",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇩🇪 § 19",
-      "server": "57.129.24.130",
-      "server_port": 443,
-      "uuid": "03fcc618-b93d-6796-6aed-8a38c975d581",
-      "security": "auto",
-      "authenticated_length": true,
-      "tls": {
-        "enabled": true,
-        "server_name": "serkat.org",
-        "alpn": "http/1.1",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "path": "/linkvws",
-        "headers": {
-          "Host": "serkat.org"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      }
-    },
-    {
-      "type": "vmess",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇫🇷 § 20",
-      "server": "91.134.8.100",
-      "server_port": 443,
-      "uuid": "03fcc618-b93d-6796-6aed-8a38c975d581",
-      "security": "auto",
-      "authenticated_length": true,
-      "tls": {
-        "enabled": true,
-        "server_name": "kampong.org",
-        "alpn": "http/1.1",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "path": "/linkvws",
-        "headers": {
-          "Host": "kampong.org"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      }
-    },
-    {
-      "type": "vmess",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇵🇱 § 21",
-      "server": "146.59.70.146",
-      "server_port": 443,
-      "uuid": "03fcc618-b93d-6796-6aed-8a38c975d581",
-      "security": "auto",
-      "authenticated_length": true,
-      "tls": {
-        "enabled": true,
-        "server_name": "yichueng.org",
-        "alpn": "http/1.1",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "path": "/linkvws",
-        "headers": {
-          "Host": "yichueng.org"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      }
-    },
-    {
-      "type": "vmess",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇩🇪 § 22",
-      "server": "pelang.org",
-      "server_port": 443,
-      "uuid": "03fcc618-b93d-6796-6aed-8a38c975d581",
-      "security": "auto",
-      "authenticated_length": true,
-      "tls": {
-        "enabled": true,
-        "server_name": "pelang.org",
-        "alpn": "http/1.1",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "path": "/linkvws",
-        "headers": {
-          "Host": "pelang.org"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      }
-    },
-    {
-      "type": "vmess",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇫🇷 § 23",
-      "server": "91.134.8.88",
-      "server_port": 443,
-      "uuid": "03fcc618-b93d-6796-6aed-8a38c975d581",
-      "security": "auto",
-      "authenticated_length": true,
-      "tls": {
-        "enabled": true,
-        "server_name": "lammaland.org",
-        "alpn": "http/1.1",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "path": "/linkvws",
-        "headers": {
-          "Host": "lammaland.org"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      }
-    },
-    {
-      "type": "vmess",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇵🇱 § 24",
-      "server": "57.128.216.125",
-      "server_port": 443,
-      "uuid": "03fcc618-b93d-6796-6aed-8a38c975d581",
-      "security": "auto",
-      "authenticated_length": true,
-      "tls": {
-        "enabled": true,
-        "server_name": "kampong.org",
-        "alpn": "http/1.1",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "path": "/linkvws",
-        "headers": {
-          "Host": "kampong.org"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      }
-    },
-    {
-      "type": "vmess",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇩🇪 § 25",
-      "server": "57.129.59.201",
-      "server_port": 443,
-      "uuid": "03fcc618-b93d-6796-6aed-8a38c975d581",
-      "security": "auto",
-      "authenticated_length": true,
-      "tls": {
-        "enabled": true,
-        "server_name": "kampong.org",
-        "alpn": "http/1.1",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "path": "/linkvws",
-        "headers": {
-          "Host": "kampong.org"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      }
-    },
-    {
-      "type": "vmess",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇬🇧 § 26",
-      "server": "57.128.189.211",
-      "server_port": 443,
-      "uuid": "03fcc618-b93d-6796-6aed-8a38c975d581",
-      "security": "auto",
-      "authenticated_length": true,
-      "tls": {
-        "enabled": true,
-        "server_name": "yichueng.org",
-        "alpn": "http/1.1",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "path": "/linkvws",
-        "headers": {
-          "Host": "yichueng.org"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      }
-    },
-    {
-      "type": "vmess",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇬🇧 § 27",
-      "server": "57.128.189.222",
-      "server_port": 443,
-      "uuid": "03fcc618-b93d-6796-6aed-8a38c975d581",
-      "security": "auto",
-      "authenticated_length": true,
-      "tls": {
-        "enabled": true,
-        "server_name": "lammaland.org",
-        "alpn": "http/1.1",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "path": "/linkvws",
-        "headers": {
-          "Host": "lammaland.org"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      }
-    },
-    {
-      "type": "vmess",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇩🇪 § 28",
-      "server": "fapeng.org",
-      "server_port": 443,
-      "uuid": "03fcc618-b93d-6796-6aed-8a38c975d581",
-      "security": "auto",
-      "authenticated_length": true,
-      "tls": {
-        "enabled": true,
-        "server_name": "fapeng.org",
-        "alpn": "http/1.1",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "path": "/linkvws",
-        "headers": {
-          "Host": "fapeng.org"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      }
-    },
-    {
-      "type": "vmess",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇩🇪 § 29",
-      "server": "141.95.126.134",
-      "server_port": 443,
-      "uuid": "03fcc618-b93d-6796-6aed-8a38c975d581",
-      "security": "auto",
-      "authenticated_length": true,
-      "tls": {
-        "enabled": true,
-        "server_name": "jamekk.org",
-        "alpn": "http/1.1",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "path": "/linkvws",
-        "headers": {
-          "Host": "jamekk.org"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      }
-    },
-    {
-      "type": "vmess",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇩🇪 § 30",
-      "server": "2001:41d0:70e:c100::",
-      "server_port": 443,
-      "uuid": "03fcc618-b93d-6796-6aed-8a38c975d581",
-      "security": "auto",
-      "authenticated_length": true,
-      "tls": {
-        "enabled": true,
-        "server_name": "serkat.org",
-        "alpn": "http/1.1",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "path": "/linkvws",
-        "headers": {
-          "Host": "serkat.org"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      }
-    },
-    {
-      "type": "vmess",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇨🇦 § 31",
-      "server": "148.113.176.192",
-      "server_port": 443,
-      "uuid": "03fcc618-b93d-6796-6aed-8a38c975d581",
-      "security": "auto",
-      "authenticated_length": true,
-      "tls": {
-        "enabled": true,
-        "server_name": "fapeng.org",
-        "alpn": "http/1.1",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "path": "/linkvws",
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      }
-    },
-    {
-      "type": "vmess",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇩🇪 § 32",
-      "server": "57.129.28.65",
-      "server_port": 443,
-      "uuid": "03fcc618-b93d-6796-6aed-8a38c975d581",
-      "security": "auto",
-      "authenticated_length": true,
-      "tls": {
-        "enabled": true,
-        "server_name": "kapelleng.com",
-        "alpn": "http/1.1",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "path": "/linkvws",
-        "headers": {
-          "Host": "kapelleng.com"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      }
-    },
-    {
-      "type": "vmess",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇬🇧 § 33",
-      "server": "57.128.189.143",
-      "server_port": 443,
-      "uuid": "03fcc618-b93d-6796-6aed-8a38c975d581",
-      "security": "auto",
-      "authenticated_length": true,
-      "tls": {
-        "enabled": true,
-        "server_name": "lammaland.org",
-        "alpn": "http/1.1",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "path": "/linkvws",
-        "headers": {
-          "Host": "lammaland.org"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      }
-    },
-    {
-      "type": "vmess",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇩🇪 § 34",
-      "server": "57.129.59.199",
-      "server_port": 443,
-      "uuid": "03fcc618-b93d-6796-6aed-8a38c975d581",
-      "security": "auto",
-      "authenticated_length": true,
-      "tls": {
-        "enabled": true,
-        "server_name": "kampong.org",
-        "alpn": "http/1.1",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "path": "/linkvws",
-        "headers": {
-          "Host": "kampong.org"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      }
-    },
-    {
-      "type": "vmess",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇫🇷 § 35",
-      "server": "kampong.org",
-      "server_port": 443,
-      "uuid": "03fcc618-b93d-6796-6aed-8a38c975d581",
-      "security": "auto",
-      "authenticated_length": true,
-      "tls": {
-        "enabled": true,
-        "server_name": "kampong.org",
-        "alpn": "http/1.1",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "path": "/linkvws",
-        "headers": {
-          "Host": "kampong.org"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      }
-    },
-    {
-      "type": "vmess",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇭🇰 § 36",
-      "server": "8.217.187.15",
-      "server_port": 31254,
-      "uuid": "338938c6-4acd-413e-959c-cae13b21b9e6",
-      "security": "auto",
-      "authenticated_length": true,
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "path": "/arki",
-        "max_early_data": 2048,
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      }
-    },
-    {
-      "type": "vmess",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇭🇰 § 37",
-      "server": "47.238.252.154",
-      "server_port": 20521,
-      "uuid": "87bb9d49-6345-42d4-9ee4-91dd8a6ca544",
-      "security": "auto",
-      "authenticated_length": true,
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      }
-    },
-    {
-      "type": "vmess",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇨🇦 § 38",
-      "server": "15.235.85.156",
-      "server_port": 443,
-      "uuid": "03fcc618-b93d-6796-6aed-8a38c975d581",
-      "security": "auto",
-      "authenticated_length": true,
-      "tls": {
-        "enabled": true,
-        "server_name": "kampong.org",
-        "alpn": "http/1.1",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "path": "/linkvws",
-        "headers": {
-          "Host": "kampong.org"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      }
-    },
-    {
-      "type": "vmess",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇩🇪 § 39",
-      "server": "57.129.28.212",
-      "server_port": 443,
-      "uuid": "03fcc618-b93d-6796-6aed-8a38c975d581",
-      "security": "auto",
-      "authenticated_length": true,
-      "tls": {
-        "enabled": true,
-        "server_name": "fapeng.org",
-        "alpn": "http/1.1",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "path": "/linkvws",
-        "headers": {
-          "Host": "fapeng.org"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      }
-    },
-    {
-      "type": "vmess",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇭🇰 § 40",
-      "server": "47.76.118.235",
-      "server_port": 35407,
-      "uuid": "b19fe95d-32ac-416a-9d46-d76d03f91873",
-      "security": "auto",
-      "authenticated_length": true,
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "path": "/arki",
-        "max_early_data": 2048,
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      }
-    },
-    {
-      "type": "vmess",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇲🇾 § 41",
-      "server": "45.89.107.51",
-      "server_port": 20521,
-      "uuid": "3dbaa5c3-f493-4ad1-9c5d-8525f4962a6c",
-      "security": "auto",
-      "authenticated_length": true,
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      }
-    },
-    {
-      "type": "vmess",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇬🇧 § 42",
-      "server": "57.128.189.240",
-      "server_port": 443,
-      "uuid": "03fcc618-b93d-6796-6aed-8a38c975d581",
-      "security": "auto",
-      "authenticated_length": true,
-      "tls": {
-        "enabled": true,
-        "server_name": "57.128.189.240",
-        "alpn": "http/1.1",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "path": "/linkvws",
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      }
-    },
-    {
-      "type": "shadowsocks",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇺🇸 § 43",
-      "server": "45.87.175.65",
-      "server_port": 8080,
-      "method": "chacha20-ietf-poly1305",
-      "password": "oZIoA69Q8yhcQV8ka3Pa3A"
-    },
-    {
-      "type": "shadowsocks",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇺🇸 § 44",
-      "server": "45.87.175.188",
-      "server_port": 8080,
-      "method": "chacha20-ietf-poly1305",
-      "password": "1RWwXhwfAB5gAEozU4G2Pg"
-    },
-    {
-      "type": "shadowsocks",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇺🇸 § 45",
-      "server": "45.87.175.154",
-      "server_port": 8080,
-      "method": "chacha20-ietf-poly1305",
-      "password": "QCXDxuDlTTMD7jtgHUjIoj"
-    },
-    {
-      "type": "shadowsocks",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇳🇱 § 46",
-      "server": "194.135.46.13",
-      "server_port": 1419,
-      "method": "chacha20-ietf-poly1305",
-      "password": "EacZIMFwmMCR6dWqN5Ah0c"
-    },
-    {
-      "type": "shadowsocks",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇹🇷 § 47",
-      "server": "185.123.101.241",
-      "server_port": 990,
-      "method": "chacha20-ietf-poly1305",
-      "password": "f8f7aCzcPKbsF8p3"
-    },
-    {
-      "type": "shadowsocks",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇫🇮 § 48",
-      "server": "promo18v.bystrivpn.ru",
-      "server_port": 443,
-      "method": "chacha20-ietf-poly1305",
-      "password": "dAHM1pm8ag7KdlrUylQi6t"
-    },
-    {
-      "type": "shadowsocks",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇺🇸 § 49",
-      "server": "45.87.175.166",
-      "server_port": 8080,
-      "method": "chacha20-ietf-poly1305",
-      "password": "1RWwXhwfAB5gAEozU4G2Pg"
-    },
-    {
-      "type": "shadowsocks",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇳🇱 § 50",
-      "server": "213.109.147.242",
-      "server_port": 62685,
-      "method": "chacha20-ietf-poly1305",
-      "password": "VpKABcOpNNA0l5G2AVOmw8"
-    },
-    {
-      "type": "shadowsocks",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇺🇸 § 51",
-      "server": "104.167.197.25",
-      "server_port": 57456,
-      "method": "chacha20-ietf-poly1305",
-      "password": "360e21d21977dc11"
-    },
-    {
-      "type": "shadowsocks",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇺🇸 § 52",
-      "server": "144.126.146.38",
-      "server_port": 30100,
-      "method": "chacha20-ietf-poly1305",
-      "password": "741ddced-e6ee-4175-9c1a-e524009f9045"
-    },
-    {
-      "type": "shadowsocks",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇮🇩 § 53",
-      "server": "154.205.159.100",
-      "server_port": 990,
-      "method": "chacha20-ietf-poly1305",
-      "password": "f8f7aCzcPKbsF8p3"
-    },
-    {
-      "type": "shadowsocks",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇵🇱 § 54",
-      "server": "92.118.205.228",
-      "server_port": 990,
-      "method": "chacha20-ietf-poly1305",
-      "password": "f8f7aCzcPKbsF8p3"
-    },
-    {
-      "type": "shadowsocks",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇮🇳 § 55",
-      "server": "103.111.114.29",
-      "server_port": 57456,
-      "method": "chacha20-ietf-poly1305",
-      "password": "360e21d21977dc11"
-    },
-    {
-      "type": "shadowsocks",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇺🇸 § 56",
-      "server": "45.87.175.28",
-      "server_port": 8080,
-      "method": "chacha20-ietf-poly1305",
-      "password": "oZIoA69Q8yhcQV8ka3Pa3A"
-    },
-    {
-      "type": "shadowsocks",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇺🇸 § 57",
-      "server": "104.192.226.106",
-      "server_port": 990,
-      "method": "chacha20-ietf-poly1305",
-      "password": "f8f7aCzcPKbsF8p3"
-    },
-    {
-      "type": "shadowsocks",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇮🇳 § 58",
-      "server": "134.209.147.198",
-      "server_port": 990,
-      "method": "chacha20-ietf-poly1305",
-      "password": "f8f7aCzcPKbsF8p3"
-    },
-    {
-      "type": "shadowsocks",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇨🇦 § 59",
-      "server": "64.74.163.130",
-      "server_port": 990,
-      "method": "chacha20-ietf-poly1305",
-      "password": "f8f7aCzcPKbsF8p3"
-    },
-    {
-      "type": "shadowsocks",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇭🇰 § 60",
-      "server": "203.23.128.33",
-      "server_port": 990,
-      "method": "chacha20-ietf-poly1305",
-      "password": "f8f7aCzcPKbsF8p3"
-    },
-    {
-      "type": "shadowsocks",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇬🇧 § 61",
-      "server": "141.98.101.178",
-      "server_port": 443,
-      "method": "aes-128-gcm",
-      "password": "shadowsocks"
-    },
-    {
-      "type": "shadowsocks",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇳🇱 § 62",
-      "server": "193.29.139.251",
-      "server_port": 8080,
-      "method": "chacha20-ietf-poly1305",
-      "password": "oZIoA69Q8yhcQV8ka3Pa3A"
-    },
-    {
-      "type": "shadowsocks",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇺🇸 § 63",
-      "server": "45.87.175.171",
-      "server_port": 8080,
-      "method": "chacha20-ietf-poly1305",
-      "password": "4a2rfixophdjffa8KVA4Aa"
-    },
-    {
-      "type": "shadowsocks",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇨🇾 § 64",
-      "server": "134.255.210.49",
-      "server_port": 990,
-      "method": "chacha20-ietf-poly1305",
-      "password": "f8f7aCzcPKbsF8p3"
-    },
-    {
-      "type": "shadowsocks",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇳🇱 § 65",
-      "server": "193.29.139.235",
-      "server_port": 8080,
-      "method": "chacha20-ietf-poly1305",
-      "password": "oZIoA69Q8yhcQV8ka3Pa3A"
-    },
-    {
-      "type": "shadowsocks",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇨🇴 § 66",
-      "server": "181.119.30.20",
-      "server_port": 990,
-      "method": "chacha20-ietf-poly1305",
-      "password": "f8f7aCzcPKbsF8p3"
-    },
-    {
-      "type": "shadowsocks",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇦🇷 § 67",
-      "server": "38.54.45.129",
-      "server_port": 990,
-      "method": "chacha20-ietf-poly1305",
-      "password": "f8f7aCzcPKbsF8p3"
-    },
-    {
-      "type": "shadowsocks",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇯🇵 § 68",
-      "server": "160.16.123.124",
-      "server_port": 10087,
-      "method": "aes-128-gcm",
-      "password": "10086"
-    },
-    {
-      "type": "shadowsocks",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇻🇳 § 69",
-      "server": "103.163.218.2",
-      "server_port": 990,
-      "method": "chacha20-ietf-poly1305",
-      "password": "f8f7aCzcPKbsF8p3"
-    },
-    {
-      "type": "shadowsocks",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇺🇸 § 70",
-      "server": "45.87.175.69",
-      "server_port": 8080,
-      "method": "chacha20-ietf-poly1305",
-      "password": "oZIoA69Q8yhcQV8ka3Pa3A"
-    },
-    {
-      "type": "shadowsocks",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇺🇸 § 71",
-      "server": "45.87.175.10",
-      "server_port": 8080,
-      "method": "chacha20-ietf-poly1305",
-      "password": "oZIoA69Q8yhcQV8ka3Pa3A"
-    },
-    {
-      "type": "shadowsocks",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇺🇸 § 72",
-      "server": "45.87.175.199",
-      "server_port": 8080,
-      "method": "chacha20-ietf-poly1305",
-      "password": "cvII85TrW6n0OGyfpHVS1u"
-    },
-    {
-      "type": "shadowsocks",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇷🇺 § 73",
-      "server": "185.126.239.250",
-      "server_port": 990,
-      "method": "chacha20-ietf-poly1305",
-      "password": "f8f7aCzcPKbsF8p3"
-    },
-    {
-      "type": "shadowsocks",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇹🇼 § 74",
-      "server": "223.165.4.173",
-      "server_port": 990,
-      "method": "chacha20-ietf-poly1305",
-      "password": "f8f7aCzcPKbsF8p3"
-    },
-    {
-      "type": "shadowsocks",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇳🇱 § 75",
-      "server": "193.29.139.202",
-      "server_port": 8080,
-      "method": "chacha20-ietf-poly1305",
-      "password": "oZIoA69Q8yhcQV8ka3Pa3A"
-    },
-    {
-      "type": "shadowsocks",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇨🇦 § 76",
-      "server": "142.4.216.225",
-      "server_port": 80,
-      "method": "chacha20-ietf-poly1305",
-      "password": "JIhN6rBKkaEboLNXVSv5rq"
-    },
-    {
-      "type": "shadowsocks",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇯🇵 § 77",
-      "server": "153.121.51.214",
-      "server_port": 10087,
-      "method": "aes-128-gcm",
-      "password": "10086"
-    },
-    {
-      "type": "shadowsocks",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇺🇸 § 78",
-      "server": "45.87.175.22",
-      "server_port": 8080,
-      "method": "chacha20-ietf-poly1305",
-      "password": "oZIoA69Q8yhcQV8ka3Pa3A"
-    },
-    {
-      "type": "shadowsocks",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇯🇵 § 79",
-      "server": "153.121.43.183",
-      "server_port": 10087,
-      "method": "aes-128-gcm",
-      "password": "10086"
-    },
-    {
-      "type": "shadowsocks",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی § 80",
-      "server": "pupas-shirting-unsung.freesocks.work",
-      "server_port": 443,
-      "method": "chacha20-ietf-poly1305",
-      "password": "p78naCf2EfOlRSLTX0wFVx"
-    },
-    {
-      "type": "shadowsocks",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی § 81",
-      "server": "185.47.255.22",
-      "server_port": 990,
-      "method": "chacha20-ietf-poly1305",
-      "password": "f8f7aCzcPKbsF8p3"
-    },
-    {
-      "type": "shadowsocks",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی § 82",
-      "server": "45.87.175.35",
-      "server_port": 8080,
-      "method": "chacha20-ietf-poly1305",
-      "password": "oZIoA69Q8yhcQV8ka3Pa3A"
-    },
-    {
-      "type": "shadowsocks",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی § 83",
-      "server": "45.87.175.58",
-      "server_port": 8080,
-      "method": "chacha20-ietf-poly1305",
-      "password": "oZIoA69Q8yhcQV8ka3Pa3A"
-    },
-    {
-      "type": "shadowsocks",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی § 84",
-      "server": "pl.vpnsparta.pro",
-      "server_port": 57456,
-      "method": "chacha20-ietf-poly1305",
-      "password": "360e21d21977dc11"
-    },
-    {
-      "type": "hysteria2",
-      "tag": "Channel id: @SiNAVM🇫🇷 § 85",
-      "server": "51.159.111.32",
-      "server_port": 5355,
-      "password": "dongtaiwang.com",
-      "tls": {
-        "enabled": true,
-        "server_name": "www.bing.com",
-        "insecure": true
-      }
-    },
-    {
-      "type": "hysteria",
-      "tag": "Channel id: @SiNAVM🇫🇷 § 86",
-      "server": "195.154.200.40",
-      "server_port": 15010,
-      "auth_str": "dongtaiwang.com",
-      "tls": {
-        "enabled": true,
-        "server_name": "apple.com",
-        "insecure": true
-      }
-    },
-    {
-      "type": "vmess",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇩🇪 § 92",
-      "server": "57.129.24.131",
-      "server_port": 443,
-      "uuid": "03fcc618-b93d-6796-6aed-8a38c975d581",
-      "security": "auto",
-      "authenticated_length": true,
-      "tls": {
-        "enabled": true,
-        "server_name": "kampong.org",
-        "alpn": "http/1.1",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "path": "/linkvws",
-        "headers": {
-          "Host": "kampong.org"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      }
-    },
-    {
-      "type": "vmess",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇩🇪 § 93",
-      "server": "57.129.59.195",
-      "server_port": 443,
-      "uuid": "03fcc618-b93d-6796-6aed-8a38c975d581",
-      "security": "auto",
-      "authenticated_length": true,
-      "tls": {
-        "enabled": true,
-        "server_name": "kampong.org",
-        "alpn": "http/1.1",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "path": "/linkvws",
-        "headers": {
-          "Host": "kampong.org"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      }
-    },
-    {
-      "type": "vmess",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇩🇪 § 94",
-      "server": "57.129.59.202",
-      "server_port": 443,
-      "uuid": "03fcc618-b93d-6796-6aed-8a38c975d581",
-      "security": "auto",
-      "authenticated_length": true,
-      "tls": {
-        "enabled": true,
-        "server_name": "fapeng.org",
-        "alpn": "http/1.1",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "path": "/linkvws",
-        "headers": {
-          "Host": "fapeng.org"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      }
-    },
-    {
-      "type": "vmess",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇩🇪 § 95",
-      "server": "pelang.org",
-      "server_port": 443,
-      "uuid": "03fcc618-b93d-6796-6aed-8a38c975d581",
-      "security": "auto",
-      "authenticated_length": true,
-      "tls": {
-        "enabled": true,
-        "server_name": "pelang.org",
-        "alpn": "http/1.1",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "path": "/linkvws",
-        "headers": {
-          "Host": "pelang.org"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      }
-    },
-    {
-      "type": "vmess",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇩🇪 § 96",
-      "server": "57.129.59.193",
-      "server_port": 443,
-      "uuid": "03fcc618-b93d-6796-6aed-8a38c975d581",
-      "security": "auto",
-      "authenticated_length": true,
-      "tls": {
-        "enabled": true,
-        "server_name": "serkat.org",
-        "alpn": "http/1.1",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "path": "/linkvws",
-        "headers": {
-          "Host": "serkat.org"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇩🇪 § 97",
-      "server": "138.199.199.55",
-      "server_port": 666,
-      "uuid": "7a5c388c-5f5f-462b-826e-8c32e539ebbc",
-      "packet_encoding": "xudp"
-    },
-    {
-      "type": "vless",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇨🇦 § 98",
-      "server": "162.159.43.92",
-      "server_port": 443,
-      "uuid": "0c0537c3-f0fb-40e6-bd59-f5038e1855ed",
-      "tls": {
-        "enabled": true,
-        "server_name": "juzi.634676.xyz",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "juzi.634676.xyz"
-        },
-        "max_early_data": 2560,
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      },
-      "packet_encoding": "xudp"
-    },
-    {
-      "type": "vless",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇨🇦 § 99",
-      "server": "www.speedtest.net",
-      "server_port": 2082,
-      "uuid": "4d1a8752-2d4a-441b-81f6-df2bb1dcfa8e",
-      "transport": {
-        "type": "ws",
-        "path": "/@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn",
-        "headers": {
-          "Host": "novinsoft.ir.oradoshop.com.persiangsm.ir.digikala.com.abadis.ir.shad.ir.divar.ir.downloadly.com.aparat.com.cafebazar.ir.varzesh3.com.ninisite.com.abadis.ir.bama.ir.p30download.ir.telewebion.bmi.ir.shad.ir.mayket.com.ninisite.top."
-        },
-        "max_early_data": 2082,
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      },
-      "packet_encoding": "xudp"
-    },
-    {
-      "type": "vless",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇫🇮 § 100",
-      "server": "46.62.156.154",
-      "server_port": 59594,
-      "uuid": "c5bcf3fb-eb77-4472-8750-55b56efef262",
-      "transport": {
-        "type": "ws"
-      },
-      "packet_encoding": "xudp"
-    },
-    {
-      "type": "vless",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی § 101",
-      "server": "172.67.168.193",
-      "server_port": 80,
-      "uuid": "9096805c-e6b8-4da9-9bdc-d76e392e6630",
-      "transport": {
-        "type": "ws",
-        "path": "/Free-VPN-Geo-Project/181.214.208.46-8011",
-        "headers": {
-          "Host": "gamang.gpj2.dpdns.org"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      },
-      "packet_encoding": "xudp"
-    },
-    {
-      "type": "vmess",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇩🇪 § 102",
-      "server": "57.129.28.214",
-      "server_port": 443,
-      "uuid": "03fcc618-b93d-6796-6aed-8a38c975d581",
-      "security": "auto",
-      "authenticated_length": true,
-      "tls": {
-        "enabled": true,
-        "server_name": "kampong.org",
-        "alpn": "http/1.1",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "path": "/linkvws",
-        "headers": {
-          "Host": "kampong.org"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      }
-    },
-    {
-      "type": "vmess",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇩🇪 § 103",
-      "server": "57.129.28.216",
-      "server_port": 443,
-      "uuid": "03fcc618-b93d-6796-6aed-8a38c975d581",
-      "security": "auto",
-      "authenticated_length": true,
-      "tls": {
-        "enabled": true,
-        "server_name": "fapeng.org",
-        "alpn": "http/1.1",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "path": "/linkvws",
-        "headers": {
-          "Host": "fapeng.org"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      }
-    },
-    {
-      "type": "vmess",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇩🇪 § 104",
-      "server": "2001:41d0:70e:c100::",
-      "server_port": 443,
-      "uuid": "03fcc618-b93d-6796-6aed-8a38c975d581",
-      "security": "auto",
-      "authenticated_length": true,
-      "tls": {
-        "enabled": true,
-        "server_name": "serkat.org",
-        "alpn": "http/1.1",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "path": "/linkvws",
-        "headers": {
-          "Host": "serkat.org"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇨🇦 § 105",
-      "server": "104.20.30.132",
-      "server_port": 443,
-      "uuid": "41b55c53-7776-4727-b05d-1ccf9cc409a5",
-      "tls": {
-        "enabled": true,
-        "server_name": "gamang.gpj2.dpdns.org",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/Free-VPN-Geo-Project/91.187.93.166-443",
-        "headers": {
-          "Host": "gamang.gpj2.dpdns.org"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      },
-      "packet_encoding": "xudp"
-    },
-    {
-      "type": "vless",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇳🇱 § 106",
-      "server": "91.201.113.193",
-      "server_port": 443,
-      "uuid": "b65f4df7-f6af-42b2-877a-cef33f21675e",
-      "tls": {
-        "enabled": true,
-        "server_name": "kejiland.freewarp.eu.org",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/snippets/ip=proxyip.fxxk.dedyn.io:443",
-        "headers": {
-          "Host": "kejiland.freewarp.eu.org"
-        },
-        "max_early_data": 2560,
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      },
-      "packet_encoding": "xudp"
-    },
-    {
-      "type": "vmess",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇩🇪 § 107",
-      "server": "57.129.25.23",
-      "server_port": 443,
-      "uuid": "03fcc618-b93d-6796-6aed-8a38c975d581",
-      "security": "auto",
-      "authenticated_length": true,
-      "tls": {
-        "enabled": true,
-        "server_name": "yichueng.org",
-        "alpn": "http/1.1",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "path": "/linkvws",
-        "headers": {
-          "Host": "yichueng.org"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇺🇸 § 108",
-      "server": "170.114.45.44",
-      "server_port": 2096,
-      "uuid": "12345678-1234-1234-1234-123456789123",
-      "tls": {
-        "enabled": true,
-        "server_name": "kejiland.freewarp.eu.org",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/snippets",
-        "headers": {
-          "Host": "kejiland.freewarp.eu.org"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      },
-      "packet_encoding": "xudp"
-    },
-    {
-      "type": "vmess",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇩🇪 § 109",
-      "server": "57.129.59.199",
-      "server_port": 443,
-      "uuid": "03fcc618-b93d-6796-6aed-8a38c975d581",
-      "security": "auto",
-      "authenticated_length": true,
-      "tls": {
-        "enabled": true,
-        "server_name": "kampong.org",
-        "alpn": "http/1.1",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "path": "/linkvws",
-        "headers": {
-          "Host": "kampong.org"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇫🇷 § 110",
-      "server": "185.242.87.69",
-      "server_port": 8880,
-      "uuid": "df0680ca-e43c-498d-ed86-8e196eedd012",
-      "transport": {
-        "type": "grpc",
-        "idle_timeout": "15s",
-        "ping_timeout": "15s"
-      },
-      "packet_encoding": "xudp"
-    },
-    {
-      "type": "shadowsocks",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇺🇸 § 111",
-      "server": "45.87.175.190",
-      "server_port": 8080,
-      "method": "chacha20-ietf-poly1305",
-      "password": "cvII85TrW6n0OGyfpHVS1u"
-    },
-    {
-      "type": "vless",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇺🇸 § 112",
-      "server": "199.34.229.32",
-      "server_port": 2096,
-      "uuid": "b65f4df7-f6af-42b2-877a-cef33f21675e",
-      "tls": {
-        "enabled": true,
-        "server_name": "kejiland.freewarp.eu.org",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/snippetsfp",
-        "headers": {
-          "Host": "kejiland.freewarp.eu.org"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      },
-      "packet_encoding": "xudp"
-    },
-    {
-      "type": "vless",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇸🇪 § 113",
-      "server": "jone.fast-turbooserver.com",
-      "server_port": 8443,
-      "uuid": "turboo-server",
-      "transport": {
-        "type": "ws",
-        "path": "/Turboo-Server",
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      },
-      "packet_encoding": "xudp"
-    },
-    {
-      "type": "shadowsocks",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی § 114",
-      "server": "45.87.175.175",
-      "server_port": 8080,
-      "method": "chacha20-ietf-poly1305",
-      "password": "QCXDxuDlTTMD7jtgHUjIoj"
-    },
-    {
-      "type": "vmess",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی § 115",
-      "server": "57.129.24.130",
-      "server_port": 443,
-      "uuid": "03fcc618-b93d-6796-6aed-8a38c975d581",
-      "security": "auto",
-      "authenticated_length": true,
-      "tls": {
-        "enabled": true,
-        "server_name": "serkat.org",
-        "alpn": "http/1.1",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "path": "/linkvws",
-        "headers": {
-          "Host": "serkat.org"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇨🇦 § 116",
-      "server": "104.21.48.1",
-      "server_port": 2053,
-      "uuid": "3d4f244d-4860-4603-9546-184ee632083f",
-      "tls": {
-        "enabled": true,
-        "server_name": "c6jH01dP783kNPD1yGxXwr4d0doe89O1.pAGEs.dEv",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/XJlWBmgB2NGaiV68?ed=2560fp=randomized",
-        "headers": {
-          "Host": "c6jh01dp783knpd1ygxxwr4d0doe89o1.pages.dev"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      },
-      "packet_encoding": "xudp"
-    },
-    {
-      "type": "vless",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇫🇷 § 117",
-      "server": "185.242.87.159",
+      "tag": "🇫🇷@𝗦𝗶𝗡𝗔𝗩𝗠  § 25",
+      "server": "638929259959016671.dezful-drc-tusabq.info",
       "server_port": 8880,
       "uuid": "df0680ca-e43c-498d-ed86-8e196eedd012",
       "transport": {
@@ -2454,57 +623,215 @@
     },
     {
       "type": "vless",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی § 118",
-      "server": "176.222.53.140",
-      "server_port": 8000,
-      "uuid": "b65f4df7-f6af-42b2-877a-cef33f21675e",
-      "tls": {
-        "enabled": true,
-        "server_name": "kejiland.freewarp.eu.org",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
+      "tag": "Channel: @SiNAVM 🇬🇧 § 26",
+      "server": "638953873686405389.lahijan-drc-tusaas.info",
+      "server_port": 8880,
+      "uuid": "df0680ca-e43c-498d-ed86-8e196eedd012",
       "transport": {
-        "type": "ws",
-        "path": "/snippets/ip=proxyip.fxxk.dedyn.io:443",
-        "headers": {
-          "Host": "kejiland.freewarp.eu.org"
-        },
-        "max_early_data": 2560,
-        "early_data_header_name": "Sec-WebSocket-Protocol"
+        "type": "grpc",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s"
       },
       "packet_encoding": "xudp"
     },
     {
       "type": "vless",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇨🇦 § 119",
-      "server": "medium.com",
-      "server_port": 443,
-      "uuid": "f2a73750-3087-48ff-a763-1348c15dce68",
-      "tls": {
-        "enabled": true,
-        "server_name": "rAyAn-007.mAxImA.DpDnS.OrG",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
+      "tag": "Channel: @SiNAVM 🇱🇹 § 27",
+      "server": "94.131.13.163",
+      "server_port": 8880,
+      "uuid": "df0680ca-e43c-498d-ed86-8e196eedd012",
       "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "rAyAn-007.mAxImA.DpDnS.OrG"
-        },
-        "max_early_data": 2560,
-        "early_data_header_name": "Sec-WebSocket-Protocol"
+        "type": "grpc",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s"
       },
       "packet_encoding": "xudp"
     },
     {
       "type": "vless",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی § 120",
+      "tag": "Channel: @SiNAVM  § 28",
+      "server": "185.242.87.195",
+      "server_port": 8880,
+      "uuid": "df0680ca-e43c-498d-ed86-8e196eedd012",
+      "transport": {
+        "type": "grpc",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s"
+      },
+      "packet_encoding": "xudp"
+    },
+    {
+      "type": "vless",
+      "tag": "Channel: @SiNAVM 🇱🇹 § 29",
+      "server": "638948510378508794.mashhad-drc-tusacaf.info",
+      "server_port": 8880,
+      "uuid": "df0680ca-e43c-498d-ed86-8e196eedd012",
+      "transport": {
+        "type": "grpc",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s"
+      },
+      "packet_encoding": "xudp"
+    },
+    {
+      "type": "vless",
+      "tag": "Channel: @SiNAVM  § 30",
+      "server": "45.140.147.74",
+      "server_port": 8880,
+      "uuid": "df0680ca-e43c-498d-ed86-8e196eedd012",
+      "transport": {
+        "type": "grpc",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s"
+      },
+      "packet_encoding": "xudp"
+    },
+    {
+      "type": "vless",
+      "tag": "Channel: @SiNAVM 🇬🇧 § 31",
+      "server": "45.89.111.80",
+      "server_port": 8880,
+      "uuid": "df0680ca-e43c-498d-ed86-8e196eedd012",
+      "transport": {
+        "type": "grpc",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s"
+      },
+      "packet_encoding": "xudp"
+    },
+    {
+      "type": "vless",
+      "tag": "Channel: @SiNAVM 🇬🇧 § 32",
+      "server": "638953873686412975.lahijan-drc-tusaas.info",
+      "server_port": 8880,
+      "uuid": "df0680ca-e43c-498d-ed86-8e196eedd012",
+      "transport": {
+        "type": "grpc",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s"
+      },
+      "packet_encoding": "xudp"
+    },
+    {
+      "type": "vless",
+      "tag": "🇫🇷@𝗦𝗶𝗡𝗔𝗩𝗠  § 33",
+      "server": "638950330462896620.neyshabur-prx-dnraacr.info",
+      "server_port": 8880,
+      "uuid": "df0680ca-e43c-498d-ed86-8e196eedd012",
+      "transport": {
+        "type": "grpc",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s"
+      },
+      "packet_encoding": "xudp"
+    },
+    {
+      "type": "vless",
+      "tag": "🇫🇷@𝗦𝗶𝗡𝗔𝗩𝗠  § 34",
+      "server": "185.242.87.72",
+      "server_port": 8880,
+      "uuid": "df0680ca-e43c-498d-ed86-8e196eedd012",
+      "transport": {
+        "type": "grpc",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s"
+      },
+      "packet_encoding": "xudp"
+    },
+    {
+      "type": "vless",
+      "tag": "Channel: @SiNAVM  § 35",
+      "server": "185.234.66.76",
+      "server_port": 8880,
+      "uuid": "df0680ca-e43c-498d-ed86-8e196eedd012",
+      "transport": {
+        "type": "grpc",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s"
+      },
+      "packet_encoding": "xudp"
+    },
+    {
+      "type": "vless",
+      "tag": "Channel: @SiNAVM  § 36",
+      "server": "95.164.6.149",
+      "server_port": 8880,
+      "uuid": "df0680ca-e43c-498d-ed86-8e196eedd012",
+      "transport": {
+        "type": "grpc",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s"
+      },
+      "packet_encoding": "xudp"
+    },
+    {
+      "type": "vless",
+      "tag": "Channel: @SiNAVM 🇱🇹 § 37",
+      "server": "638952778381278790.rasht-drc-tusacaf.info",
+      "server_port": 8880,
+      "uuid": "df0680ca-e43c-498d-ed86-8e196eedd012",
+      "transport": {
+        "type": "grpc",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s"
+      },
+      "packet_encoding": "xudp"
+    },
+    {
+      "type": "vless",
+      "tag": "Channel: @SiNAVM  § 38",
+      "server": "185.242.87.119",
+      "server_port": 8880,
+      "uuid": "df0680ca-e43c-498d-ed86-8e196eedd012",
+      "transport": {
+        "type": "grpc",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s"
+      },
+      "packet_encoding": "xudp"
+    },
+    {
+      "type": "vless",
+      "tag": "Channel: @SiNAVM 🇱🇹 § 39",
+      "server": "638938180207059946.rome-drc-tusacaf.info",
+      "server_port": 8880,
+      "uuid": "df0680ca-e43c-498d-ed86-8e196eedd012",
+      "transport": {
+        "type": "grpc",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s"
+      },
+      "packet_encoding": "xudp"
+    },
+    {
+      "type": "vless",
+      "tag": "Channel: @SiNAVM  § 40",
+      "server": "638950280342832628.esfahan-drc-tusaas.info",
+      "server_port": 8880,
+      "uuid": "df0680ca-e43c-498d-ed86-8e196eedd012",
+      "transport": {
+        "type": "grpc",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s"
+      },
+      "packet_encoding": "xudp"
+    },
+    {
+      "type": "vless",
+      "tag": "🇫🇷@𝗦𝗶𝗡𝗔𝗩𝗠  § 41",
+      "server": "195.42.233.125",
+      "server_port": 8880,
+      "uuid": "df0680ca-e43c-498d-ed86-8e196eedd012",
+      "transport": {
+        "type": "grpc",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s"
+      },
+      "packet_encoding": "xudp"
+    },
+    {
+      "type": "vless",
+      "tag": "Channel: @SiNAVM  § 42",
       "server": "45.12.142.89",
       "server_port": 8880,
       "uuid": "df0680ca-e43c-498d-ed86-8e196eedd012",
@@ -2516,16 +843,125 @@
       "packet_encoding": "xudp"
     },
     {
-      "type": "shadowsocks",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی § 121",
-      "server": "promo18v.bystrivpn.ru",
-      "server_port": 443,
-      "method": "chacha20-ietf-poly1305",
-      "password": "dAHM1pm8ag7KdlrUylQi6t"
+      "type": "vless",
+      "tag": "Channel: @SiNAVM  § 43",
+      "server": "194.4.49.19",
+      "server_port": 8880,
+      "uuid": "df0680ca-e43c-498d-ed86-8e196eedd012",
+      "transport": {
+        "type": "grpc",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s"
+      },
+      "packet_encoding": "xudp"
     },
     {
       "type": "vless",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی § 122",
+      "tag": "Channel: @SiNAVM  § 44",
+      "server": "94.131.13.181",
+      "server_port": 8880,
+      "uuid": "df0680ca-e43c-498d-ed86-8e196eedd012",
+      "transport": {
+        "type": "grpc",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s"
+      },
+      "packet_encoding": "xudp"
+    },
+    {
+      "type": "vless",
+      "tag": "Channel: @SiNAVM 🇬🇧 § 45",
+      "server": "638948510129819770.dezful-drc-tusaas.info",
+      "server_port": 8880,
+      "uuid": "df0680ca-e43c-498d-ed86-8e196eedd012",
+      "transport": {
+        "type": "grpc",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s"
+      },
+      "packet_encoding": "xudp"
+    },
+    {
+      "type": "vless",
+      "tag": "Channel: @SiNAVM  § 46",
+      "server": "84.246.85.62",
+      "server_port": 8880,
+      "uuid": "df0680ca-e43c-498d-ed86-8e196eedd012",
+      "transport": {
+        "type": "grpc",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s"
+      },
+      "packet_encoding": "xudp"
+    },
+    {
+      "type": "vless",
+      "tag": "Channel: @SiNAVM 🇬🇧 § 47",
+      "server": "638950280342842933.esfahan-drc-tusaas.info",
+      "server_port": 8880,
+      "uuid": "df0680ca-e43c-498d-ed86-8e196eedd012",
+      "transport": {
+        "type": "grpc",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s"
+      },
+      "packet_encoding": "xudp"
+    },
+    {
+      "type": "vless",
+      "tag": "Channel: @SiNAVM 🇱🇹 § 48",
+      "server": "94.131.13.207",
+      "server_port": 8880,
+      "uuid": "df0680ca-e43c-498d-ed86-8e196eedd012",
+      "transport": {
+        "type": "grpc",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s"
+      },
+      "packet_encoding": "xudp"
+    },
+    {
+      "type": "vless",
+      "tag": "Channel: @SiNAVM 🇬🇧 § 49",
+      "server": "638953873686410316.lahijan-drc-tusaas.info",
+      "server_port": 8880,
+      "uuid": "df0680ca-e43c-498d-ed86-8e196eedd012",
+      "transport": {
+        "type": "grpc",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s"
+      },
+      "packet_encoding": "xudp"
+    },
+    {
+      "type": "vless",
+      "tag": "🇫🇷@𝗦𝗶𝗡𝗔𝗩𝗠  § 50",
+      "server": "185.242.87.160",
+      "server_port": 8880,
+      "uuid": "df0680ca-e43c-498d-ed86-8e196eedd012",
+      "transport": {
+        "type": "grpc",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s"
+      },
+      "packet_encoding": "xudp"
+    },
+    {
+      "type": "vless",
+      "tag": "🇫🇷@𝗦𝗶𝗡𝗔𝗩𝗠  § 51",
+      "server": "638929692855682011.lisbon-drc-tusabt.info",
+      "server_port": 8880,
+      "uuid": "df0680ca-e43c-498d-ed86-8e196eedd012",
+      "transport": {
+        "type": "grpc",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s"
+      },
+      "packet_encoding": "xudp"
+    },
+    {
+      "type": "vless",
+      "tag": "🇫🇷@𝗦𝗶𝗡𝗔𝗩𝗠  § 52",
       "server": "45.12.133.224",
       "server_port": 8880,
       "uuid": "df0680ca-e43c-498d-ed86-8e196eedd012",
@@ -2538,32 +974,236 @@
     },
     {
       "type": "vless",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇭🇰 § 123",
-      "server": "103.160.204.50",
-      "server_port": 443,
-      "uuid": "c98a16e4-0dc5-42f0-b3db-30f04525c123",
-      "tls": {
-        "enabled": true,
-        "server_name": "vless8-ekh.pages.dev",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "random"
-        }
-      },
+      "tag": "Channel: @SiNAVM 🇱🇹 § 53",
+      "server": "638941610778721799.helsinki-drc-tusacaf.info",
+      "server_port": 8880,
+      "uuid": "df0680ca-e43c-498d-ed86-8e196eedd012",
       "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "vless8-ekh.pages.dev"
-        },
-        "max_early_data": 2560,
-        "early_data_header_name": "Sec-WebSocket-Protocol"
+        "type": "grpc",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s"
       },
       "packet_encoding": "xudp"
     },
     {
       "type": "vless",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇱🇹 § 124",
+      "tag": "Channel: @SiNAVM  § 54",
+      "server": "94.131.118.98",
+      "server_port": 8880,
+      "uuid": "df0680ca-e43c-498d-ed86-8e196eedd012",
+      "transport": {
+        "type": "grpc",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s"
+      },
+      "packet_encoding": "xudp"
+    },
+    {
+      "type": "vless",
+      "tag": "Channel: @SiNAVM  § 55",
+      "server": "638946986851076125.hamedan-drc-tusabl.info",
+      "server_port": 8880,
+      "uuid": "df0680ca-e43c-498d-ed86-8e196eedd012",
+      "transport": {
+        "type": "grpc",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s"
+      },
+      "packet_encoding": "xudp"
+    },
+    {
+      "type": "vless",
+      "tag": "Channel: @SiNAVM 🇳🇱 § 56",
+      "server": "638935255461296821.paris-drc-tusabz.info",
+      "server_port": 8880,
+      "uuid": "df0680ca-e43c-498d-ed86-8e196eedd012",
+      "transport": {
+        "type": "grpc",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s"
+      },
+      "packet_encoding": "xudp"
+    },
+    {
+      "type": "vless",
+      "tag": "Channel: @SiNAVM 🇱🇹 § 57",
+      "server": "638950280434431325.neyshabur-drc-tusacaf.info",
+      "server_port": 8880,
+      "uuid": "df0680ca-e43c-498d-ed86-8e196eedd012",
+      "transport": {
+        "type": "grpc",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s"
+      },
+      "packet_encoding": "xudp"
+    },
+    {
+      "type": "vless",
+      "tag": "Channel: @SiNAVM  § 58",
+      "server": "45.140.147.142",
+      "server_port": 8880,
+      "uuid": "df0680ca-e43c-498d-ed86-8e196eedd012",
+      "transport": {
+        "type": "grpc",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s"
+      },
+      "packet_encoding": "xudp"
+    },
+    {
+      "type": "vless",
+      "tag": "Channel: @SiNAVM 🇱🇹 § 59",
+      "server": "638952903116427871.tabriz-drc-tusacaf.info",
+      "server_port": 8880,
+      "uuid": "df0680ca-e43c-498d-ed86-8e196eedd012",
+      "transport": {
+        "type": "grpc",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s"
+      },
+      "packet_encoding": "xudp"
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "Channel: @SiNAVM 🇩🇪 § 60",
+      "server": "89.106.69.224",
+      "server_port": 1085,
+      "method": "chacha20-ietf-poly1305",
+      "password": "2nKnmuanU9IUAIaC-hJjrw"
+    },
+    {
+      "type": "vless",
+      "tag": "Channel: @SiNAVM 🇱🇹 § 61",
+      "server": "638950280434430524.neyshabur-drc-tusacaf.info",
+      "server_port": 8880,
+      "uuid": "df0680ca-e43c-498d-ed86-8e196eedd012",
+      "transport": {
+        "type": "grpc",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s"
+      },
+      "packet_encoding": "xudp"
+    },
+    {
+      "type": "vless",
+      "tag": "Channel: @SiNAVM 🇳🇱 § 62",
+      "server": "638930316257411243.neyshabur-drc-tusabt.info",
+      "server_port": 8880,
+      "uuid": "df0680ca-e43c-498d-ed86-8e196eedd012",
+      "transport": {
+        "type": "grpc",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s"
+      },
+      "packet_encoding": "xudp"
+    },
+    {
+      "type": "vless",
+      "tag": "Channel: @SiNAVM 🇳🇱 § 63",
+      "server": "45.12.142.55",
+      "server_port": 8880,
+      "uuid": "df0680ca-e43c-498d-ed86-8e196eedd012",
+      "transport": {
+        "type": "grpc",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s"
+      },
+      "packet_encoding": "xudp"
+    },
+    {
+      "type": "vless",
+      "tag": "Channel: @SiNAVM  § 64",
+      "server": "194.4.49.222",
+      "server_port": 8880,
+      "uuid": "df0680ca-e43c-498d-ed86-8e196eedd012",
+      "transport": {
+        "type": "grpc",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s"
+      },
+      "packet_encoding": "xudp"
+    },
+    {
+      "type": "vless",
+      "tag": "Channel: @SiNAVM 🇱🇹 § 65",
+      "server": "638932111805004627.rasht-drc-dcrabj.info",
+      "server_port": 8880,
+      "uuid": "df0680ca-e43c-498d-ed86-8e196eedd012",
+      "transport": {
+        "type": "grpc",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s"
+      },
+      "packet_encoding": "xudp"
+    },
+    {
+      "type": "vless",
+      "tag": "Channel: @SiNAVM 🇱🇹 § 66",
+      "server": "94.131.14.48",
+      "server_port": 8880,
+      "uuid": "df0680ca-e43c-498d-ed86-8e196eedd012",
+      "transport": {
+        "type": "grpc",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s"
+      },
+      "packet_encoding": "xudp"
+    },
+    {
+      "type": "vless",
+      "tag": "Channel: @SiNAVM  § 67",
+      "server": "185.242.87.213",
+      "server_port": 8880,
+      "uuid": "df0680ca-e43c-498d-ed86-8e196eedd012",
+      "transport": {
+        "type": "grpc",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s"
+      },
+      "packet_encoding": "xudp"
+    },
+    {
+      "type": "vless",
+      "tag": "🇫🇷@𝗦𝗶𝗡𝗔𝗩𝗠  § 68",
+      "server": "195.42.233.115",
+      "server_port": 8880,
+      "uuid": "df0680ca-e43c-498d-ed86-8e196eedd012",
+      "transport": {
+        "type": "grpc",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s"
+      },
+      "packet_encoding": "xudp"
+    },
+    {
+      "type": "vless",
+      "tag": "Channel: @SiNAVM  § 69",
+      "server": "638937520064872286.london-prx-dnraacl.info",
+      "server_port": 8880,
+      "uuid": "df0680ca-e43c-498d-ed86-8e196eedd012",
+      "transport": {
+        "type": "grpc",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s"
+      },
+      "packet_encoding": "xudp"
+    },
+    {
+      "type": "vless",
+      "tag": "Channel: @SiNAVM 🇱🇹 § 70",
+      "server": "94.131.14.28",
+      "server_port": 8880,
+      "uuid": "df0680ca-e43c-498d-ed86-8e196eedd012",
+      "transport": {
+        "type": "grpc",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s"
+      },
+      "packet_encoding": "xudp"
+    },
+    {
+      "type": "vless",
+      "tag": "Channel: @SiNAVM  § 71",
       "server": "638950280434423505.neyshabur-drc-tusacaf.info",
       "server_port": 8880,
       "uuid": "df0680ca-e43c-498d-ed86-8e196eedd012",
@@ -2576,33 +1216,8 @@
     },
     {
       "type": "vless",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی § 125",
-      "server": "159.255.33.66",
-      "server_port": 2053,
-      "uuid": "01996549-6892-dbf0-0453-f700236936bd",
-      "tls": {
-        "enabled": true,
-        "server_name": "kejiland.freewarp.eu.org",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/snippets/ip=proxyip.fxxk.dedyn.io:443",
-        "headers": {
-          "Host": "kejiland.freewarp.eu.org"
-        },
-        "max_early_data": 2560,
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      },
-      "packet_encoding": "xudp"
-    },
-    {
-      "type": "vless",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇩🇪 § 126",
-      "server": "638948510378519565.mashhad-drc-tusacaf.info",
+      "tag": "Channel: @SiNAVM  § 72",
+      "server": "638946804017445584.kerman-drc-tusacaf.info",
       "server_port": 8880,
       "uuid": "df0680ca-e43c-498d-ed86-8e196eedd012",
       "transport": {
@@ -2614,7 +1229,278 @@
     },
     {
       "type": "vless",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی § 127",
+      "tag": "Channel: @SiNAVM  § 73",
+      "server": "638938755008244100.vienna-drc-tusacaf.info",
+      "server_port": 8880,
+      "uuid": "df0680ca-e43c-498d-ed86-8e196eedd012",
+      "transport": {
+        "type": "grpc",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s"
+      },
+      "packet_encoding": "xudp"
+    },
+    {
+      "type": "vless",
+      "tag": "Channel: @SiNAVM  § 74",
+      "server": "195.42.233.107",
+      "server_port": 8880,
+      "uuid": "df0680ca-e43c-498d-ed86-8e196eedd012",
+      "transport": {
+        "type": "grpc",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s"
+      },
+      "packet_encoding": "xudp"
+    },
+    {
+      "type": "vless",
+      "tag": "Channel: @SiNAVM  § 75",
+      "server": "www.speedtest.net",
+      "server_port": 443,
+      "uuid": "b754b53a-aaf5-475c-eeed-46806c2aa63f",
+      "tls": {
+        "enabled": true,
+        "server_name": "nkang2replace.airlineshoma.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "nkang2replace.airlineshoma.com"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      },
+      "packet_encoding": "xudp"
+    },
+    {
+      "type": "vless",
+      "tag": "Channel: @SiNAVM  § 76",
+      "server": "638935457407159576.birjand-drc-tusacae.info",
+      "server_port": 8880,
+      "uuid": "df0680ca-e43c-498d-ed86-8e196eedd012",
+      "transport": {
+        "type": "grpc",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s"
+      },
+      "packet_encoding": "xudp"
+    },
+    {
+      "type": "vless",
+      "tag": "Channel: @SiNAVM  § 77",
+      "server": "638943444955038429.birjand-drc-tusacaf.info",
+      "server_port": 8880,
+      "uuid": "df0680ca-e43c-498d-ed86-8e196eedd012",
+      "transport": {
+        "type": "grpc",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s"
+      },
+      "packet_encoding": "xudp"
+    },
+    {
+      "type": "vless",
+      "tag": "Channel: @SiNAVM  § 78",
+      "server": "85.209.195.133",
+      "server_port": 8880,
+      "uuid": "df0680ca-e43c-498d-ed86-8e196eedd012",
+      "transport": {
+        "type": "grpc",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s"
+      },
+      "packet_encoding": "xudp"
+    },
+    {
+      "type": "vless",
+      "tag": "Channel: @SiNAVM  § 79",
+      "server": "194.4.49.40",
+      "server_port": 8880,
+      "uuid": "df0680ca-e43c-498d-ed86-8e196eedd012",
+      "transport": {
+        "type": "grpc",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s"
+      },
+      "packet_encoding": "xudp"
+    },
+    {
+      "type": "vless",
+      "tag": "Channel: @SiNAVM  § 80",
+      "server": "638929114454179379.warsaw-drc-tusabq.info",
+      "server_port": 8880,
+      "uuid": "df0680ca-e43c-498d-ed86-8e196eedd012",
+      "transport": {
+        "type": "grpc",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s"
+      },
+      "packet_encoding": "xudp"
+    },
+    {
+      "type": "vless",
+      "tag": "Channel: @SiNAVM  § 81",
+      "server": "638950330462892661.neyshabur-prx-dnraacr.info",
+      "server_port": 8880,
+      "uuid": "df0680ca-e43c-498d-ed86-8e196eedd012",
+      "transport": {
+        "type": "grpc",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s"
+      },
+      "packet_encoding": "xudp"
+    },
+    {
+      "type": "vless",
+      "tag": "Channel: @SiNAVM  § 82",
+      "server": "638930382260455538.ahvaz-drc-tusabt.info",
+      "server_port": 8880,
+      "uuid": "df0680ca-e43c-498d-ed86-8e196eedd012",
+      "transport": {
+        "type": "grpc",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s"
+      },
+      "packet_encoding": "xudp"
+    },
+    {
+      "type": "vless",
+      "tag": "Channel: @SiNAVM  § 83",
+      "server": "194.4.49.219",
+      "server_port": 8880,
+      "uuid": "df0680ca-e43c-498d-ed86-8e196eedd012",
+      "transport": {
+        "type": "grpc",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s"
+      },
+      "packet_encoding": "xudp"
+    },
+    {
+      "type": "vmess",
+      "tag": "Channel: @SiNAVM  § 84",
+      "server": "2001:bc8:32d7:302::10",
+      "server_port": 44579,
+      "uuid": "8e34e170-13ae-4892-9d20-05962acc9f84",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws"
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "Channel: @SiNAVM  § 85",
+      "server": "185.242.87.247",
+      "server_port": 8880,
+      "uuid": "df0680ca-e43c-498d-ed86-8e196eedd012",
+      "transport": {
+        "type": "grpc",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s"
+      },
+      "packet_encoding": "xudp"
+    },
+    {
+      "type": "vless",
+      "tag": "Channel: @SiNAVM  § 86",
+      "server": "94.131.13.164",
+      "server_port": 8880,
+      "uuid": "df0680ca-e43c-498d-ed86-8e196eedd012",
+      "transport": {
+        "type": "grpc",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s"
+      },
+      "packet_encoding": "xudp"
+    },
+    {
+      "type": "vless",
+      "tag": "Channel: @SiNAVM  § 87",
+      "server": "195.42.233.94",
+      "server_port": 8880,
+      "uuid": "df0680ca-e43c-498d-ed86-8e196eedd012",
+      "transport": {
+        "type": "grpc",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s"
+      },
+      "packet_encoding": "xudp"
+    },
+    {
+      "type": "vless",
+      "tag": "Channel: @SiNAVM  § 88",
+      "server": "86.104.74.26",
+      "server_port": 8880,
+      "uuid": "df0680ca-e43c-498d-ed86-8e196eedd012",
+      "transport": {
+        "type": "grpc",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s"
+      },
+      "packet_encoding": "xudp"
+    },
+    {
+      "type": "vless",
+      "tag": "Channel: @SiNAVM  § 89",
+      "server": "80.92.206.253",
+      "server_port": 8880,
+      "uuid": "df0680ca-e43c-498d-ed86-8e196eedd012",
+      "transport": {
+        "type": "grpc",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s"
+      },
+      "packet_encoding": "xudp"
+    },
+    {
+      "type": "vless",
+      "tag": "Channel: @SiNAVM  § 90",
+      "server": "85.208.110.217",
+      "server_port": 8880,
+      "uuid": "df0680ca-e43c-498d-ed86-8e196eedd012",
+      "transport": {
+        "type": "grpc",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s"
+      },
+      "packet_encoding": "xudp"
+    },
+    {
+      "type": "vless",
+      "tag": "Channel: @SiNAVM  § 91",
+      "server": "94.131.14.195",
+      "server_port": 8880,
+      "uuid": "df0680ca-e43c-498d-ed86-8e196eedd012",
+      "transport": {
+        "type": "grpc",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s"
+      },
+      "packet_encoding": "xudp"
+    },
+    {
+      "type": "vless",
+      "tag": "Channel: @SiNAVM  § 92",
+      "server": "638952903116437663.tabriz-drc-tusacaf.info",
+      "server_port": 8880,
+      "uuid": "df0680ca-e43c-498d-ed86-8e196eedd012",
+      "transport": {
+        "type": "grpc",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s"
+      },
+      "packet_encoding": "xudp"
+    },
+    {
+      "type": "vless",
+      "tag": "Channel: @SiNAVM  § 93",
       "server": "85.209.153.82",
       "server_port": 8880,
       "uuid": "df0680ca-e43c-498d-ed86-8e196eedd012",
@@ -2627,8 +1513,8 @@
     },
     {
       "type": "vless",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی § 128",
-      "server": "185.242.87.128",
+      "tag": "Channel: @SiNAVM  § 94",
+      "server": "45.12.150.98",
       "server_port": 8880,
       "uuid": "df0680ca-e43c-498d-ed86-8e196eedd012",
       "transport": {
@@ -2639,17 +1525,9 @@
       "packet_encoding": "xudp"
     },
     {
-      "type": "shadowsocks",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی § 129",
-      "server": "45.87.175.199",
-      "server_port": 8080,
-      "method": "chacha20-ietf-poly1305",
-      "password": "QCXDxuDlTTMD7jtgHUjIoj"
-    },
-    {
       "type": "vless",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇱🇹 § 130",
-      "server": "638946804017445584.kerman-drc-tusacaf.info",
+      "tag": "Channel: @SiNAVM  § 95",
+      "server": "45.12.133.235",
       "server_port": 8880,
       "uuid": "df0680ca-e43c-498d-ed86-8e196eedd012",
       "transport": {
@@ -2660,35 +1538,125 @@
       "packet_encoding": "xudp"
     },
     {
-      "type": "vmess",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی § 131",
-      "server": "141.95.126.134",
-      "server_port": 443,
-      "uuid": "03fcc618-b93d-6796-6aed-8a38c975d581",
-      "security": "auto",
-      "authenticated_length": true,
-      "tls": {
-        "enabled": true,
-        "server_name": "jamekk.org",
-        "alpn": "http/1.1",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "packet_encoding": "xudp",
+      "type": "vless",
+      "tag": "Channel: @SiNAVM  § 96",
+      "server": "638937918607957654.paris-drc-tusacaf.info",
+      "server_port": 8880,
+      "uuid": "df0680ca-e43c-498d-ed86-8e196eedd012",
       "transport": {
-        "type": "ws",
-        "path": "/linkvws",
-        "headers": {
-          "Host": "jamekk.org"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      }
+        "type": "grpc",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s"
+      },
+      "packet_encoding": "xudp"
     },
     {
       "type": "vless",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇬🇧 § 132",
+      "tag": "Channel: @SiNAVM  § 97",
+      "server": "638956218809805203.bandar-prx-dnraacu.info",
+      "server_port": 8880,
+      "uuid": "df0680ca-e43c-498d-ed86-8e196eedd012",
+      "transport": {
+        "type": "grpc",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s"
+      },
+      "packet_encoding": "xudp"
+    },
+    {
+      "type": "vless",
+      "tag": "Channel: @SiNAVM  § 98",
+      "server": "80.92.206.172",
+      "server_port": 8880,
+      "uuid": "df0680ca-e43c-498d-ed86-8e196eedd012",
+      "transport": {
+        "type": "grpc",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s"
+      },
+      "packet_encoding": "xudp"
+    },
+    {
+      "type": "vless",
+      "tag": "Channel: @SiNAVM  § 99",
+      "server": "94.131.118.142",
+      "server_port": 8880,
+      "uuid": "df0680ca-e43c-498d-ed86-8e196eedd012",
+      "transport": {
+        "type": "grpc",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s"
+      },
+      "packet_encoding": "xudp"
+    },
+    {
+      "type": "vless",
+      "tag": "Channel: @SiNAVM  § 100",
+      "server": "146.19.230.247",
+      "server_port": 8880,
+      "uuid": "df0680ca-e43c-498d-ed86-8e196eedd012",
+      "transport": {
+        "type": "grpc",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s"
+      },
+      "packet_encoding": "xudp"
+    },
+    {
+      "type": "vless",
+      "tag": "Channel: @SiNAVM  § 101",
+      "server": "185.236.232.98",
+      "server_port": 80,
+      "uuid": "401374e6-df77-41fb-f638-dad8184f175b",
+      "transport": {
+        "type": "grpc",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s"
+      },
+      "packet_encoding": "xudp"
+    },
+    {
+      "type": "vless",
+      "tag": "Channel: @SiNAVM  § 102",
+      "server": "185.236.232.100",
+      "server_port": 80,
+      "uuid": "401374e6-df77-41fb-f638-dad8184f175b",
+      "transport": {
+        "type": "grpc",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s"
+      },
+      "packet_encoding": "xudp"
+    },
+    {
+      "type": "vless",
+      "tag": "Channel: @SiNAVM  § 103",
+      "server": "638938332607497744.madrid-drc-tusacaf.info",
+      "server_port": 8880,
+      "uuid": "df0680ca-e43c-498d-ed86-8e196eedd012",
+      "transport": {
+        "type": "grpc",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s"
+      },
+      "packet_encoding": "xudp"
+    },
+    {
+      "type": "vless",
+      "tag": "Channel: @SiNAVM  § 104",
+      "server": "638931077057619102.hamedan-drc-tusabu.info",
+      "server_port": 8880,
+      "uuid": "df0680ca-e43c-498d-ed86-8e196eedd012",
+      "transport": {
+        "type": "grpc",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s"
+      },
+      "packet_encoding": "xudp"
+    },
+    {
+      "type": "vless",
+      "tag": "Channel: @SiNAVM  § 105",
       "server": "zula.ir",
       "server_port": 2096,
       "uuid": "97909ffd-6da0-4893-9d63-00e72ad55256",
@@ -2711,9 +1679,17 @@
       "packet_encoding": "xudp"
     },
     {
+      "type": "shadowsocks",
+      "tag": "Channel: @SiNAVM  § 106",
+      "server": "54.81.226.31",
+      "server_port": 80,
+      "method": "aes-256-gcm",
+      "password": "dada0801"
+    },
+    {
       "type": "vless",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی § 133",
-      "server": "45.140.147.142",
+      "tag": "Channel: @SiNAVM  § 107",
+      "server": "195.42.233.47",
       "server_port": 8880,
       "uuid": "df0680ca-e43c-498d-ed86-8e196eedd012",
       "transport": {
@@ -2725,72 +1701,8 @@
     },
     {
       "type": "vless",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇨🇦 § 134",
-      "server": "ipw.gfdv54cvghhgfhgj-njhgj64.info",
-      "server_port": 443,
-      "uuid": "e999db7a-1b17-4da6-bc37-c9fa24af2e93",
-      "tls": {
-        "enabled": true,
-        "server_name": "CuEg4R5u01.SoLeNtRaA.iNfO",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "CuEg4R5u01.SoLeNtRaA.iNfO"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      },
-      "packet_encoding": "xudp"
-    },
-    {
-      "type": "vless",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇫🇷 § 135",
-      "server": "194.4.49.226",
-      "server_port": 8880,
-      "uuid": "df0680ca-e43c-498d-ed86-8e196eedd012",
-      "transport": {
-        "type": "grpc",
-        "idle_timeout": "15s",
-        "ping_timeout": "15s"
-      },
-      "packet_encoding": "xudp"
-    },
-    {
-      "type": "vmess",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی § 136",
-      "server": "jamekk.org",
-      "server_port": 443,
-      "uuid": "03fcc618-b93d-6796-6aed-8a38c975d581",
-      "security": "auto",
-      "authenticated_length": true,
-      "tls": {
-        "enabled": true,
-        "server_name": "jamekk.org",
-        "alpn": "http/1.1",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "path": "/linkvws",
-        "headers": {
-          "Host": "jamekk.org"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی § 137",
-      "server": "45.120.178.9",
+      "tag": "Channel: @SiNAVM  § 108",
+      "server": "85.208.110.41",
       "server_port": 8880,
       "uuid": "df0680ca-e43c-498d-ed86-8e196eedd012",
       "transport": {
@@ -2802,8 +1714,8 @@
     },
     {
       "type": "vless",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇫🇷 § 138",
-      "server": "86.104.74.15",
+      "tag": "Channel: @SiNAVM  § 109",
+      "server": "185.242.87.69",
       "server_port": 8880,
       "uuid": "df0680ca-e43c-498d-ed86-8e196eedd012",
       "transport": {
@@ -2814,36 +1726,9 @@
       "packet_encoding": "xudp"
     },
     {
-      "type": "vmess",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی § 139",
-      "server": "91.134.8.102",
-      "server_port": 443,
-      "uuid": "03fcc618-b93d-6796-6aed-8a38c975d581",
-      "security": "auto",
-      "authenticated_length": true,
-      "tls": {
-        "enabled": true,
-        "server_name": "serkat.org",
-        "alpn": "http/1.1",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "path": "/linkvws",
-        "headers": {
-          "Host": "serkat.org"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      }
-    },
-    {
       "type": "vless",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی § 140",
-      "server": "185.242.87.213",
+      "tag": "Channel: @SiNAVM  § 110",
+      "server": "86.104.74.155",
       "server_port": 8880,
       "uuid": "df0680ca-e43c-498d-ed86-8e196eedd012",
       "transport": {
@@ -2854,22 +1739,9 @@
       "packet_encoding": "xudp"
     },
     {
-      "type": "vmess",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی § 141",
-      "server": "2001:bc8:32d7:302::10",
-      "server_port": 44579,
-      "uuid": "8e34e170-13ae-4892-9d20-05962acc9f84",
-      "security": "auto",
-      "authenticated_length": true,
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws"
-      }
-    },
-    {
       "type": "vless",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی § 142",
-      "server": "94.131.13.163",
+      "tag": "Channel: @SiNAVM  § 111",
+      "server": "638937544595891094.madrid-prx-dnraacl.info",
       "server_port": 8880,
       "uuid": "df0680ca-e43c-498d-ed86-8e196eedd012",
       "transport": {
@@ -2880,701 +1752,46 @@
       "packet_encoding": "xudp"
     },
     {
-      "type": "vmess",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی § 143",
-      "server": "57.129.25.26",
-      "server_port": 443,
-      "uuid": "03fcc618-b93d-6796-6aed-8a38c975d581",
-      "security": "auto",
-      "authenticated_length": true,
-      "tls": {
-        "enabled": true,
-        "server_name": "yichueng.org",
-        "alpn": "http/1.1",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "path": "/linkvws",
-        "headers": {
-          "Host": "yichueng.org"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      }
-    },
-    {
       "type": "vless",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی § 144",
-      "server": "194.4.49.4",
-      "server_port": 8880,
-      "uuid": "df0680ca-e43c-498d-ed86-8e196eedd012",
-      "transport": {
-        "type": "grpc",
-        "idle_timeout": "15s",
-        "ping_timeout": "15s"
-      },
-      "packet_encoding": "xudp"
-    },
-    {
-      "type": "vmess",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی § 145",
-      "server": "57.129.28.213",
-      "server_port": 443,
-      "uuid": "03fcc618-b93d-6796-6aed-8a38c975d581",
-      "security": "auto",
-      "authenticated_length": true,
-      "tls": {
-        "enabled": true,
-        "server_name": "fapeng.org",
-        "alpn": "http/1.1",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "path": "/linkvws",
-        "headers": {
-          "Host": "fapeng.org"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      }
-    },
-    {
-      "type": "vmess",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇹🇷 § 146",
-      "server": "164.138.202.114",
-      "server_port": 21639,
-      "uuid": "6d3aba4a-2c2c-49ca-9515-de9d0b00d5a5",
-      "security": "auto",
-      "authenticated_length": true,
-      "packet_encoding": "xudp"
-    },
-    {
-      "type": "vless",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇹🇷 § 147",
-      "server": "62.60.233.30",
-      "server_port": 443,
-      "uuid": "8377aac9-f3b3-42df-a5ea-9254f37e7b34",
+      "tag": "Channel: @SiNAVM  § 112",
+      "server": "154.56.121.150",
+      "server_port": 61572,
+      "uuid": "48b943b9-9620-4021-9245-a0458723086d",
       "flow": "xtls-rprx-vision",
       "tls": {
         "enabled": true,
-        "server_name": "tr.eu-ffast.com",
+        "server_name": "www.paypal.com",
         "utls": {
           "enabled": true,
           "fingerprint": "chrome"
         },
         "reality": {
           "enabled": true,
-          "public_key": "-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw",
-          "short_id": "50"
+          "public_key": "lgyQHFjimZzNrNZYMKrGgPLRj6AiGVV0A4eLCMSEMGg"
         }
       },
       "packet_encoding": "xudp"
     },
     {
-      "type": "vless",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇹🇷 § 148",
-      "server": "185.234.66.81",
+      "type": "shadowsocks",
+      "tag": "Channel: @SiNAVM  § 113",
+      "server": "71.19.148.143",
       "server_port": 443,
-      "uuid": "6e812804-b0e8-4eff-9c2e-96c6fed96f1b",
-      "tls": {
-        "enabled": true,
-        "disable_sni": true
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/lkjdasws",
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      },
-      "packet_encoding": "xudp"
+      "method": "chacha20-ietf-poly1305",
+      "password": "p78naCf2EfOlRSLTX0wFVx"
     },
     {
-      "type": "trojan",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇨🇦 § 149",
-      "server": "172.67.156.25",
+      "type": "shadowsocks",
+      "tag": "Channel: @SiNAVM  § 114",
+      "server": "pupas-shirting-unsung.freesocks.work",
       "server_port": 443,
-      "password": "f282b878-8711-45a1-8c69-5564172123c1",
-      "tls": {
-        "enabled": true,
-        "server_name": "aio.zipzap.biz.id",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/aioproxybot/129.150.49.58-18650",
-        "headers": {
-          "Host": "aio.zipzap.biz.id"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇨🇦 § 150",
-      "server": "creativecommons.org",
-      "server_port": 443,
-      "password": "02XtoczO7V",
-      "tls": {
-        "enabled": true,
-        "server_name": "mooshali.arshiacomplus.dpdns.org",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/hishhhh123",
-        "headers": {
-          "Host": "mooshali.arshiacomplus.dpdns.org"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      }
-    },
-    {
-      "type": "vmess",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇩🇪 § 151",
-      "server": "57.129.25.22",
-      "server_port": 443,
-      "uuid": "03fcc618-b93d-6796-6aed-8a38c975d581",
-      "security": "auto",
-      "authenticated_length": true,
-      "tls": {
-        "enabled": true,
-        "server_name": "wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc",
-        "alpn": "http/1.1",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "path": "/linkvws",
-        "headers": {
-          "Host": "o.metuji.com"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      }
-    },
-    {
-      "type": "vmess",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇵🇱 § 152",
-      "server": "146.59.70.146",
-      "server_port": 443,
-      "uuid": "03fcc618-b93d-6796-6aed-8a38c975d581",
-      "security": "auto",
-      "authenticated_length": true,
-      "tls": {
-        "enabled": true,
-        "server_name": "yichueng.org",
-        "alpn": "http/1.1",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "path": "/linkvws",
-        "headers": {
-          "Host": "yichueng.org"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      }
+      "method": "chacha20-ietf-poly1305",
+      "password": "p78naCf2EfOlRSLTX0wFVx"
     },
     {
       "type": "vless",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇫🇮 § 153",
-      "server": "app.chandplus.com",
-      "server_port": 443,
-      "uuid": "fa72a38c-56bf-4f3b-9735-e96e9840ae54",
-      "tls": {
-        "enabled": true,
-        "server_name": "app.chandplus.com",
-        "alpn": [
-          "h3",
-          "h2",
-          "http/1.1"
-        ],
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "packet_encoding": "xudp"
-    },
-    {
-      "type": "vless",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇷🇺 § 175",
-      "server": "wa.sfasti.ru",
-      "server_port": 443,
-      "uuid": "d4e4c02a-d969-47a6-ba0f-3d433fdac206",
-      "flow": "xtls-rprx-vision",
-      "tls": {
-        "enabled": true,
-        "server_name": "wa.sfasti.ru",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        },
-        "reality": {
-          "enabled": true,
-          "public_key": "J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8",
-          "short_id": "16895459a2c7768d"
-        }
-      },
-      "packet_encoding": "xudp"
-    },
-    {
-      "type": "trojan",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇹🇷 § 176",
-      "server": "167.160.10.54",
-      "server_port": 12184,
-      "password": "liCV_rq-BftxwXpM",
-      "tls": {
-        "enabled": true,
-        "disable_sni": true
-      }
-    },
-    {
-      "type": "vmess",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇩🇪 § 177",
-      "server": "57.129.59.193",
-      "server_port": 443,
-      "uuid": "03fcc618-b93d-6796-6aed-8a38c975d581",
-      "security": "auto",
-      "authenticated_length": true,
-      "tls": {
-        "enabled": true,
-        "server_name": "serkat.org",
-        "alpn": "http/1.1",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "path": "/linkvws",
-        "headers": {
-          "Host": "serkat.org"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      }
-    },
-    {
-      "type": "vmess",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇩🇪 § 178",
-      "server": "57.129.28.64",
-      "server_port": 443,
-      "uuid": "03fcc618-b93d-6796-6aed-8a38c975d581",
-      "security": "auto",
-      "authenticated_length": true,
-      "tls": {
-        "enabled": true,
-        "server_name": "serkat.org",
-        "alpn": "http/1.1",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "path": "/linkvws",
-        "headers": {
-          "Host": "serkat.org"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      }
-    },
-    {
-      "type": "vmess",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇷🇺 § 179",
-      "server": "45.67.230.79",
-      "server_port": 11052,
-      "uuid": "314185f7-931d-4656-922d-0857e7afd224",
-      "security": "auto",
-      "authenticated_length": true,
-      "packet_encoding": "xudp"
-    },
-    {
-      "type": "vmess",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇩🇪 § 180",
-      "server": "57.129.28.216",
-      "server_port": 443,
-      "uuid": "03fcc618-b93d-6796-6aed-8a38c975d581",
-      "security": "auto",
-      "authenticated_length": true,
-      "tls": {
-        "enabled": true,
-        "server_name": "fapeng.org",
-        "alpn": "http/1.1",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "path": "/linkvws",
-        "headers": {
-          "Host": "fapeng.org"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇫🇷 § 181",
-      "server": "141.101.120.5",
-      "server_port": 443,
-      "uuid": "d342d11e-d424-4583-b36e-524ab1f0afa4",
-      "tls": {
-        "enabled": true,
-        "server_name": "xn--kwr11l51ffzytxy.CMLiussss.dedyn.io",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/snippets/ip=tw.tp81.netlib.re:81",
-        "headers": {
-          "Host": "xn--kwr11l51ffzytxy.CMLiussss.dedyn.io"
-        },
-        "max_early_data": 2560,
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      },
-      "packet_encoding": "xudp"
-    },
-    {
-      "type": "vless",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇺🇸 § 182",
-      "server": "199.34.229.32",
-      "server_port": 2096,
-      "uuid": "b65f4df7-f6af-42b2-877a-cef33f21675e",
-      "tls": {
-        "enabled": true,
-        "server_name": "kejiland.freewarp.eu.org",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/snippetsfp",
-        "headers": {
-          "Host": "kejiland.freewarp.eu.org"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      },
-      "packet_encoding": "xudp"
-    },
-    {
-      "type": "vless",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇨🇦 § 183",
-      "server": "162.159.43.92",
-      "server_port": 443,
-      "uuid": "0c0537c3-f0fb-40e6-bd59-f5038e1855ed",
-      "tls": {
-        "enabled": true,
-        "server_name": "juzi.634676.xyz",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "juzi.634676.xyz"
-        },
-        "max_early_data": 2560,
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      },
-      "packet_encoding": "xudp"
-    },
-    {
-      "type": "vmess",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇩🇪 § 184",
-      "server": "57.129.28.65",
-      "server_port": 443,
-      "uuid": "03fcc618-b93d-6796-6aed-8a38c975d581",
-      "security": "auto",
-      "authenticated_length": true,
-      "tls": {
-        "enabled": true,
-        "server_name": "kapelleng.com",
-        "alpn": "http/1.1",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "path": "/linkvws",
-        "headers": {
-          "Host": "kapelleng.com"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      }
-    },
-    {
-      "type": "vmess",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇩🇪 § 185",
-      "server": "57.129.59.202",
-      "server_port": 443,
-      "uuid": "03fcc618-b93d-6796-6aed-8a38c975d581",
-      "security": "auto",
-      "authenticated_length": true,
-      "tls": {
-        "enabled": true,
-        "server_name": "fapeng.org",
-        "alpn": "http/1.1",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "path": "/linkvws",
-        "headers": {
-          "Host": "fapeng.org"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇩🇪 § 186",
-      "server": "q4214fa.novintec99.ir",
-      "server_port": 45655,
-      "uuid": "dcf1630c-f0bd-4d81-a128-4865df35e757",
-      "tls": {
-        "enabled": true,
-        "server_name": "refersion.com",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "firefox"
-        },
-        "reality": {
-          "enabled": true,
-          "public_key": "BZMabNUxkVRkm_K22kLZruvXlPBfGlHHdazco4cvvxo"
-        }
-      },
-      "packet_encoding": "xudp"
-    },
-    {
-      "type": "vless",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇮🇷 § 187",
-      "server": "217.60.241.139",
-      "server_port": 1080,
-      "uuid": "dcf1630c-f0bd-4d81-a128-4865df35e757",
-      "packet_encoding": "xudp"
-    },
-    {
-      "type": "vless",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇮🇷 § 188",
-      "server": "95.128.196.217",
-      "server_port": 3232,
-      "uuid": "ca2ae03c-75a2-4956-b86c-8784484aa263",
-      "transport": {
-        "type": "http",
-        "host": "zula.ir",
-        "path": "/",
-        "method": "GET"
-      },
-      "packet_encoding": "xudp"
-    },
-    {
-      "type": "vless",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇬🇧 § 189",
-      "server": "82.24.64.135",
-      "server_port": 31179,
-      "uuid": "81748ff9-d467-4d1c-a2bf-17e890e694fe",
-      "flow": "xtls-rprx-vision",
-      "tls": {
-        "enabled": true,
-        "server_name": "aws.amazon.com",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        },
-        "reality": {
-          "enabled": true,
-          "public_key": "2jmEGBx_0GVsnnxqT3_wcXNkcDfhCMERAH5yfHkHnSw"
-        }
-      },
-      "packet_encoding": "xudp"
-    },
-    {
-      "type": "vless",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇬🇧 § 190",
-      "server": "82.24.64.135",
-      "server_port": 31129,
-      "uuid": "2ea7b5fd-a27c-4d79-b321-bf927be50090",
-      "flow": "xtls-rprx-vision",
-      "tls": {
-        "enabled": true,
-        "server_name": "www.amazon.com",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        },
-        "reality": {
-          "enabled": true,
-          "public_key": "Y_m8a25ICfj12RLD4MO9SGxWGEpc904cyMpszJ2uaw4"
-        }
-      },
-      "packet_encoding": "xudp"
-    },
-    {
-      "type": "vless",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇨🇦 § 191",
-      "server": "104.19.150.163",
-      "server_port": 8443,
-      "uuid": "9ea5a2f5-3a56-4282-919c-4dfee486372e",
-      "tls": {
-        "enabled": true,
-        "server_name": "vless.keepfuck.me",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "vless.keepfuck.me"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      },
-      "packet_encoding": "xudp"
-    },
-    {
-      "type": "vless",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇩🇪 § 192",
-      "server": "188.244.122.253",
-      "server_port": 2096,
-      "uuid": "e191ac99-e071-4e36-9a01-107eaf26a780",
-      "tls": {
-        "enabled": true,
-        "server_name": "krill.xfan01.sbs",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/Telegram%F0%9F%87%AE%F0%9F%87%B7@ShadowProxy66/",
-        "headers": {
-          "Host": "krill.xfan01.sbs"
-        },
-        "max_early_data": 2560,
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      },
-      "packet_encoding": "xudp"
-    },
-    {
-      "type": "vless",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇨🇦 § 193",
-      "server": "172.66.47.15",
-      "server_port": 443,
-      "uuid": "9368b093-d790-4096-9d8a-1265e82f9e2f",
-      "tls": {
-        "enabled": true,
-        "server_name": "GgGgr.PaGES.dEV",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/Telegram@ShadowProxy66/",
-        "headers": {
-          "Host": "GgGgr.PaGES.dEV"
-        },
-        "max_early_data": 2560,
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      },
-      "packet_encoding": "xudp"
-    },
-    {
-      "type": "vless",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇨🇦 § 194",
-      "server": "172.66.40.99",
-      "server_port": 8443,
-      "uuid": "e999db7a-1b17-4da6-bc37-c9fa24af2e93",
-      "tls": {
-        "enabled": true,
-        "server_name": "Rx2TfQ98lT.sOlEnTrAa.InFo",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "Rx2TfQ98lT.sOlEnTrAa.InFo"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      },
-      "packet_encoding": "xudp"
-    },
-    {
-      "type": "vless",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇫🇮 § 195",
-      "server": "65.108.231.185",
-      "server_port": 443,
-      "uuid": "440766d1-858f-4719-84f5-c2de6f6227ba",
-      "tls": {
-        "enabled": true,
-        "server_name": "local.rogsoftwaregroup.com",
-        "alpn": [
-          "h3",
-          "h2",
-          "http/1.1"
-        ],
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "packet_encoding": "xudp"
-    },
-    {
-      "type": "vless",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇫🇷 § 196",
-      "server": "45.12.133.235",
+      "tag": "Channel: @SiNAVM  § 115",
+      "server": "45.128.54.6",
       "server_port": 8880,
       "uuid": "df0680ca-e43c-498d-ed86-8e196eedd012",
       "transport": {
@@ -3586,29 +1803,8 @@
     },
     {
       "type": "vless",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇭🇷 § 197",
-      "server": "5.181.2.51",
-      "server_port": 8080,
-      "uuid": "1abaa2b6-ab8c-4525-8c91-b73bc2ab2b37",
-      "tls": {
-        "enabled": true,
-        "server_name": "yandex.com",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        },
-        "reality": {
-          "enabled": true,
-          "public_key": "iPjWLvXWt7ABJaSRRwzjgLrvlJlwoYQZN8zF-G3D-Qs",
-          "short_id": "27cfa05000c23cc4"
-        }
-      },
-      "packet_encoding": "xudp"
-    },
-    {
-      "type": "vless",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇳🇱 § 198",
-      "server": "638937520064872286.london-prx-dnraacl.info",
+      "tag": "Channel: @SiNAVM  § 116",
+      "server": "45.12.142.96",
       "server_port": 8880,
       "uuid": "df0680ca-e43c-498d-ed86-8e196eedd012",
       "transport": {
@@ -3620,8 +1816,73 @@
     },
     {
       "type": "vless",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇫🇷 § 199",
-      "server": "638944337658439808.dezful-prx-dnraacp.info",
+      "tag": "Channel: @SiNAVM  § 117",
+      "server": "45.89.107.245",
+      "server_port": 8880,
+      "uuid": "df0680ca-e43c-498d-ed86-8e196eedd012",
+      "transport": {
+        "type": "grpc",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s"
+      },
+      "packet_encoding": "xudp"
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "Channel: @SiNAVM  § 118",
+      "server": "212.34.140.184",
+      "server_port": 443,
+      "method": "chacha20-ietf-poly1305",
+      "password": "0NeN5ta7FLa5B9DLytU0um"
+    },
+    {
+      "type": "vmess",
+      "tag": "Channel: @SiNAVM  § 119",
+      "server": "45.128.54.84",
+      "server_port": 37313,
+      "uuid": "72feb833-4196-4a70-a3f5-aeb011f7d534",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp"
+    },
+    {
+      "type": "vless",
+      "tag": "Channel: @SiNAVM  § 120",
+      "server": "45.89.107.232",
+      "server_port": 8880,
+      "uuid": "df0680ca-e43c-498d-ed86-8e196eedd012",
+      "transport": {
+        "type": "grpc",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s"
+      },
+      "packet_encoding": "xudp"
+    },
+    {
+      "type": "vless",
+      "tag": "Channel: @SiNAVM  § 121",
+      "server": "45.89.107.242",
+      "server_port": 8880,
+      "uuid": "df0680ca-e43c-498d-ed86-8e196eedd012",
+      "transport": {
+        "type": "grpc",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s"
+      },
+      "packet_encoding": "xudp"
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "Channel: @SiNAVM  § 122",
+      "server": "103.85.75.198",
+      "server_port": 33111,
+      "method": "aes-128-gcm",
+      "password": "9efb036d-c581-4c01-957c-3aa3485b0016"
+    },
+    {
+      "type": "vless",
+      "tag": "Channel: @SiNAVM  § 123",
+      "server": "638930381053019975.tabriz-drc-tusabt.info",
       "server_port": 8880,
       "uuid": "df0680ca-e43c-498d-ed86-8e196eedd012",
       "transport": {
@@ -3633,10 +1894,10 @@
     },
     {
       "type": "vmess",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇭🇰 § 200",
-      "server": "8.210.230.179",
-      "server_port": 45324,
-      "uuid": "88ae3410-5af6-4a76-bb0f-940d6fff4f1a",
+      "tag": "Channel: @SiNAVM  § 124",
+      "server": "47.76.157.234",
+      "server_port": 55125,
+      "uuid": "87227bd9-1506-4d48-bd6b-0b80a8c2aae7",
       "security": "auto",
       "authenticated_length": true,
       "packet_encoding": "xudp",
@@ -3649,15 +1910,277 @@
     },
     {
       "type": "vmess",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی🇺🇸 § 201",
-      "server": "15.204.64.214",
+      "tag": "Channel: @SiNAVM  § 125",
+      "server": "47.76.233.2",
+      "server_port": 5634,
+      "uuid": "93070eaa-b553-44d9-b239-994e46239c9c",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/arki",
+        "max_early_data": 2048,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "Channel: @SiNAVM  § 126",
+      "server": "47.86.85.95",
+      "server_port": 26006,
+      "uuid": "7d719104-729e-4698-a597-59798aa64f0f",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/arki",
+        "max_early_data": 2048,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "Channel: @SiNAVM  § 127",
+      "server": "39.107.155.11",
+      "server_port": 30302,
+      "uuid": "418048af-a293-4b99-9b0c-98ca3580dd24",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp"
+    },
+    {
+      "type": "vless",
+      "tag": "Channel: @SiNAVM  § 128",
+      "server": "638934019837083133.lisbon-drc-tusaby.info",
+      "server_port": 8880,
+      "uuid": "df0680ca-e43c-498d-ed86-8e196eedd012",
+      "transport": {
+        "type": "grpc",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s"
+      },
+      "packet_encoding": "xudp"
+    },
+    {
+      "type": "vless",
+      "tag": "Channel: @SiNAVM  § 129",
+      "server": "ovhwuxian.pai50288.uk",
+      "server_port": 8443,
+      "uuid": "57ba2ab1-a283-42eb-82ee-dc3561a805b8",
+      "tls": {
+        "enabled": true,
+        "server_name": "ovhwuxian.pai50288.uk",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/57ba2ab1",
+        "headers": {
+          "Host": "ovhwuxian.pai50288.uk"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      },
+      "packet_encoding": "xudp"
+    },
+    {
+      "type": "trojan",
+      "tag": "Channel: @SiNAVM  § 130",
+      "server": "91.108.250.230",
+      "server_port": 50191,
+      "password": "3BLPOJr3OY",
+      "tls": {
+        "enabled": true,
+        "server_name": "cloudflare.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "grpc",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s"
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "Channel: @SiNAVM  § 131",
+      "server": "195.42.233.146",
+      "server_port": 8880,
+      "uuid": "df0680ca-e43c-498d-ed86-8e196eedd012",
+      "transport": {
+        "type": "grpc",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s"
+      },
+      "packet_encoding": "xudp"
+    },
+    {
+      "type": "vless",
+      "tag": "Channel: @SiNAVM  § 132",
+      "server": "85.208.110.205",
+      "server_port": 8880,
+      "uuid": "df0680ca-e43c-498d-ed86-8e196eedd012",
+      "transport": {
+        "type": "grpc",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s"
+      },
+      "packet_encoding": "xudp"
+    },
+    {
+      "type": "vless",
+      "tag": "Channel: @SiNAVM  § 133",
+      "server": "638929320863717328.malayer-drc-tusabq.info",
+      "server_port": 8880,
+      "uuid": "df0680ca-e43c-498d-ed86-8e196eedd012",
+      "transport": {
+        "type": "grpc",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s"
+      },
+      "packet_encoding": "xudp"
+    },
+    {
+      "type": "vmess",
+      "tag": "Channel: @SiNAVM  § 134",
+      "server": "8.211.164.215",
+      "server_port": 20522,
+      "uuid": "73193cce-7ca1-4b08-93ff-4ee8b0147374",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/telegram_@sswia",
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "Channel: @SiNAVM  § 135",
+      "server": "8.218.140.27",
+      "server_port": 32876,
+      "uuid": "d54c887a-7d47-4dc8-995d-df7687ef0494",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/arki",
+        "max_early_data": 2048,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "Channel: @SiNAVM  § 136",
+      "server": "109.123.236.157",
+      "server_port": 550,
+      "uuid": "9371b4ae-59a6-46ad-8413-4021b65a103c",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp"
+    },
+    {
+      "type": "vless",
+      "tag": "Channel: @SiNAVM  § 137",
+      "server": "85.208.110.183",
+      "server_port": 8880,
+      "uuid": "df0680ca-e43c-498d-ed86-8e196eedd012",
+      "transport": {
+        "type": "grpc",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s"
+      },
+      "packet_encoding": "xudp"
+    },
+    {
+      "type": "vless",
+      "tag": "Channel: @SiNAVM  § 138",
+      "server": "94.131.14.193",
+      "server_port": 8880,
+      "uuid": "df0680ca-e43c-498d-ed86-8e196eedd012",
+      "transport": {
+        "type": "grpc",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s"
+      },
+      "packet_encoding": "xudp"
+    },
+    {
+      "type": "vless",
+      "tag": "Channel: @SiNAVM  § 139",
+      "server": "194.4.49.4",
+      "server_port": 8880,
+      "uuid": "df0680ca-e43c-498d-ed86-8e196eedd012",
+      "transport": {
+        "type": "grpc",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s"
+      },
+      "packet_encoding": "xudp"
+    },
+    {
+      "type": "vmess",
+      "tag": "Channel: @SiNAVM  § 140",
+      "server": "pq-brazil1.09vpn.com",
+      "server_port": 80,
+      "uuid": "c04c3b34-70fd-4fec-963e-c12d09f36bef",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "path": "/vmess/",
+        "headers": {
+          "Host": "pq-brazil1.09vpn.com"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "Channel: @SiNAVM  § 141",
+      "server": "86.104.74.45",
+      "server_port": 8880,
+      "uuid": "df0680ca-e43c-498d-ed86-8e196eedd012",
+      "transport": {
+        "type": "grpc",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s"
+      },
+      "packet_encoding": "xudp"
+    },
+    {
+      "type": "vless",
+      "tag": "Channel: @SiNAVM  § 142",
+      "server": "195.42.233.91",
+      "server_port": 8880,
+      "uuid": "df0680ca-e43c-498d-ed86-8e196eedd012",
+      "transport": {
+        "type": "grpc",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s"
+      },
+      "packet_encoding": "xudp"
+    },
+    {
+      "type": "vmess",
+      "tag": "Channel: @SiNAVM  § 143",
+      "server": "162.159.243.133",
       "server_port": 443,
-      "uuid": "03fcc618-b93d-6796-6aed-8a38c975d581",
+      "uuid": "bf67437e-6c90-45ca-abc2-c7240a5ce2aa",
       "security": "auto",
       "authenticated_length": true,
       "tls": {
         "enabled": true,
-        "server_name": "yichueng.org",
+        "server_name": "foxpol.fovi.tk",
         "alpn": "http/1.1",
         "utls": {
           "enabled": true,
@@ -3667,25 +2190,25 @@
       "packet_encoding": "xudp",
       "transport": {
         "type": "ws",
-        "path": "/linkvws",
+        "path": "/eisasqa",
         "headers": {
-          "Host": "yichueng.org"
+          "Host": "foxpol.fovi.tk"
         },
         "early_data_header_name": "Sec-WebSocket-Protocol"
       }
     },
     {
       "type": "shadowsocks",
-      "tag": "@SiNAVM § 202",
-      "server": "45.87.175.171",
-      "server_port": 8080,
-      "method": "chacha20-ietf-poly1305",
-      "password": "cvII85TrW6n0OGyfpHVS1u"
+      "tag": "Channel: @SiNAVM  § 144",
+      "server": "3.107.184.53",
+      "server_port": 80,
+      "method": "aes-256-gcm",
+      "password": "dada0801"
     },
     {
       "type": "vless",
-      "tag": "@SiNAVM § 203",
-      "server": "95.164.6.149",
+      "tag": "Channel: @SiNAVM  § 145",
+      "server": "185.234.64.155",
       "server_port": 8880,
       "uuid": "df0680ca-e43c-498d-ed86-8e196eedd012",
       "transport": {
@@ -3696,21 +2219,24 @@
       "packet_encoding": "xudp"
     },
     {
-      "type": "vless",
-      "tag": "@SiNAVM § 204",
-      "server": "185.242.87.128",
-      "server_port": 8880,
-      "uuid": "df0680ca-e43c-498d-ed86-8e196eedd012",
+      "type": "vmess",
+      "tag": "Channel: @SiNAVM  § 146",
+      "server": "47.76.233.2",
+      "server_port": 33224,
+      "uuid": "ceb2fec2-90df-4cfe-a80d-e86168ba9b12",
+      "security": "auto",
+      "authenticated_length": true,
+      "packet_encoding": "xudp",
       "transport": {
-        "type": "grpc",
-        "idle_timeout": "15s",
-        "ping_timeout": "15s"
-      },
-      "packet_encoding": "xudp"
+        "type": "ws",
+        "path": "/arki",
+        "max_early_data": 2048,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
     },
     {
       "type": "vless",
-      "tag": "@SiNAVM § 205",
+      "tag": "Channel: @SiNAVM  § 147",
       "server": "195.42.233.92",
       "server_port": 8880,
       "uuid": "df0680ca-e43c-498d-ed86-8e196eedd012",
@@ -3723,8 +2249,8 @@
     },
     {
       "type": "vless",
-      "tag": "@SiNAVM § 206",
-      "server": "185.242.87.137",
+      "tag": "Channel: @SiNAVM  § 148",
+      "server": "95.164.6.156",
       "server_port": 8880,
       "uuid": "df0680ca-e43c-498d-ed86-8e196eedd012",
       "transport": {
@@ -3736,8 +2262,8 @@
     },
     {
       "type": "vless",
-      "tag": "@SiNAVM § 207",
-      "server": "95.164.6.149",
+      "tag": "Channel: @SiNAVM  § 149",
+      "server": "194.4.49.16",
       "server_port": 8880,
       "uuid": "df0680ca-e43c-498d-ed86-8e196eedd012",
       "transport": {
@@ -3746,42 +2272,6 @@
         "ping_timeout": "15s"
       },
       "packet_encoding": "xudp"
-    },
-    {
-      "type": "vless",
-      "tag": "@SiNAVM § 208",
-      "server": "194.4.49.220",
-      "server_port": 8880,
-      "uuid": "df0680ca-e43c-498d-ed86-8e196eedd012",
-      "transport": {
-        "type": "grpc",
-        "idle_timeout": "15s",
-        "ping_timeout": "15s"
-      },
-      "packet_encoding": "xudp"
-    },
-    {
-      "type": "trojan",
-      "tag": "@SiNAVM § 209",
-      "server": "172.67.168.193",
-      "server_port": 443,
-      "password": "9096805c-e6b8-4da9-9bdc-d76e392e6630",
-      "tls": {
-        "enabled": true,
-        "server_name": "gamang.gpj2.dpdns.org",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "gamang.gpj2.dpdns.org"
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      }
     },
     {
       "type": "dns",
@@ -3858,7 +2348,7 @@
     },
     "clash_api": {
       "external_controller": "127.0.0.1:16756",
-      "secret": "1UTy8Ei2AqE3Ikkz"
+      "secret": "t.me/sinavm"
     }
   }
 }
