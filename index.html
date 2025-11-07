@@ -40,6 +40,7 @@
             --clr-iphone: #1e90ff;
             --clr-windows: #6a0dad;
             --clr-mac: #ff8c00;
+            --clr-vip: #ffd700;
             --radius: 12px;
             --transition: all 0.35s cubic-bezier(0.4, 0, 0.2, 1);
             --shadow-sm: 0 4px 15px rgba(0, 0, 0, 0.3);
@@ -221,6 +222,14 @@
         .install-link.mac { background: linear-gradient(135deg, var(--clr-mac), #ff4500); }
         .install-link:hover { transform: translateX(-4px); box-shadow: 0 0 20px rgba(255,255,255,0.4); }
 
+        /* VIP Button - New */
+        .vip-box {
+            background: linear-gradient(135deg, #ffd700, #ff8c00, #c71585);
+            background-size: 200% 200%;
+            animation: gradientShift 3s ease infinite;
+            cursor: pointer;
+        }
+
         footer {
             text-align: center;
             font-size: 0.9rem;
@@ -277,7 +286,7 @@
         <p class="status" aria-live="polite">در حال انتقال کانفیگ به هیدیفای...</p>
         <p class="info">اگر بعد از ۳ ثانیه منتقل نشدید، روی دکمه زیر کلیک کنید:</p>
         <div class="import-btn" onclick="copyConfigLink()" aria-label="کپی و ورود دستی کانفیگ هیدیفای">
-            🚀 ورود دستی کانفیگ Hiddify
+            ورود دستی کانفیگ Hiddify
         </div>
 
         <nav aria-label="لینک‌های قانونی">
@@ -300,9 +309,10 @@
     </aside>
 
     <aside class="aside-right">
+        <!-- دکمه نصب Hiddify -->
         <div class="install-wrapper">
             <div class="box install-box" onclick="toggleDropdown(event)" aria-expanded="false" aria-controls="installDropdown">
-                📱 نصب برنامه Hiddify
+                نصب برنامه Hiddify
             </div>
             <div class="install-dropdown" id="installDropdown">
                 <a href="https://play.google.com/store/apps/details?id=app.hiddify.com&hl=en" target="_blank" class="install-link android" onclick="event.stopPropagation()">
@@ -319,10 +329,15 @@
                 </a>
             </div>
         </div>
+
+        <!-- دکمه جدید VIP -->
+        <a href="https://t.me/sinavm" target="_blank" class="box vip-box" aria-label="خرید سرویس VIP">
+            خرید سرویس VIP
+        </a>
     </aside>
 
     <footer>
-        <p>طراحی و توسعه با ذهن باز توسط <a href="https://t.me/SinaVM" target="_blank">SiNAVM</a> 🪄</p>
+        <p>طراحی و توسعه با ذهن باز توسط <a href="https://t.me/SinaVM" target="_blank">SiNAVM</a></p>
     </footer>
 
     <!-- Toast Notification -->
