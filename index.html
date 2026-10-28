@@ -2,27 +2,27 @@
 <html lang="fa" dir="rtl">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <meta name="description" content="SiNAVM | کانفیگ رایگان Hiddify و Sing-box | وی پی ان پرسرعت، IP ثابت، بدون قطعی. پینگ پایین، پشتیبانی ۲۴/۷، کانال تلگرام فعال.">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="دانلود و افزودن کانفیگ رایگان Hiddify برای موبایل و کامپیوتر؛ راهنمای وارد کردن کانفیگ در ویندوز، مک و لینوکس، کپی لینک اشتراک و دسترسی به آخرین به‌روزرسانی‌های SiNAVM.">
     <meta name="theme-color" content="#0f172a">
-    <meta name="keywords" content="کانفیگ hiddify رایگان, hiddify config, sing-box رایگان, وی پی ان رایگان, کانفیگ hiddify, پروکسی hiddify, دانلود کانفیگ hiddify, hiddify vip, singbox hiddify, v2rayng, nekobox, دور زدن سانسور, کانفیگ رایگان singbox, hiddify ایران">
+    <meta name="keywords" content="کانفیگ رایگان کامپیوتر, کانفیگ رایگان PC, کانفیگ رایگان پی سی, کانفیگ هیدیفای ویندوز, کانفیگ Hiddify, لینک اشتراک Hiddify, آموزش وارد کردن کانفیگ کامپیوتر, کانفیگ رایگان اینترنت, SiNAVM">
     <meta name="author" content="SiNAVM">
     <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
     <link rel="canonical" href="https://sinavm.github.io/sinavm/">
 
-    <title>SiNAVM | دانلود کانفیگ رایگان Hiddify | وی پی ان سریع و ایمن</title>
+    <title>SiNAVM | کانفیگ رایگان Hiddify برای کامپیوتر و موبایل</title>
 
     <!-- Open Graph / Facebook / Telegram Sharing -->
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://sinavm.github.io/sinavm/">
     <meta property="og:title" content="SiNAVM | دانلود کانفیگ رایگان Hiddify | وی پی ان سریع و ایمن">
-    <meta property="og:description" content="نسل جدید کانفیگ‌های هوشمند Hiddify با پینگ پایین، IP ثابت و بدون قطعی. رایگان + VIP. مستقیم وارد برنامه شوید!">
+    <meta property="og:description" content="لینک کانفیگ Hiddify را برای موبایل و کامپیوتر دریافت و کپی کنید؛ همراه با راهنمای افزودن کانفیگ در ویندوز، مک و لینوکس.">
     <meta property="og:site_name" content="SiNAVM">
 
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary">
     <meta name="twitter:title" content="SiNAVM | کانفیگ رایگان Hiddify | وی پی ان هوشمند">
-    <meta name="twitter:description" content="دانلود کانفیگ رایگان Hiddify و Sing-box. اتصال سریع و بدون قطعی.">
+    <meta name="twitter:description" content="کانفیگ رایگان Hiddify برای کامپیوتر و موبایل؛ کپی لینک اشتراک و راهنمای وارد کردن کانفیگ.">
 
     <!-- Structured Data -->
     <script type="application/ld+json">
@@ -49,6 +49,32 @@
           "provider": { "@type": "Organization", "name": "SiNAVM" },
           "areaServed": { "@type": "Country", "name": "Iran" },
           "offers": { "@type": "Offer", "price": "0", "priceCurrency": "IRR", "description": "کانفیگ رایگان + پلن VIP اختصاصی" }
+        }
+      ]
+    }
+    </script>
+
+
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "چطور کانفیگ رایگان Hiddify را در کامپیوتر وارد کنم؟",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "لینک اشتراک را کپی کنید، در برنامه Hiddify گزینه افزودن پروفایل را بزنید و لینک را از Clipboard یا بخش URL وارد کنید."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "چرا Hiddify خودکار باز نمی‌شود؟",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "مرورگر ممکن است باز کردن خودکار برنامه خارجی را مسدود کند. دکمه افزودن دستی را بزنید یا لینک اشتراک را کپی و در Hiddify وارد کنید."
+          }
         }
       ]
     }
@@ -123,7 +149,7 @@
         @keyframes floatOrb { 0%,100% { transform: translate(0,0) scale(1); } 33% { transform: translate(30px,-50px) scale(1.1); } 66% { transform: translate(-20px,20px) scale(0.95); } }
 
         .container {
-            width: 90%; max-width: 480px; z-index: 10; padding: 20px 0;
+            width: min(92%, 760px); max-width: 760px; z-index: 10; padding: 20px 0;
             display: flex; flex-direction: column; gap: 24px;
         }
 
@@ -149,10 +175,11 @@
         }
         .hero p { color: var(--text-muted); font-size: 1rem; margin-bottom: 30px; }
 
-        .action-btn-wrapper { position: relative; margin: 0 auto; width: 100%; }
+        .primary-actions { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 10px; margin-top: 8px; }
+        .action-btn-wrapper { position: relative; margin: 0; width: 100%; min-width: 0; }
         .action-btn {
             display: flex; align-items: center; justify-content: center;
-            width: 100%; padding: 20px; font-size: 1.2rem; font-weight: 700;
+            width: 100%; min-width: 0; padding: 15px 10px; font-size: 1rem; font-weight: 700;
             color: white; text-decoration: none; background: linear-gradient(135deg, var(--primary), var(--accent));
             border-radius: 20px; position: relative; overflow: hidden;
             transition: all 0.4s cubic-bezier(0.4,0,0.2,1);
@@ -170,9 +197,9 @@
 
         .copy-btn {
             display: flex; align-items: center; justify-content: center;
-            width: 100%; padding: 20px; font-size: 1.2rem; font-weight: 700;
+            width: 100%; min-width: 0; padding: 15px 10px; font-size: 1rem; font-weight: 700;
             color: white; text-decoration: none; background: linear-gradient(135deg, var(--primary), var(--cyan));
-            border-radius: 20px; margin-top: 15px; position: relative; overflow: hidden;
+            border-radius: 16px; margin-top: 0; position: relative; overflow: hidden;
             transition: all 0.4s cubic-bezier(0.4,0,0.2,1);
             box-shadow: 0 10px 40px -10px rgba(99,102,241,0.5);
             border: 1px solid rgba(255,255,255,0.2);
@@ -188,7 +215,7 @@
 
         .buy-btn {
             display: flex; align-items: center; justify-content: center;
-            width: 100%; padding: 20px; font-size: 1.2rem; font-weight: 700;
+            width: 100%; padding: 16px; font-size: 1rem; font-weight: 700;
             color: white; text-decoration: none; background: linear-gradient(135deg, var(--accent), var(--primary));
             border-radius: 20px; margin-top: 15px; position: relative; overflow: hidden;
             transition: all 0.4s cubic-bezier(0.4,0,0.2,1);
@@ -236,17 +263,29 @@
             padding: 4px 10px; border-radius: 8px; margin: 2px; font-size: 0.8rem; color: var(--cyan);
         }
 
-        .grid-links { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
+        .grid-links { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 8px; }
+        .app-links { grid-template-columns: repeat(2, minmax(0, 1fr)); }
         .mini-card {
             background: var(--glass); border: 1px solid var(--glass-border);
-            border-radius: 18px; padding: 16px; text-align: center;
+            border-radius: 14px; padding: 10px 6px; min-width: 0; text-align: center;
             text-decoration: none; color: var(--text-main);
             transition: all 0.3s; display: flex; flex-direction: column;
-            align-items: center; justify-content: center; gap: 8px;
+            align-items: center; justify-content: center; gap: 4px;
         }
         .mini-card:hover { background: rgba(255,255,255,0.08); transform: translateY(-2px); }
-        .mini-card i { font-size: 1.5rem; margin-bottom: 5px; background: linear-gradient(to bottom, #fff, #94a3b8); -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
-        .mini-card span { font-size: 0.9rem; font-weight: 500; }
+        .mini-card i { font-size: 1.05rem; margin-bottom: 1px; background: linear-gradient(to bottom, #fff, #94a3b8); -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
+        .mini-card span { font-size: clamp(0.68rem, 1.8vw, 0.82rem); font-weight: 600; white-space: nowrap; }
+        .robot-emoji { font-size: 1rem; line-height: 1.2; }
+        .seo-section { line-height: 1.9; }
+        .seo-section h2 { font-size: 1.25rem; margin-bottom: 10px; color: #e0e7ff; }
+        .seo-section h3 { font-size: 1rem; margin: 16px 0 6px; color: #a5f3fc; }
+        .seo-section p, .seo-section li { color: var(--text-muted); font-size: .92rem; }
+        .seo-section ul { padding-right: 20px; }
+        .status-note { margin-top: 10px; min-height: 1.5em; font-size: .82rem; color: #a5f3fc; }
+        .secondary-link { color: #a5b4fc; overflow-wrap: anywhere; }
+        .faq-item { padding: 12px 0; border-bottom: 1px solid var(--glass-border); }
+        .faq-item:last-child { border-bottom: 0; }
+        .faq-item strong { display:block; margin-bottom: 5px; color: #f8fafc; }
 
         .footer { text-align: center; margin-top: 20px; font-size: 0.8rem; color: rgba(255,255,255,0.3); }
         .footer a { color: rgba(255,255,255,0.5); text-decoration: none; transition: 0.3s; }
@@ -261,6 +300,19 @@
             display: flex; align-items: center; gap: 10px;
         }
         .toast.show { transform: translateX(-50%) translateY(0); opacity: 1; }
+        @media (max-width: 560px) {
+            .container { width: 94%; gap: 16px; }
+            .card { padding: 18px; border-radius: 20px; }
+            .hero h1 { font-size: clamp(1.7rem, 8vw, 2.25rem); }
+            .primary-actions { gap: 8px; }
+            .action-btn, .copy-btn { padding: 13px 6px; font-size: .88rem; border-radius: 14px; }
+            .action-btn i, .copy-btn i { margin-left: 5px; font-size: 1rem; }
+            .buy-btn { padding: 14px; font-size: .95rem; }
+            .grid-links { gap: 6px; }
+            .mini-card { padding: 9px 3px; }
+            .mini-card span { font-size: clamp(.62rem, 2.5vw, .76rem); }
+        }
+        @media (min-width: 900px) { .container { padding-top: 30px; } .hero { padding: 28px; } }
         .toast i { color: #4ade80; }
     </style>
 </head>
@@ -286,17 +338,19 @@
             <h1>اتصال ایمن و سریع</h1>
             <p>نسل جدید کانفیگ‌های هوشمند Hiddify</p>
             
-            <div class="action-btn-wrapper">
-                <button class="action-btn" id="mainBtn" type="button">
-                    <i class="fas fa-bolt"></i>
-                    افزودن دستی کانفیگ  
+            <div class="primary-actions">
+                <div class="action-btn-wrapper">
+                    <button class="action-btn" id="mainBtn" type="button" aria-label="افزودن کانفیگ به Hiddify">
+                        <i class="fas fa-bolt" aria-hidden="true"></i>
+                        <span>افزودن دستی</span>
+                    </button>
+                </div>
+                <button class="copy-btn" id="copyBtn" type="button" aria-label="کپی لینک کانفیگ">
+                    <i class="fas fa-copy" aria-hidden="true"></i>
+                    <span>کپی کانفیگ</span>
                 </button>
             </div>
-
-            <button class="copy-btn" id="copyBtn" type="button">
-                <i class="fas fa-copy"></i>
-                کپی لینک کانفیگ
-            </button>
+            <div class="status-note" id="actionStatus" role="status" aria-live="polite">تا ۳ ثانیه دیگر تلاش می‌کنیم Hiddify را با کانفیگ SiNAVM باز کنیم.</div>
 
             <button class="buy-btn" id="buyBtn" type="button">
                 <i class="fas fa-crown"></i>
@@ -362,6 +416,37 @@
             </div>
         </div>
 
+        <section class="card seo-section" aria-labelledby="pc-config-title">
+            <h2 id="pc-config-title">کانفیگ رایگان کامپیوتر و PC</h2>
+            <p>اگر به دنبال کانفیگ رایگان کامپیوتر، کانفیگ رایگان PC یا لینک اشتراک Hiddify برای ویندوز، مک و لینوکس هستید، از دکمه «کپی کانفیگ» استفاده کنید و لینک را در برنامه Hiddify وارد کنید. برای وارد شدن مستقیم، برنامه باید نصب باشد و مرورگر اجازه باز کردن لینک برنامه را بدهد.</p>
+            <h3>آموزش افزودن کانفیگ در کامپیوتر</h3>
+            <ul>
+                <li>برنامه Hiddify را روی ویندوز، macOS یا لینوکس نصب و اجرا کنید.</li>
+                <li>روی «کپی کانفیگ» بزنید تا لینک اشتراک در کلیپ‌بورد کپی شود.</li>
+                <li>در Hiddify گزینه افزودن پروفایل (+) را انتخاب کنید و لینک را از Clipboard وارد کنید؛ در صورت نیاز می‌توانید لینک را دستی در بخش URL بچسبانید.</li>
+                <li>اگر لینک وارد نشد، بررسی کنید لینک کامل کپی شده باشد و با https:// شروع شود.</li>
+            </ul>
+            <h3>کانفیگ رایگان برای اینترنت محدود یا نت ملی</h3>
+            <p>عبارت‌هایی مانند کانفیگ رایگان نت ملی، کانفیگ رایگان کامپیوتر و کانفیگ Hiddify ویندوز معمولاً برای پیدا کردن راهنمای اتصال جست‌وجو می‌شوند. عملکرد هر لینک به دسترس‌پذیری سرور، شبکه و به‌روز بودن اشتراک بستگی دارد؛ بنابراین اتصال یا سرعت مشخصی تضمین نمی‌شود.</p>
+            <p>لینک اشتراک را فقط از منبعی دریافت کنید که به آن اعتماد دارید و از منتشر کردن لینک شخصی اشتراک خودداری کنید.</p>
+        </section>
+
+        <section class="card seo-section" aria-labelledby="faq-title">
+            <h2 id="faq-title">پرسش‌های متداول</h2>
+            <div class="faq-item">
+                <strong>چرا Hiddify بعد از چند ثانیه خودکار باز نمی‌شود؟</strong>
+                <p>بعضی مرورگرها باز شدن خودکار برنامه‌های خارجی را مسدود می‌کنند. دکمه «افزودن دستی» را خودتان بزنید؛ اگر برنامه نصب نباشد یا باز شدن لینک مجاز نباشد، از «کپی کانفیگ» استفاده کنید.</p>
+            </div>
+            <div class="faq-item">
+                <strong>آیا لینک کپی‌شده در کامپیوتر هم کار می‌کند؟</strong>
+                <p>بله، لینک اشتراک را می‌توانید در Hiddify دسکتاپ از مسیر افزودن پروفایل وارد کنید. دکمه‌های این صفحه در دسکتاپ نیز فعال هستند.</p>
+            </div>
+            <div class="faq-item">
+                <strong>اگر کانفیگ اضافه نشد چه کار کنم؟</strong>
+                <p>نسخه به‌روز Hiddify را اجرا کنید، لینک کامل را کپی کنید و اتصال اینترنت خود را بررسی کنید. ممکن است اشتراک منقضی یا سرور موقتاً در دسترس نباشد.</p>
+            </div>
+        </section>
+
         <div class="footer">
             Design & Config by <a href="https://t.me/sinavm">SiNAVM</a>
             <br>
@@ -379,99 +464,120 @@
         const device = (() => {
             const ua = navigator.userAgent || '';
             if (/Android/i.test(ua)) return 'android';
-            const isIOS = /iPad|iPhone|iPod/.test(ua) || 
-                         (/Macintosh/i.test(ua) && (navigator.maxTouchPoints || 0) > 1);
+            const isIOS = /iPad|iPhone|iPod/.test(ua) ||
+                (/Macintosh/i.test(ua) && (navigator.maxTouchPoints || 0) > 1);
             return isIOS ? 'ios' : 'desktop';
         })();
 
-        const configLinks = {
-            android: 'https://drive.google.com/uc?id=1yHwnUNOcCjMxvok8UHaboT0M2VM3FiNK',
-            ios: 'https://drive.google.com/uc?id=1Z9r3ctiqdg7rde4dMzm2Wm4D1KIGYDB_'
-        };
+        // One shared Sing-box/VLESS subscription for iPhone, Android and desktop.
+        const subscriptionUrl = 'https://github.com/sinavm/SVM/raw/refs/heads/main/lite/subscriptions/singbox/vless.json';
+        const profileTitle = 'SiNAVM - Hiddify';
 
+        function getConfigUrl() {
+            // Copyable subscription URL with the requested profile title.
+            return subscriptionUrl + '#' + profileTitle;
+        }
+
+        // Hiddify's documented URL scheme: hiddify://import/<subscription-url>#<profile-title>
         function getDeepLink() {
-            const baseUrl = configLinks[device] || configLinks.ios;
-            return `hiddify://import?url=${baseUrl}#👊🏼@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرام`;
+            return 'hiddify://import/' + subscriptionUrl + '#' + encodeURIComponent(profileTitle);
+        }
+
+        const statusEl = document.getElementById('actionStatus');
+        function setStatus(message) {
+            if (statusEl) statusEl.textContent = message;
+        }
+
+        function showToast(message) {
+            const toast = document.getElementById('toast');
+            if (!toast) return;
+            const label = toast.querySelector('span');
+            if (label) label.textContent = message;
+            toast.classList.add('show');
+            window.setTimeout(() => toast.classList.remove('show'), 2400);
         }
 
         function openConfigLink() {
-            const link = getDeepLink();
-            const iframe = document.createElement('iframe');
-            iframe.style.cssText = 'display:none;width:0;height:0;border:0;';
-            iframe.src = link;
-            document.body.appendChild(iframe);
-            setTimeout(() => {
-                if (iframe && iframe.parentNode) iframe.parentNode.removeChild(iframe);
-            }, 2000);
+            const deepLink = getDeepLink();
+            setStatus('در حال تلاش برای باز کردن Hiddify… اگر باز نشد، لینک را کپی کنید.');
+            // Use a direct navigation rather than a hidden iframe: browsers often ignore
+            // custom schemes inside hidden iframes, especially on newer mobile browsers.
+            const startedAt = Date.now();
+            window.location.href = deepLink;
+
+            // Keep a visible fallback. Browsers cannot reliably confirm whether the app opened.
+            window.setTimeout(() => {
+                if (Date.now() - startedAt < 2500) return;
+                setStatus('اگر Hiddify باز نشد، برنامه را نصب کنید یا روی «کپی کانفیگ» بزنید.');
+            }, 1600);
         }
 
-        let autoCancelled = false;
-        let copyCancelled = false;
+        async function copyText(text) {
+            // Clipboard API normally requires HTTPS and a user gesture.
+            if (navigator.clipboard && window.isSecureContext) {
+                await navigator.clipboard.writeText(text);
+                return true;
+            }
+
+            // Fallback for older browsers / non-secure contexts.
+            const textarea = document.createElement('textarea');
+            textarea.value = text;
+            textarea.setAttribute('readonly', '');
+            textarea.style.position = 'fixed';
+            textarea.style.opacity = '0';
+            textarea.style.left = '-9999px';
+            document.body.appendChild(textarea);
+            textarea.focus();
+            textarea.select();
+            let ok = false;
+            try { ok = document.execCommand('copy'); } catch (_) { ok = false; }
+            textarea.remove();
+            if (!ok) throw new Error('Clipboard permission unavailable');
+            return true;
+        }
 
         const mainBtn = document.getElementById('mainBtn');
         if (mainBtn) {
-            mainBtn.addEventListener('click', (e) => {
-                e.preventDefault();
-                autoCancelled = true;
+            mainBtn.addEventListener('click', (event) => {
+                event.preventDefault();
                 openConfigLink();
             });
-
-            if (device === 'desktop') {
-                mainBtn.style.opacity = "0.6";
-                mainBtn.style.pointerEvents = "none";
-                mainBtn.style.cursor = "not-allowed";
-            }
         }
 
         const copyBtn = document.getElementById('copyBtn');
         if (copyBtn) {
-            copyBtn.addEventListener('click', (e) => {
-                e.preventDefault();
-                copyCancelled = true;
-                navigator.clipboard.writeText(getDeepLink()).then(() => {
-                    const toast = document.getElementById('toast');
-                    toast.classList.add('show');
-                    setTimeout(() => toast.classList.remove('show'), 2200);
-                }).catch(() => {
-                    const textarea = document.createElement('textarea');
-                    textarea.value = getDeepLink();
-                    document.body.appendChild(textarea);
-                    textarea.select();
-                    document.execCommand('copy');
-                    document.body.removeChild(textarea);
-                    const toast = document.getElementById('toast');
-                    toast.classList.add('show');
-                    setTimeout(() => toast.classList.remove('show'), 2200);
-                });
+            copyBtn.addEventListener('click', async (event) => {
+                event.preventDefault();
+                try {
+                    // Copy the actual HTTPS subscription URL, which can be pasted into
+                    // Hiddify on both mobile and desktop. Do not copy the app-only scheme.
+                    await copyText(getConfigUrl());
+                    showToast('لینک کانفیگ کپی شد!');
+                    setStatus('لینک اشتراک SiNAVM کپی شد؛ آن را در Hiddify وارد کنید.');
+                } catch (error) {
+                    setStatus('مرورگر اجازه کپی خودکار نداد؛ لینک را از اینجا کپی کنید: ' + getConfigUrl());
+                    showToast('کپی خودکار انجام نشد');
+                }
             });
-
-            if (device === 'desktop') {
-                copyBtn.style.opacity = "0.6";
-                copyBtn.style.pointerEvents = "none";
-                copyBtn.style.cursor = "not-allowed";
-            }
         }
 
         const buyBtn = document.getElementById('buyBtn');
         if (buyBtn) {
-            buyBtn.addEventListener('click', (e) => {
-                e.preventDefault();
-                window.open('https://t.me/sinavmbot', '_blank');
+            buyBtn.addEventListener('click', (event) => {
+                event.preventDefault();
+                window.open('https://t.me/sinavmbot', '_blank', 'noopener,noreferrer');
             });
-
-            if (device === 'desktop') {
-                buyBtn.style.opacity = "0.6";
-                buyBtn.style.pointerEvents = "none";
-                buyBtn.style.cursor = "not-allowed";
-            }
         }
 
-        setTimeout(() => {
-            if (!autoCancelled && device !== 'desktop' && document.visibilityState === 'visible') {
-                autoCancelled = true;
-                openConfigLink();
-            }
-        }, 4000);
+        // Attempt to open Hiddify on every device 3 seconds after page load.
+        // Browsers/OS settings can block launching external apps without a user gesture,
+        // so the manual-import and copy buttons remain available as fallbacks.
+        let autoImportAttempted = false;
+        window.setTimeout(() => {
+            if (autoImportAttempted || document.visibilityState !== 'visible') return;
+            autoImportAttempted = true;
+            openConfigLink();
+        }, 3000);
 
         function toggleVip() {
             const content = document.getElementById('vipContent');
@@ -488,8 +594,6 @@
                 .then(d => visitEl.innerText = 'Visits: ' + d)
                 .catch(() => visitEl.innerText = 'Visits: --');
         }
-
-        document.addEventListener('contextmenu', event => event.preventDefault());
-    </script>
+</script>
 </body>
 </html>
